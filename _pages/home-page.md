@@ -49,6 +49,6 @@ published: true
 
 &nbsp;
 
-&nbsp;
+[playlist ids="408,407"]
 
 </form>
