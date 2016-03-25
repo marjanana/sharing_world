@@ -5,7 +5,8 @@ author: pmbenp@earthlink.net
 post_date: 2016-03-25 19:19:25
 post_excerpt: ""
 layout: page
-permalink: http://www.sharingworld.com/?page_id=437
+permalink: >
+  http://www.sharingworld.com/checkout/purchase-history
 published: true
 ---
 [purchase_history]
