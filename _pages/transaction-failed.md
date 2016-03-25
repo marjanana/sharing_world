@@ -5,7 +5,8 @@ author: pmbenp@earthlink.net
 post_date: 2016-03-25 19:19:23
 post_excerpt: ""
 layout: page
-permalink: http://www.sharingworld.com/?page_id=436
+permalink: >
+  http://www.sharingworld.com/checkout/transaction-failed
 published: true
 ---
 Your transaction failed, please try again or contact site support.
