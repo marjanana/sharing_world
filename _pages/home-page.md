@@ -49,7 +49,7 @@ published: true
 
 &nbsp;
 
-&nbsp;
+[playlist ids="410,415,414,413,412,411"]
 
 &nbsp;
 
