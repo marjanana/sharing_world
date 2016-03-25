@@ -8,7 +8,7 @@ layout: page
 permalink: http://www.sharingworld.com/
 published: true
 ---
-<h2 style="text-align: center;"></h2>
+
 <p style="text-align: center;"><span style="color: #99cc00;"><strong>‘The Music of Reading’ Song Picture Book Series:</strong></span></p>
 <strong>1. Mixed Bag For Kids</strong>
 (Picture Book/free music download)
@@ -48,7 +48,3 @@ published: true
 <hr />
 
 &nbsp;
-
-</form>
-
-[lab_subscriber_download_form download_id=1]
