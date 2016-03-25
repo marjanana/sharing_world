@@ -49,8 +49,4 @@ published: true
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 </form>
