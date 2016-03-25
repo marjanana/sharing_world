@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: ""
+post_title: Reading Encouragement Products
 author: pmbenp@earthlink.net
 post_date: 2016-02-15 00:42:31
 post_excerpt: ""
@@ -8,7 +8,7 @@ layout: page
 permalink: http://www.sharingworld.com/
 published: true
 ---
-<h2 style="text-align: center;"><span style="color: #800080;"><strong>Reading Encouragement Products</strong></span></h2>
+<h2 style="text-align: center;"></h2>
 <p style="text-align: center;"><span style="color: #99cc00;"><strong>‘The Music of Reading’ Song Picture Book Series:</strong></span></p>
 <strong>1. Mixed Bag For Kids</strong>
 (Picture Book/free music download)
