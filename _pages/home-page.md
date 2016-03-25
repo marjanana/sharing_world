@@ -50,3 +50,5 @@ published: true
 &nbsp;
 
 </form>
+
+[lab_subscriber_download_form download_id=1]
