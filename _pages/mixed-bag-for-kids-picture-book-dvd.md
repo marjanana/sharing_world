@@ -5,7 +5,8 @@ author: pmbenp@earthlink.net
 post_date: 2016-02-20 19:44:53
 post_excerpt: ""
 layout: page
-permalink: http://www.sharingworld.com/?page_id=246
+permalink: >
+  http://www.sharingworld.com/mixed-bag-for-kids-picture-book-dvd
 published: true
 ---
 <h3><a href="http://www.sharingworld.com/?page_id=6"><strong>← BACK</strong></a></h3>

@@ -5,7 +5,7 @@ author: pmbenp@earthlink.net
 post_date: 2016-02-20 14:08:10
 post_excerpt: ""
 layout: page
-permalink: http://www.sharingworld.com/?page_id=128
+permalink: http://www.sharingworld.com/pay-online
 published: true
 ---
 We accept online payments!

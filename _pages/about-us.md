@@ -5,7 +5,7 @@ author: pmbenp@earthlink.net
 post_date: 2016-02-20 20:50:25
 post_excerpt: ""
 layout: page
-permalink: http://www.sharingworld.com/?page_id=285
+permalink: http://www.sharingworld.com/about-us
 published: true
 ---
 Sharing World Entertainment, LLC (SWE) is a multi-media company that creates and distributes content for children’s literacy, learning and human understanding.  SWE was formed in 2008–after the legendary singer/song-   writer and social activist, Richie Havens, became inspired by the animated visual language inventions of Kyle Morris. Together they started producing fun educational products, that enable any child anywhere to learn how to read as   naturally as learning how to sing. The resulting  “Big Picture For Little People” focuses on fostering the literacy and language skills of early readers in a mindful, nurturing and parent/teacher friendly manner.
