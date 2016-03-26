@@ -8,10 +8,9 @@ layout: page
 permalink: http://www.sharingworld.com/
 published: true
 ---
-
 <p style="text-align: center;"><span style="color: #99cc00;"><strong>‘The Music of Reading’ Song Picture Book Series:</strong></span></p>
 <strong>1. Mixed Bag For Kids</strong>
-(Picture Book/free music download)
+(Picture Book/<a href="http://www.sharingworld.com/checkout" target="_blank">free music download</a>)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /><a href="http://www.sharingworld.com/?page_id=204"><img class="alignleft wp-image-178" src="http://www.sharingworld.com/wp-content/uploads/2016/03/frontMB-e1455985000943.jpg" alt="frontMB" width="145" height="145" /></a>
 <input name="hosted_button_id" type="hidden" value="6CGBNPJ5FG3QS" />
@@ -48,3 +47,5 @@ published: true
 <hr />
 
 &nbsp;
+
+</form>
