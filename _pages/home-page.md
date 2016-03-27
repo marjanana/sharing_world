@@ -15,7 +15,7 @@ published: true
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /><a href="http://www.sharingworld.com/?page_id=204"><img class="alignleft wp-image-178" src="http://www.sharingworld.com/wp-content/uploads/2016/03/frontMB-e1455985000943.jpg" alt="frontMB" width="145" height="145" /></a>
 <input name="hosted_button_id" type="hidden" value="6CGBNPJ5FG3QS" />
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>&nbsp;
+<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form> [purchase_link id="470" text="Purchase" style="button" color="blue"]&nbsp;
 <p style="text-align: left;"><strong>2. Mixed Bag For Kids</strong>
 (Picture Book/DVD)</p>
 <p style="text-align: center;"><a href="http://www.sharingworld.com/?page_id=246"><img class="wp-image-174 size-medium alignleft" src="http://www.sharingworld.com/wp-content/uploads/2016/03/front-DVD-300x141.jpg" alt="front &amp; DVD" width="300" height="141" /></a></p>
