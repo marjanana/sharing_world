@@ -46,6 +46,6 @@ published: true
 
 <hr />
 
-[download id="517"]
+[download id="518, 519"]
 
 </form>
