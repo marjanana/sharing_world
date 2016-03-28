@@ -46,6 +46,6 @@ published: true
 
 <hr />
 
-<a href="http://www.sharingworld.com/checkout">MP3 Album Download</a> with purchased book.
+[ec_cart]
 
 </form>
