@@ -46,6 +46,6 @@ published: true
 
 <hr />
 
-[ec_cart]
+&nbsp;
 
 </form>
