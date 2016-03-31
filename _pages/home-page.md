@@ -42,4 +42,4 @@ published: true
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="FVAFBPTUCL8V8" />
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form><span><a href="http://[email-download-link namefield=&quot;YES&quot; id=&quot;1&quot;]">[email-download-link namefield="YES" id="1"]</a></span>
+<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form><span><a href="http://[email-download-link namefield=&quot;YES&quot; id=&quot;2&quot;]" target="_blank">[email-download-link namefield="YES" id="2"]</a></span>
