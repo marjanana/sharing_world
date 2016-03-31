@@ -9,4 +9,4 @@ permalink: >
   http://www.sharingworld.com/purchase-confirmation
 published: true
 ---
-Thank you for your purchase! [edd_receipt]
+<span>[email-download-link namefield="YES" id="1"]</span>
