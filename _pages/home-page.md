@@ -8,14 +8,7 @@ layout: page
 permalink: http://www.sharingworld.com/
 published: true
 ---
-<div class="ecwid ecwid-SingleProduct ecwid-Product ecwid-Product-61930898" itemscope="" itemtype="http://schema.org/Product" data-single-product-id="61930898">
-<div itemprop="image"></div>
-<div class="ecwid-title" itemprop="name"></div>
-<div customprop="addtobag"></div>
-</div>
-<script src="https://app.ecwid.com/script.js?8964166&amp;data_platform=singleproduct" type="text/javascript" charset="utf-8"></script><script type="text/javascript">// <![CDATA[
-xSingleProduct()
-// ]]></script>
+
 <p style="text-align: center;"><span style="color: #99cc00;"><strong>‘The Music of Reading’ Song Picture Book Series:</strong></span></p>
 <strong>1. Mixed Bag For Kids</strong>
 (Picture Book/<a href="http://www.sharingworld.com/checkout" target="_blank">free music download</a>)
