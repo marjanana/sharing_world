@@ -8,6 +8,8 @@ layout: page
 permalink: http://www.sharingworld.com/
 published: true
 ---
+<div class="ecwid ecwid-SingleProduct ecwid-Product ecwid-Product-61930898" itemscope itemtype="http://schema.org/Product" data-single-product-id="61930898"><div itemprop="image"></div><div class="ecwid-title" itemprop="name"></div><div customprop="addtobag"></div></div><script type="text/javascript" src="https://app.ecwid.com/script.js?8964166&data_platform=singleproduct" charset="utf-8"></script><script type="text/javascript">xSingleProduct()</script>
+<p style="text-align: center;"></p>
 <p style="text-align: center;"><span style="color: #99cc00;"><strong>‘The Music of Reading’ Song Picture Book Series:</strong></span></p>
 <strong>1. Mixed Bag For Kids</strong>
 (Picture Book/<a href="http://www.sharingworld.com/checkout" target="_blank">free music download</a>)
@@ -42,8 +44,7 @@ published: true
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="FVAFBPTUCL8V8" />
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
-<!--End mc_embed_signup-->
+<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form><!--End mc_embed_signup-->
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
 <div id="mc_embed_signup_scroll"></div>
 </form></div>
