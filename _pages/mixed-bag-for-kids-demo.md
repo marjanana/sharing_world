@@ -10,8 +10,7 @@ permalink: >
 published: true
 ---
 <h3><a href="http://www.sharingworld.com/?page_id=6"><strong>← BACK</strong></a></h3>
-
-[audio mp3="http://www.sharingworld.com/wp-content/uploads/2016/02/01-Welcome-To-My-Castle.mp3"][/audio]
+[audio mp3="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3" autoplay="true"][/audio]
 
 [URIS id=219]
 
