@@ -8,22 +8,32 @@ layout: page
 permalink: http://www.sharingworld.com/
 published: true
 ---
+<h5 style="text-align: center;"><span style="color: #99cc00;"><strong>THE MUSIC OF READING </strong></span></h5>
+<h3 style="text-align: center;"><span style="color: #800080;"><strong>Mixed Bag For Kids - Song Picture Book</strong></span></h3>
+[audio mp3="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3"][/audio]
 
-<p style="text-align: center;"><span style="color: #99cc00;"><strong>‘The Music of Reading’ Song Picture Book Series:</strong></span></p>
-<strong>1. Mixed Bag For Kids</strong>
-(Picture Book/<a href="http://www.sharingworld.com/checkout" target="_blank">free music download</a>)
+[URIS id=219]
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /><a href="http://www.sharingworld.com/?page_id=204"><img class="alignleft wp-image-178" src="http://www.sharingworld.com/wp-content/uploads/2016/03/frontMB-e1455985000943.jpg" alt="frontMB" width="145" height="145" /></a>
-<input name="hosted_button_id" type="hidden" value="6CGBNPJ5FG3QS" />
-<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>&nbsp;
-<p style="text-align: left;"><strong>2. Mixed Bag For Kids</strong>
-(Picture Book/DVD)</p>
-<p style="text-align: center;"><a href="http://www.sharingworld.com/?page_id=246"><img class="wp-image-174 size-medium alignleft" src="http://www.sharingworld.com/wp-content/uploads/2016/03/front-DVD-300x141.jpg" alt="front &amp; DVD" width="300" height="141" /></a></p>
+This 40-page, fully illustrated, family-friendly teaching tool comes with folk &amp; pop CD containing six children-appropriate songs performed by Richie Havens. Easy-to-read lyrics, along with related learning activities, such as games, dance/singing exercises, puzzles, and writing/drawing participation, makes for shared enjoyment of all involved with initial readers, i.e., parent, grandparents, teachers…
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="ZPPYM92BZ8544" />
-<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" /> </form><img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" />
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input name="hosted_button_id" type="hidden" value="4UJMPC4E52SJY" />
+<table>
+<tbody>
+<tr>
+<td><input name="on0" type="hidden" value="Music options" />Music options</td>
+</tr>
+<tr>
+<td><select name="os0">
+<option value="CD">CD $24.95 USD</option>
+<option value="Mp3 Album Download">Mp3 Album Download $19.95 USD</option>
+</select></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" type="image" />
+<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></p>
+
+</form>
 
 <hr />
 
