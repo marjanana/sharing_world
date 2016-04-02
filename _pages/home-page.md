@@ -15,23 +15,18 @@ published: true
 [URIS id=219]
 
 This 40-page, fully illustrated, family-friendly teaching tool comes with folk &amp; pop CD containing six children-appropriate songs performed by Richie Havens. Easy-to-read lyrics, along with related learning activities, such as games, dance/singing exercises, puzzles, and writing/drawing participation, makes for shared enjoyment of all involved with initial readers, i.e., parent, grandparents, teachers…
-<table style="height: 70px;" width="818">
+<h4 style="text-align: center;"><span style="color: #3366ff;">Original Songs, Vol.1</span></h4>
+<table width="100%">
 <tbody>
 <tr>
-<td style="text-align: center;"><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="AWGSYQFAHXU6S">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-</td>
-<td><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="QYENL5DQB9NZA">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-</td>
+<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input name="cmd" type="hidden" value="_s-xclick" />
+<input name="hosted_button_id" type="hidden" value="AWGSYQFAHXU6S" />Mp3 Download
+<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" type="image" />
+<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
+<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input name="cmd" type="hidden" value="_s-xclick" />
+<input name="hosted_button_id" type="hidden" value="QYENL5DQB9NZA" />CD
+<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" type="image" />
+<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
 </tr>
 </tbody>
 </table>
