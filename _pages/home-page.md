@@ -13,16 +13,14 @@ published: true
 [audio mp3="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3"][/audio]
 
 [URIS id=219]
-
-This 40-page, fully illustrated, family-friendly teaching tool comes with MB Album, Original Songs, Vol.1 containing six children-appropriate songs performed by Richie Havens. Easy-to-read lyrics, along with related learning activities, such as games, dance/singing exercises, puzzles, and writing/drawing participation, makes for shared enjoyment of all involved with initial readers, i.e., parent, grandparents, teachers…
-<table width="90%">
+<table>
 <tbody>
 <tr>
-<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+This 40-page, fully illustrated, family-friendly teaching tool comes with MB Album, Original Songs, Vol.1 containing six children-appropriate songs performed by Richie Havens. Easy-to-read lyrics, along with related learning activities, such as games, dance/singing exercises, puzzles, and writing/drawing participation, makes for shared enjoyment of all involved with initial readers, i.e., parent, grandparents, teachers…<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="XUF77GQMNA23C" />MB-Song Picture Book/MP3 Download
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
-<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="8ZUGGKKDDZYS6" />MB-Song Picture Book/CD
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
@@ -40,31 +38,36 @@ This 40-page, fully illustrated, family-friendly teaching tool comes with MB Alb
 <table width="90%">
 <tbody>
 <tr>
-<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="BDY9TA7HVF4SS" />DVD
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
-<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="TNJAMNCVMC282" /> Digital download
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
 </tr>
 </tbody>
 </table>
+
+<hr />
 <p style="text-align: center;"><b>2.Mother Goose</b></p>
 <p style="text-align: left;"><a href="http://www.sharingworld.com/?page_id=261"><img class="wp-image-187 aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/03/MotherG-DVD-e1455987496182.jpg" alt="MotherG DVD" width="120" height="119" /></a></p>
 
-<table width="90%">
+<table style="height: 108px;" width="740">
 <tbody>
 <tr>
-<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="9Q67ERBU9CLAS" />DVD
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
-<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="US5V9QNU4QU4W" />Digital Download
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
 </tr>
 </tbody>
 </table>
+&nbsp;
+
+&nbsp;
