@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: Reading Encouragement Products
+post_title: ""
 author: pmbenp@earthlink.net
 post_date: 2016-02-15 00:42:31
 post_excerpt: ""
@@ -8,8 +8,7 @@ layout: page
 permalink: http://www.sharingworld.com/
 published: true
 ---
-<h5 style="text-align: center;"><span style="color: #99cc00;">THE<strong> MUSIC OF READING </strong></span></h5>
-<h3 style="text-align: center;"><span style="color: #800080;"><strong>Mixed Bag For Kids - Song Picture Book</strong></span></h3>
+<p style="text-align: center;"><span style="color: #800080;"><strong>Mixed Bag For Kids - Song Picture Book</strong></span></p>
 [audio mp3="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3"][/audio]
 
 [URIS id=219]
@@ -73,6 +72,3 @@ This 40-page, fully illustrated, family-friendly teaching tool comes with MB Alb
 </tr>
 </tbody>
 </table>
-&nbsp;
-
-&nbsp;
