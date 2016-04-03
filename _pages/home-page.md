@@ -56,7 +56,7 @@ This 40-page, fully illustrated, family-friendly teaching tool comes with MB Alb
 
 <h3 style="text-align: center;"><span style="color: #800080;"><b>Mother Goose</b></span></h3>
 <p style="text-align: left;"><span>As host and performer, Richie Havens beautifully renders eight classic Mother Goose songs and helps pre-school readers (ages 2–4) to learn the letters of the alphabet and count-to-ten. In this gently animated video, the musical flow ensures that repeated song lyrics ‘come alive’.</span></p>
-<p style="text-align: center">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="640" height="480" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-vid.jpg"] [video_lightbox_youtube video_id="iT_JJqQj7Dw" width="60%" height="auto" anchor="Demo"]
+<p style="text-align: center">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="640" height="480" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-vid.jpg"] [video_lightbox_youtube video_id="iT_JJqQj7Dw" width="60%" height="40%" anchor="Demo"]
 <table style="height: 108px;" width="740">
 <tbody>
 <tr>
