@@ -35,8 +35,8 @@ This 40-page, fully illustrated, family-friendly teaching tool comes with MB Alb
 &nbsp;
 <p style="text-align: center;"><span style="color: #99cc00;"><strong>‘Reading Encouragement’ Video Series: </strong></span></p>
 <p style="text-align: center;"><strong>1.Mister Word Wizard</strong></p>
-<p style="text-align: center;"><a href="http://www.sharingworld.com/?page_id=254"><img class="wp-image-194 aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/03/Word-Wizard-DVD-e1455989827591.jpg" alt="Word Wizard DVD" width="120" height="119" /></a></p>
 
+<p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="640" height="480" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/kids.jpg"]</p>
 <table width="90%">
 <tbody>
 <tr>
@@ -54,7 +54,7 @@ This 40-page, fully illustrated, family-friendly teaching tool comes with MB Alb
 
 <hr />
 <p style="text-align: center;"><b>2.Mother Goose</b></p>
-<p style="text-align: left;"><a href="http://www.sharingworld.com/?page_id=261"><img class="wp-image-187 aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/03/MotherG-DVD-e1455987496182.jpg" alt="MotherG DVD" width="120" height="119" /></a></p>
+<p style="text-align: left;">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="640" height="480" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image.jpg"]</p>
 
 <table style="height: 108px;" width="740">
 <tbody>
@@ -71,5 +71,5 @@ This 40-page, fully illustrated, family-friendly teaching tool comes with MB Alb
 </tbody>
 </table>
 &nbsp;
-[print_responsive_video_gallery_plus_lightbox] 
+
 &nbsp;
