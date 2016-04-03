@@ -33,10 +33,11 @@ This 40-page, fully illustrated, family-friendly teaching tool comes with MB Alb
 <hr />
 
 &nbsp;
-<p style="text-align: center;"><span style="color: #99cc00;"><strong>‘Reading Encouragement’ Video Series: </strong></span></p>
-<p style="text-align: center;"><strong>1.Mister Word Wizard</strong></p>
+<h5 style="text-align: center;"><span style="color: #99cc00;"><strong>READING ENCOURAGEMENT VIDEO SERIES </strong></span></h5>
+<h3 style="text-align: center;"><span style="color: #800080;"><strong>Mister Word Wizard</strong></span></h3>
+<p style="text-align: left;">Pilot Episode is featuring patented ReadSpeak Visual Language captions.This engaging, award winning video production, starring Richie Havens, represents the inspired blueprint iteration of a narrative-based, curriculum-infused, fantasy series — targeting initial readers, age 5–8.</p>
+<p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="640" height="480" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-image.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="640" height="480" anchor="Demo"]</p>
 
-<p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="640" height="480" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/kids.jpg"]</p>
 <table width="90%">
 <tbody>
 <tr>
@@ -53,7 +54,10 @@ This 40-page, fully illustrated, family-friendly teaching tool comes with MB Alb
 </table>
 
 <hr />
-<p style="text-align: center;"><b>2.Mother Goose</b></p>
+<p style="text-align: center;"></p>
+
+<h3 style="text-align: center;"><span style="color: #800080;"><b>Mother Goose</b></span></h3>
+<p style="text-align: left;"><span>As host and performer, Richie Havens beautifully renders eight classic Mother Goose songs and helps pre-school readers (ages 2–4) to learn the letters of the alphabet and count-to-ten. In this gently animated video, the musical flow ensures that repeated song lyrics ‘come alive’.</span></p>
 <p style="text-align: left;">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="640" height="480" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image.jpg"]</p>
 
 <table style="height: 108px;" width="740">
