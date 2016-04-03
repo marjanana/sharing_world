@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: ""
+post_title: READING ENCOURAGEMENT PRODUCTS
 author: pmbenp@earthlink.net
 post_date: 2016-02-15 00:42:31
 post_excerpt: ""
@@ -8,7 +8,8 @@ layout: page
 permalink: http://www.sharingworld.com/
 published: true
 ---
-<p style="text-align: center;"><span style="color: #800080;"><strong>Mixed Bag For Kids - Song Picture Book</strong></span></p>
+<h5 style="text-align: center;"><span style="color: #99cc00;"><strong>SONG PICTURE BOOK </strong></span></h5>
+<p style="text-align: center;"><span style="color: #800080;"><strong>Mixed Bag For Kids</strong></span></p>
 [audio mp3="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3"][/audio]
 
 [URIS id=219]
@@ -32,7 +33,7 @@ This 40-page, fully illustrated, family-friendly teaching tool comes with MB Alb
 <hr />
 
 &nbsp;
-<h5 style="text-align: center;"><span style="color: #99cc00;"><strong>READING ENCOURAGEMENT VIDEO SERIES </strong></span></h5>
+<h5 style="text-align: center;"><span style="color: #99cc00;"><strong> VIDEO SERIES </strong></span></h5>
 <h3 style="text-align: center;"><span style="color: #800080;"><strong>Mister Word Wizard</strong></span></h3>
 <p style="text-align: left;">Pilot Episode is featuring patented ReadSpeak Visual Language captions.This engaging, award winning video production, starring Richie Havens, represents the inspired blueprint iteration of a narrative-based, curriculum-infused, fantasy series — targeting initial readers, age 5–8.</p>
 <p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-video-skin.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="Demo"]</p>
