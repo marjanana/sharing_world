@@ -9,6 +9,7 @@ permalink: >
   http://www.sharingworld.com/mp3-album-original-songs-vol-1
 published: true
 ---
+[isell_download_page]
 Thank you for subscribing to our mailing list. You can listen Mixed Bag For Kids MP3 Album: Original Songs, Vol. 1 below or download them to your computer.
 
 [playlist ids="57,60,61,62,63,64"]
