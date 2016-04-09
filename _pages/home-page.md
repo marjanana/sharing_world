@@ -73,3 +73,5 @@ This 40-page, fully illustrated, family-friendly print comes with MB Album, Orig
 </tr>
 </tbody>
 </table>
+
+[paypal_for_digital_goods name="Mr Word Wizard Digital DOwnload" price="25" url="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-to-ReadSpeak3.mp4" button_text="Buy Now"]
