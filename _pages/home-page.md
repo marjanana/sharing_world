@@ -10,10 +10,8 @@ published: true
 ---
 <h5 style="text-align: center;"><span style="color: #99cc00;"><strong>SONG PICTURE BOOK </strong></span></h5>
 <p style="text-align: center;"><span style="color: #800080;"><strong>Mixed Bag For Kids</strong></span></p>
-[audio mp3="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3"][/audio]
 
 [URIS id=219]
-
 This 40-page, fully illustrated, family-friendly print comes with MB Album, Original Songs, Vol.1 containing six children-appropriate songs performed by Richie Havens. Easy-to-read lyrics, along with related learning activities, such as games, dance/singing exercises, puzzles, and writing/drawing participation, makes for shared enjoyment of all involved with initial readers, i.e., parent, grandparents, teachers…
 <table>
 <tbody>
@@ -73,5 +71,3 @@ This 40-page, fully illustrated, family-friendly print comes with MB Album, Orig
 </tr>
 </tbody>
 </table>
-
-[paypal_for_digital_goods name="Mr Word Wizard Digital DOwnload" price="25" url="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-to-ReadSpeak3.mp4" button_text="Buy Now"]
