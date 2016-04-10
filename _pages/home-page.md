@@ -41,12 +41,13 @@ This 40-page, fully illustrated, family-friendly print comes with MB Album, Orig
 
    <form action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283"   method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
-  <h2>Subscribe to our mailing list</h2>
+  <p>If you purchased the book and wish to download the full album, please fill out the form below</p>
 
     <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
     <div class="mc-field-group">
-  <label for="mce-MMERGE3">Add ISBN number<span class="asterisk">*</span></label>
+  <label for="mce-MMERGE3">Add ISBN number without dashes<span class="asterisk">*</span></label>
   <input type="text" maxlength="13" name="MMERGE3" class="required" id='numbers' id="mce-MMERGE3">
+  <p style="font-size: 10px;">ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book</p>
     </div>
       <div class="mc-field-group">
   <label for="mce-FNAME">First Name </label>
