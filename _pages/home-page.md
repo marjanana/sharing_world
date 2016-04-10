@@ -122,10 +122,8 @@ function isNumeric(elem, helperMsg){
 		return true;
 	}else{
 		alert(helperMsg);
-              	elem.focus();
+		elem.focus();
 		return false;
-                
-               
 	}
 }
 </script>
