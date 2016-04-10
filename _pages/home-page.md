@@ -122,8 +122,7 @@ function isNumeric(elem, helperMsg){
 		return true;
 	}else{
 		alert(helperMsg);
-                submit.disabled = true;
-		elem.focus();
+              	elem.focus();
 		return false;
                 
                
