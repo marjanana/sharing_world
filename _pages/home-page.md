@@ -77,33 +77,33 @@ This 40-page, fully illustrated, family-friendly print comes with MB Album, Orig
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
 
    <form action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283"   method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
-    <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+  <h2>Subscribe to our mailing list</h2>
 
+    <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
     <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+  <label for="mce-MMERGE3">Add ISBN number<span class="asterisk">*</span></label>
+  <input type="text" maxlength="13" name="MMERGE3" class="required" id='numbers' id="mce-MMERGE3">
+    </div>
+      <div class="mc-field-group">
+  <label for="mce-FNAME">First Name </label>
+  <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
     </div>
     <div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+  <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>
+  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
     </div>
-    <div class="mc-field-group">
-	<label for="mce-MMERGE3">Add ISBN number<span class="asterisk">*</span></label>
-	<input type="text" maxlength="13" name="MMERGE3" class="required" id='numbers' id="mce-MMERGE3">
-    </div>
-	
+  
     <div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
+    <div class="response" id="mce-error-response" style="display:none"></div>
+    <div class="response" id="mce-success-response" style="display:none"></div>
     </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8a8e432459ea439225841d8fe_ea083f7283" tabindex="-1" value=""></div>
 
@@ -117,14 +117,16 @@ This 40-page, fully illustrated, family-friendly print comes with MB Album, Orig
 
 <script type='text/javascript'>
 function isNumeric(elem, helperMsg){
-	var numericExpression = 9780578173009;
-	if(elem.value.match(numericExpression)){
-		return true;
-	}else{
-		alert(helperMsg);
-		elem.focus();
-		return false;
-	}
+        var correct = "9780578173009";
+        var guess = document.getElementById("numbers").value;
+          while (guess != correct){
+         guess = prompt ("ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book; enter the number without dashes");
+        if (guess == correct){
+         return submit;
+        } else {
+    alert ("that's not it...");
+  }
+}
 }
 </script>
 
