@@ -116,15 +116,17 @@ This 40-page, fully illustrated, family-friendly print comes with MB Album, Orig
 
 
 <script type='text/javascript'>
-function validate() {
-var numericExpression = 9780578173009;
-var x = document.getElementById("numbers").value;
-  while (numericExpression !== "9780578173009"){
-      alert("ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book; Please the  enter the valid number without dashes");
-         return false;
-    } else {
-        return true;
-    }
+function isNumeric(elem, helperMsg){
+        var correct = "9780578173009";
+        var guess = document.getElementById("numbers").value;
+          while (guess != correct){
+         guess = prompt ("ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book; enter the number in the area below without dashes");
+        if (guess == correct){
+         return submit;
+        } else {
+    alert ("it starts with: 9780....");
+  }
+}
 }
 </script>
 
