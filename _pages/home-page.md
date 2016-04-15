@@ -23,15 +23,15 @@ This 40-page, fully illustrated, family-friendly print comes with MB Album, Orig
 <td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="XUF77GQMNA23C">MB-Song Picture Book/MP3 Download
-<input type="image" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<input type="image" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png"  border="none"  background:#FFF name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </td>
 <td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="8ZUGGKKDDZYS6">MB-Song Picture Book/CD
 <input type="image" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<img alt="" border="0" >
 </form>
 </td>
 </tr>
@@ -108,10 +108,14 @@ function isNumeric(elem, helperMsg){
 <table width="90%">
 <tbody>
 <tr>
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="BDY9TA7HVF4SS" />DVD
-<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
+<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="W7W43BGQSWXKC"> DVD
+<input type="image" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+</td>
 <td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="TNJAMNCVMC282" /> Digital download
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
