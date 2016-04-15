@@ -116,10 +116,7 @@ function isNumeric(elem, helperMsg){
 </form>
 
 </td>
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="TNJAMNCVMC282" /> Digital download
-<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
+<td style="background-color: #ffffff; border: 0;"><a href="http://www.payloadz.com/go/sip?id=3123269" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" alt="buy now-small" width="100" height="27" class="alignnone size-full wp-image-689" /></a></td>
 </tr>
 </tbody>
 </table>
