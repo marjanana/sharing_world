@@ -7,6 +7,10 @@ post_excerpt: ""
 layout: page
 permalink: http://www.sharingworld.com/
 published: true
+wp_booklet2_properties:
+  - 'a:12:{s:5:"width";s:3:"600";s:6:"height";s:3:"400";s:5:"speed";s:4:"1000";s:5:"delay";s:4:"5000";s:9:"direction";s:3:"LTR";s:14:"arrows_enabled";b:0;s:20:"page_numbers_enabled";b:1;s:14:"cover_behavior";s:4:"open";s:7:"padding";s:2:"10";s:18:"thumbnails_enabled";b:0;s:13:"popup_enabled";s:0:"";s:5:"theme";s:7:"default";}'
+wp_booklet2_pages:
+  - null
 ---
 <h5 style="text-align: center;"><span style="color: #99cc00;"><strong>SONG PICTURE BOOK </strong></span></h5>
 <p style="text-align: center;"><span style="color: #800080;"><strong>Mixed Bag For Kids</strong></span></p>
@@ -16,10 +20,13 @@ This 40-page, fully illustrated, family-friendly print comes with MB Album, Orig
 <table>
 <tbody>
 <tr>
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="XUF77GQMNA23C" />MB-Song Picture Book/MP3 Download
-<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
+<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="XUF77GQMNA23C">MB-Song Picture Book/MP3 Download
+<input type="image" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</td>
 <td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="8ZUGGKKDDZYS6" />MB-Song Picture Book/CD
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
