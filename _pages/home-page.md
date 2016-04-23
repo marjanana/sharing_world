@@ -91,11 +91,12 @@ function isNumeric(elem, helperMsg){
 }
 </script>
 
+
 <!--End mc_embed_signup-->
 
 <hr />
 
-&nbsp;
+
 <h5 style="text-align: center;"><span style="color: #99cc00;"><strong> VIDEO SERIES </strong></span></h5>
 <h3 style="text-align: center;"><span style="color: #800080;"><strong> Word Wizards</strong></span></h3>
 <p style="text-align: left;">Pilot Episode is featuring patented ReadSpeak Visual Language captions.This engaging, award winning video production, starring Richie Havens, represents the inspired blueprint iteration of a narrative-based, curriculum-infused, fantasy series — targeting initial readers, age 5–8.</p>
