@@ -69,7 +69,7 @@ This 40-page, fully illustrated, family-friendly print comes with MB Album, Orig
     </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8a8e432459ea439225841d8fe_ea083f7283" tabindex="-1" value=""></div>
 
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="isNumeric(document.getElementById('numbers'), 'ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book; enter the number without dashes')" ></div>
+    <div class="clear"><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="isNumeric(document.getElementById('numbers'), 'ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book; enter the number without dashes')" ></div>
     </div>
 </form>
 </div>
