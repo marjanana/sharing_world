@@ -13,9 +13,10 @@ wp_booklet2_pages:
   - null
 ---
 <h1 style="text-align: center;"><span style="color: #3366ff;"><strong>SONG PICTURE BOOK </strong></span></h1>
-<p style="text-align: center;"><span style="color: #800080;"><strong>Mixed Bag For Kids</strong></span></p>
+
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
+<p style="text-align: left"><span style="color: #800080;"><strong>Mixed Bag For Kids</strong></span></p>
 This 40-page, fully illustrated, family-friendly print comes with MB Album, Original Songs, Vol.1 containing six children-appropriate songs performed by Richie Havens. Easy-to-read lyrics, along with related learning activities, such as games, dance/singing exercises, puzzles, and writing/drawing participation, makes for shared enjoyment of all involved with initial readers, i.e., parent, grandparents, teachers…
 <table>
 <tbody>
@@ -95,15 +96,15 @@ function isNumeric(elem, helperMsg){
 <hr />
 
 <h1 style="text-align: center;"><span style="color: #3366ff;"><strong>VIDEO SERIES </strong></span></h1>
-<h3 style="text-align: center;"><span style="color: #800080;"><strong> Word Wizards</strong></span></h3>
+<h3 style="text-align: left;"><span style="color: #800080;"><strong> Word Wizards</strong></span></h3>
 <p style="text-align: left;">Pilot Episode is featuring patented ReadSpeak Visual Language captions.This engaging, award winning video production, starring Richie Havens, represents the inspired blueprint iteration of a narrative-based, curriculum-infused, fantasy series — targeting initial readers, age 5–8.</p>
 <p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-video-skin.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="Demo"]</p>
 <p style="border: 0px; text-align: center; background-color: #ffffff;">Digital Download<a href="http://www.payloadz.com/go/sip?id=3123269" target="paypal"><img class="size-full wp-image-689 aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" alt="buy now-small" width="100" height="27" /></a></p>
 
 
 <hr />
-
-<h3 style="text-align: center;"><span style="color: #800080;"><b>Mother Goose Nursery Rhyme</b></span></h3>
+<br/>
+<h3 style="text-align: left;"><span style="color: #800080;"><b>Mother Goose Nursery Rhyme</b></span></h3>
 <p style="text-align: left;"><span>As host and performer, Richie Havens beautifully renders eight classic Mother Goose songs and helps pre-school readers (ages 2–4) to learn the letters of the alphabet and count-to-ten. In this gently animated video, the musical flow ensures that repeated song lyrics ‘come alive’.</span></p>
 <p style="text-align: center;">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-vid.jpg"] [video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="Demo"]</p>
 <p style="border: 0px; text-align: center; background-color: #ffffff;">Digital Download<a href="http://www.payloadz.com/go/sip?id=3123309" target="paypal">
