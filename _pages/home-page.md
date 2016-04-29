@@ -102,7 +102,7 @@ function isNumeric(elem, helperMsg){
 
 
 <hr />
-
+<br/>
 <h3 style="text-align: left;"><span style="color: #800080;"><b>Mother Goose Nursery Rhyme</b></span></h3>
 <p style="text-align: left;"><span>As host and performer, Richie Havens beautifully renders eight classic Mother Goose songs and helps pre-school readers (ages 2–4) to learn the letters of the alphabet and count-to-ten. In this gently animated video, the musical flow ensures that repeated song lyrics ‘come alive’.</span></p>
 <p style="text-align: center;">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-vid.jpg"] [video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="Demo"]</p>
