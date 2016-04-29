@@ -10,7 +10,7 @@ published: true
 wp_booklet2_properties:
   - 'a:12:{s:5:"width";s:3:"600";s:6:"height";s:3:"400";s:5:"speed";s:4:"1000";s:5:"delay";s:4:"5000";s:9:"direction";s:3:"LTR";s:14:"arrows_enabled";b:0;s:20:"page_numbers_enabled";b:1;s:14:"cover_behavior";s:4:"open";s:7:"padding";s:2:"10";s:18:"thumbnails_enabled";b:0;s:13:"popup_enabled";s:0:"";s:5:"theme";s:7:"default";}'
 wp_booklet2_pages:
-  - ""
+  - null
 ---
 <h5 style="text-align: center;"><span style="color: #99cc00;"><strong>SONG PICTURE BOOK </strong></span></h5>
 <p style="text-align: center;"><span style="color: #800080;"><strong>Mixed Bag For Kids</strong></span></p>
@@ -21,7 +21,7 @@ This 40-page, fully illustrated, family-friendly print comes with MB Album, Orig
 <tbody>
 <tr>
 <td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="XUF77GQMNA23C" />MB-Song Picture Book/MP3 Download
+<input name="hosted_button_id" type="hidden" value="XUF77GQMNA23C" />MB-Song Picture Book/Music Download
 <input style="border: none; background: #FFF;" alt="PayPal - The safer, easier way to pay online!" name="submit" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" type="image" />
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" /></form></td>
 <td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
@@ -102,17 +102,9 @@ function isNumeric(elem, helperMsg){
 <p style="text-align: left;">Pilot Episode is featuring patented ReadSpeak Visual Language captions.This engaging, award winning video production, starring Richie Havens, represents the inspired blueprint iteration of a narrative-based, curriculum-infused, fantasy series — targeting initial readers, age 5–8.</p>
 <p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-video-skin.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="Demo"]</p>
 
-<table width="90%">
-<tbody>
-<tr>
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="BDY9TA7HVF4SS" />DVD
-<input style="border: none; background: #FFF;" alt="PayPal - The safer, easier way to pay online!" name="submit" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
-<td style="border: 0px; text-align: center; background-color: #ffffff;">Digital Download<a href="http://www.payloadz.com/go/sip?id=3123269" target="paypal"><img class="size-full wp-image-689 aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" alt="buy now-small" width="100" height="27" /></a></td>
-</tr>
-</tbody>
-</table>
+
+<p style="border: 0px; text-align: center; background-color: #ffffff;">Digital Download<a href="http://www.payloadz.com/go/sip?id=3123269" target="paypal"><img class="size-full wp-image-689 aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" alt="buy now-small" width="100" height="27" /></a></p>
+
 
 <hr />
 
@@ -120,17 +112,5 @@ function isNumeric(elem, helperMsg){
 <p style="text-align: left;"><span>As host and performer, Richie Havens beautifully renders eight classic Mother Goose songs and helps pre-school readers (ages 2–4) to learn the letters of the alphabet and count-to-ten. In this gently animated video, the musical flow ensures that repeated song lyrics ‘come alive’.</span></p>
 <p style="text-align: center;">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-vid.jpg"] [video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="Demo"]</p>
 
-<table style="height: 108px;" width="740">
-<tbody>
-<tr>
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="9Q67ERBU9CLAS" />DVD
-<input style="border: none; background: #FFF;" alt="PayPal - The safer, easier way to pay online!" name="submit" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="US5V9QNU4QU4W" />Digital Download
-<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></td>
-</tr>
-</tbody>
-</table>
+<p style="border: 0px; text-align: center; background-color: #ffffff;">Digital Download<a href="http://www.payloadz.com/go/sip?id=3123309" target="paypal">
+<img class="size-full wp-image-689 aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" border="0" > </a></p>
