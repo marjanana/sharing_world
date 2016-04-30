@@ -13,7 +13,7 @@ wp_booklet2_pages:
   - null
 ---
 <h1 style="text-align: center;"><span style="color: #3366ff;"><strong>SONG PICTURE BOOK </strong></span></h1>
-<p style="text-align: center;"><span style="color: #800080;"><strong>Mixed Bag For Kids</strong></span></p>
+<p style="text-align: left;"><span style="color: #800080;"><strong>Mixed Bag For Kids</strong></span></p>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
 This 40-page, fully illustrated, family-friendly print comes with MB Album, Original Songs, Vol.1 containing six children-appropriate songs performed by Richie Havens. Easy-to-read lyrics, along with related learning activities, such as games, dance/singing exercises, puzzles, and writing/drawing participation, makes for shared enjoyment of all involved with initial readers, i.e., parent, grandparents, teachers…
