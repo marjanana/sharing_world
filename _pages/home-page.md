@@ -47,7 +47,7 @@ This 40-page, fully illustrated, family-friendly printed book comes with the Mix
 
    <form action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283"   method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
-  <p>If you purchased the book and wish to download the full album, please fill out the form below</p>
+  <p>If you purchased the book in a bookstore and wish to download the full album, please fill out the form below</p>
 
     <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
     <div class="mc-field-group">
