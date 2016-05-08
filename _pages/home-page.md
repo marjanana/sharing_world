@@ -96,7 +96,7 @@ function isNumeric(elem, helperMsg){
 
 <hr />
 
-<h1 style="text-align: center;"><span style="color: #3366ff;"><strong>VISIBLE LANGUAGE VIDEOS </strong></span></h1>
+<h1 style="text-align: center;"><span style="color: #3366ff;"><strong>VISUAL LANGUAGE VIDEOS </strong></span></h1>
 <h3 style="text-align: left;"><span style="color: #800080;"><strong> Word Wizards TV Pilot Episode: <span style="color: #99cc00;">"Search for the Missing 'S' Word"</span></strong></span></h3>
 <p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-video-skin.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="Demo"]</p>
 <p style="text-align: left;">The Word Wizards TV Pilot Episode features patented ReadSpeak Visual Language captions.This engaging, award winning video production, starring Richie Havens, shows a narrative-based, curriculum-infused, search adventure fantasy series — targeting initial readers, ages 5–8.</p>
