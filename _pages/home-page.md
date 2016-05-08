@@ -13,7 +13,7 @@ wp_booklet2_pages:
   - null
 ---
 <p style="text-align: center;"><span style="color: #3366ff;font-size: 32px; font-size: 2rem;"><strong>SONG PICTURE BOOK </strong></span>
-<span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px">-featuring Lyric 4 Literacy&trade;-</span></p>
+<span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px">Featuring Lyric 4 Literacy&trade;</span></p>
 <p style="text-align: left;"><span style="color: #800080;"><strong>Mixed Bag<span style="color: #00ff00;"> For Kids of All Ages</span><span style="color: #3366ff;">:</span> Vol. 1 </strong></span></p>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
