@@ -13,10 +13,11 @@ wp_booklet2_pages:
   - null
 ---
 <h1 style="text-align: center;"><span style="color: #3366ff;"><strong>SONG PICTURE BOOK </strong></span></h1>
+<p style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px">-featuring Lyric 4 Literacy-</p>
 <p style="text-align: left;"><span style="color: #800080;"><strong>Mixed Bag<span style="color: #00ff00;"> For Kids of All Ages</span><span style="color: #3366ff;">:</span> Vol. 1 </strong></span></p>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
-This 40-page, fully illustrated, family-friendly printed book comes with the Mixed Bag for Kids Album, Original Songs, Vol.1 (available in both CD and digital format) containing six child-appropriate songs performed by Richie Havens. Easy-to-read lyrics, along with related learning activities, such as games, dance/singing exercises, puzzles, and writing/drawing participation, makes for shared enjoyment of all involved with initial readers,such as parents, grandparents, teachers…
+This 40-page, fully illustrated, family-friendly printed book comes with the Mixed Bag for Kids Album, Original Songs, Vol.1 (available in both CD and digital format) containing six child-appropriate songs performed by Richie Havens. Utilizing Lyric 4 Literacy's easy-to-read lyrics, along with related learning activities, such as games, dance/singing exercises, puzzles, and writing/drawing participation, makes for shared enjoyment of all involved with initial readers,such as parents, grandparents, teachers…
 <table>
 <tbody>
 <tr>
