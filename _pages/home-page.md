@@ -110,7 +110,7 @@ The elusive magic word dwells in an astonishing Visible Language Castle, where t
 <hr />
 
 &nbsp;
-<h3 style="text-align: left;"><span style="color: #800080;"><b>The Sing-Along Word Wizard: <span style="color: #99cc00;">"Mother Goose Nursery Rhymes"</span></b></span></h3>
+<h3 style="text-align: left;"><span style="color: #800080;"><b>The Sing-Along Word Wizard: <span style="color: #99cc00;">"Mother Goose Nursery Rhymes "</span> (Ages 1-4)</b></span></h3>
 <p style="text-align: center;">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-vid.jpg"] [video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="Demo"]</p>
 <p style="text-align: left;"><span>As the host and performer in an animated "Visible Language" landscape, Richie Havens renders eight classic Mother Goose songs with endearing warmth. </span></p>
 Preschoolers now sing-along with lyrics that come alive, as the spoken word magically becomes the written word.Two additional musical segments make mastering the alphabet and count-to-ten know-how as easy as 1-2-3.
