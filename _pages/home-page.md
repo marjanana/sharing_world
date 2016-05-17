@@ -41,6 +41,7 @@ Legendary Woodstock icon Richie Havens plays Mister Word Wizard, singing six ori
 </table>
 
 <hr />
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -52,7 +53,7 @@ Legendary Woodstock icon Richie Havens plays Mister Word Wizard, singing six ori
 
    <form action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283"   method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
-  <p>If you've purchased the book in a bookstore or a retail chain, please complete form below to download the MP3 album.</p>
+  <p>If you've purchased the book in a bookstore or a  retail chain, please complete form below to download the MP3 album.</p>
 
     <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
     <div class="mc-field-group">
@@ -75,7 +76,9 @@ Legendary Woodstock icon Richie Havens plays Mister Word Wizard, singing six ori
     </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8a8e432459ea439225841d8fe_ea083f7283" tabindex="-1" value=""></div>
 
-    <div class="clear"><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="isNumeric(document.getElementById('numbers'), 'ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book; enter the number without dashes')" ></div>
+    <div class="clear"><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="isNumeric(document.getElementById('numbers'), 'ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book; enter the number without dashes')" >
+<p style=" font-size: 10px">We will not intentionally sell, share, or distribute your personal information to third parties.</p>
+</div>
     </div>
 </form>
 </div>
@@ -97,10 +100,10 @@ function isNumeric(elem, helperMsg){
 }
 }
 </script>
-
 <hr />
 
-<h1 style="text-align: center;"><span style="color: #3366ff;"><strong>VISUAL LANGUAGE VIDEOS </strong></span></h1><h3 style="text-align: left;"><span style="color: #800080;"><strong>Word Wizards TV Pilot Episode: <span style="color: #99cc00;">"Search for the Missing 'S' Word"</span></strong> (Ages 4-8)</span></h3>
+<h1 style="text-align: center;"><span style="color: #3366ff;"><strong>VISUAL LANGUAGE VIDEOS </strong></span></h1>
+<h3 style="text-align: left;"><span style="color: #800080;"><strong>Word Wizards TV Pilot Episode: <span style="color: #99cc00;">"Search for the Missing 'S' Word"</span></strong> (Ages 4-8)</span></h3>
 <p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-video-skin.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="Demo"]</p>
 <p style="text-align: left;">Word Wizards is a live action fantasy-adventure that sweeps three self-centered kids on a competitive quest for a missing word that can change the world.</p>
 The elusive magic word dwells in an astonishing Visible Language Castle, where the "me-first" explorers meet madcap characters and a guitar-strumming "Mister Word Wizard" (Richie Havens). The children, guided by colorful clues and much wit, whimsy and wisdom, stumble upon the true meaning of the word "share," which is revealed when they all finally begin working together as a team.
