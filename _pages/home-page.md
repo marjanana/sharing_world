@@ -17,12 +17,9 @@ wp_booklet2_pages:
 <p style="text-align: left;"><span style="color: #800080;"><strong>Mixed Bag<span style="color: #00ff00;"> For Kids of All Ages</span><span style="color: #3366ff;">:</span> Volume 1 </strong></span></p>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
-Nurture the confidence of beginning readers (ages 4-8) with Mixed Bag For Kids Of All Ages. This delightfully illustrated "Song Picture Book" features <em>Lyrics 4 Literacy,</em> an innovative approach to learning. The proven methodology harnesses the power of music to promote high quality, one-on-one, interaction between children and adults. With Lyrics 4 Literacy added to the mix, this racially, culturally and ethnically diverse product makes learning to read as rewarding and fun as singing a song together.
+Nurture the confidence of beginning readers (ages 4-8) with Mixed Bag For Kids for All Ages! This delightfully illustrated, 40-page "Song Picture Book" features <em>Lyrics 4 Literacy,</em> an innovative approach to learning. The proven methodology harnesses playful, lyrics-related activities that foster word recognition, reading fluency and retention, pronunciation, spelling, and writing. <br/> <br/>
+The power of music promotes high quality, one-on-one, interaction between children and adults. Legendary Woodstock icon, Richie Havens, plays Mister Word Wizard, singing six original children’s songs for all to enjoy the "Music of Reading" together.
 
-The bonding benefits of a sing-along, read-along, learn-along experience promise your child a leg up on literacy.You'll share playful, lyrics-related activities that foster word recognition, reading fluency and retention, pronunciation, spelling, writing, drawing, dancing, and social skills.
-
-Legendary Woodstock icon Richie Havens plays Mister Word Wizard, singing six original children’s songs* for all to enjoy the "Music of Reading" together.
-<span style="font-size: 11px;">*Available in digital and CD formats</span>
 <table>
 <tbody>
 <tr>
