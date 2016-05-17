@@ -12,24 +12,23 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="text-align: center;"><span style="color: #3366ff;font-size: 32px; font-size: 2rem;"><strong>SONG PICTURE BOOK </strong></span>
-<span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px">Featuring Lyric 4 Literacy&trade;</span></p>
-<p style="text-align: left;"><span style="color: #800080;"><strong>Mixed Bag<span style="color: #00ff00;"> For Kids of All Ages</span><span style="color: #3366ff;">:</span> Vol. 1 </strong></span></p>
+<p style="text-align: center;"><span style="color: #3366ff; font-size: 2rem;"><strong>SONG PICTURE BOOK </strong></span>
+<span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px;">Featuring Lyrics 4 Literacy™</span></p>
+<p style="text-align: left;"><span style="color: #800080;"><strong>Mixed Bag<span style="color: #00ff00;"> For Kids of All Ages</span><span style="color: #3366ff;">:</span> Volume 1 </strong></span></p>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
-Nurture the confidence of beginning readers (ages 4-8) with Mixed Bag For Kids Of All Ages. This delightfully illustrated "Song Picture Book" features Lyrics 4 Literacy, an innovative approach to learning. The proven methodology harnesses the power of music to promote high quality, one-on-one, interaction between children and adults. With Lyrics 4 Literacy added to the mix, this racially, culturally and ethnically diverse product makes learning to read as rewarding and fun as singing a song together. 
+Nurture the confidence of beginning readers (ages 4-8) with Mixed Bag For Kids Of All Ages. This delightfully illustrated "Song Picture Book" features <em>Lyrics 4 Literacy,</em> an innovative approach to learning. The proven methodology harnesses the power of music to promote high quality, one-on-one, interaction between children and adults. With Lyrics 4 Literacy added to the mix, this racially, culturally and ethnically diverse product makes learning to read as rewarding and fun as singing a song together.
 
-The bonding benefits of a sing-along, read-along, learn-along experience promise your child a leg up on literacy.You'll share playful, lyrics-related activities that foster word recognition, reading fluency and retention, pronunciation, spelling, writing, drawing, dancing, and social skills. 
+The bonding benefits of a sing-along, read-along, learn-along experience promise your child a leg up on literacy.You'll share playful, lyrics-related activities that foster word recognition, reading fluency and retention, pronunciation, spelling, writing, drawing, dancing, and social skills.
 
 Legendary Woodstock icon Richie Havens plays Mister Word Wizard, singing six original children’s songs* for all to enjoy the "Music of Reading" together.
 <span style="font-size: 11px;">*Available in digital and CD formats</span>
-
 <table>
 <tbody>
 <tr>
 <td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input name="hosted_button_id" type="hidden" value="XUF77GQMNA23C" />
-<span style="font-size: 16px;">Book/Music Download</span>
+<span style="font-size: 16px;">Book/MP3 Download</span>
 <input style="border: none; background: #FFF;" alt="PayPal - The safer, easier way to pay online!" name="submit" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" type="image" />
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" /></form></td>
 <td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
@@ -42,7 +41,6 @@ Legendary Woodstock icon Richie Havens plays Mister Word Wizard, singing six ori
 </table>
 
 <hr />
-
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -54,7 +52,7 @@ Legendary Woodstock icon Richie Havens plays Mister Word Wizard, singing six ori
 
    <form action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283"   method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
-  <p>If you purchased the book in a bookstore and wish to download the full album, please fill out the form below</p>
+  <p>If you've purchased the book in a bookstore or a retail chain, please complete form below to download the MP3 album.</p>
 
     <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
     <div class="mc-field-group">
@@ -100,16 +98,13 @@ function isNumeric(elem, helperMsg){
 }
 </script>
 
-
 <hr />
 
 <h1 style="text-align: center;"><span style="color: #3366ff;"><strong>VISUAL LANGUAGE VIDEOS </strong></span></h1>
 <h3 style="text-align: left;"><span style="color: #800080;"><strong> Word Wizards TV Pilot Episode: <span style="color: #99cc00;">"Search for the Missing 'S' Word"</span></strong></span></h3>
 <p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-video-skin.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="Demo"]</p>
-<p style="text-align: left;">Word Wizards is a live action fantasy-adventure that sweeps three self-centered kids on a competitive quest for a missing word that can change the world.  
-
+<p style="text-align: left;">Word Wizards is a live action fantasy-adventure that sweeps three self-centered kids on a competitive quest for a missing word that can change the world.</p>
 The elusive magic word dwells in an astonishing Visible Language Castle, where the "me-first" explorers meet madcap characters and a guitar-strumming "Mister Word Wizard" (Richie Havens). The children, guided by colorful clues and much wit, whimsy and wisdom, stumble upon the true meaning of the word "share," which is revealed when they all finally begin working together as a team.
-</p>
 <p style="border: 0px; text-align: center; background-color: #ffffff;">Digital Download<a href="http://www.payloadz.com/go/sip?id=3123269" target="paypal"><img class="size-full wp-image-689 aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" alt="buy now-small" width="100" height="27" /></a></p>
 
 
@@ -117,11 +112,8 @@ The elusive magic word dwells in an astonishing Visible Language Castle, where t
 
 &nbsp;
 <h3 style="text-align: left;"><span style="color: #800080;"><b>The Sing-Along Word Wizard: <span style="color: #99cc00;">"Mother Goose Nursery Rhymes"</span></b></span></h3>
-
 <p style="text-align: center;">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-vid.jpg"] [video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="Demo"]</p>
-<p style="text-align: left;"><span>As the host and performer in an animated "Visible Language" landscape, Richie Havens renders eight classic Mother Goose songs with endearing warmth. 
-
-Preschoolers now sing-along with lyrics that come alive, as the spoken word magically becomes the written word.Two additional musical segments make mastering the alphabet and count-to-ten know-how as easy as 1-2-3.  
-</span></p>
+<p style="text-align: left;"><span>As the host and performer in an animated "Visible Language" landscape, Richie Havens renders eight classic Mother Goose songs with endearing warmth. </span></p>
+Preschoolers now sing-along with lyrics that come alive, as the spoken word magically becomes the written word.Two additional musical segments make mastering the alphabet and count-to-ten know-how as easy as 1-2-3.
 <p style="border: 0px; text-align: center; background-color: #ffffff;">Digital Download<a href="http://www.payloadz.com/go/sip?id=3123309" target="paypal">
 <img class="size-full wp-image-689 aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" alt="" border="0" /> </a></p>
