@@ -100,8 +100,7 @@ function isNumeric(elem, helperMsg){
 
 <hr />
 
-<h1 style="text-align: center;"><span style="color: #3366ff;"><strong>VISUAL LANGUAGE VIDEOS </strong></span></h1>
-<h3 style="text-align: left;"><span style="color: #800080;"><strong> Word Wizards TV Pilot Episode: <span style="color: #99cc00;">"Search for the Missing 'S' Word"</span></strong></span></h3>
+<h1 style="text-align: center;"><span style="color: #3366ff;"><strong>VISUAL LANGUAGE VIDEOS </strong></span></h1><h3 style="text-align: left;"><span style="color: #800080;"><strong>Word Wizards TV Pilot Episode: <span style="color: #99cc00;">"Search for the Missing 'S' Word"</span></strong> (Ages 4-8)</span></h3>
 <p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-video-skin.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="Demo"]</p>
 <p style="text-align: left;">Word Wizards is a live action fantasy-adventure that sweeps three self-centered kids on a competitive quest for a missing word that can change the world.</p>
 The elusive magic word dwells in an astonishing Visible Language Castle, where the "me-first" explorers meet madcap characters and a guitar-strumming "Mister Word Wizard" (Richie Havens). The children, guided by colorful clues and much wit, whimsy and wisdom, stumble upon the true meaning of the word "share," which is revealed when they all finally begin working together as a team.
