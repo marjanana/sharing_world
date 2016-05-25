@@ -20,59 +20,16 @@ wp_booklet2_pages:
 Nurture the confidence of beginning readers (ages 4-8) with Mixed Bag For Kids for All Ages! This delightfully illustrated, 40-page "Song Picture Book" features <em>Lyrics 4 Literacy,</em> an innovative approach to learning. The proven methodology harnesses playful, lyrics-related activities that foster word recognition, reading fluency and retention, pronunciation, spelling, and writing.
 
 The power of music promotes high quality, one-on-one, interaction between children and adults. Legendary Woodstock icon, Richie Havens, plays Mister Word Wizard, singing six original children’s songs for all to enjoy the "Music of Reading" together.
-<table>
-<tbody>
-<tr>
-<td style="background-color: #ffffff; border: 0;">
-<form target="paypal"action="https://www.payloadz.com/go/?tangible=1" method="post" >
-<span style="font-size: 16px;">Book/MP3 Download</span>
-<input style="border: none; background: #FFF;" type="image" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" border="0" name="submit" alt="Tangible goods purchase - Download with PayLoadz">
-<input type="hidden" name="cmd" value="_cart">
-<input type="hidden" name="business" value="sharingworld9@gmail.com" >
-<input type="hidden" name="item_name" value="Mixed Bag for Kids: Book/MP3 Download">
-<input type="hidden" name="item_number" value="MB-mp3">
-<input type="hidden" name="amount" value="19.95">
-<input type="hidden" name="no_shipping" value="2">
-<input type="hidden" name="return" value="https://www.payloadz.com/d1/default.aspx">
-<input type="hidden" name="no_note" value="1">
+<table style="margin-bottom: 0">
 
-<input type="hidden" name="notify_url" value="http://www.payloadz.com/pay/index.asp">
-<input type="hidden" name="shipping" value="4.95">
-<input type="hidden" name="handling" value="0.00">
-<input type="hidden" name="rm" value="2">
-<input type="hidden" name="mrb" value="R-5L192964UH642590D">
-<input type="hidden" name="bn" value="PayLoadz">
-<input type="hidden" name="pal" value="QNV3YGA7EVCDE">
-<input type="hidden" name="cbt" value="Continue to Download">
-<input type ="hidden" name ="tangible" value = "true">
-<input type ="hidden" name ="shopping_url " value ="">
-</form></td>
+<tr style="margin-bottom: 0">
+<td style="background-color: #ffffff; border: 0; margin: 0"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size:16px>Book/MP3 Download</span>
+<input name=submit type=image alt="Tangible goods purchase - Download with PayLoadz"border=0 src=http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png style=border:none;background:#FFF><input name=cmd type=hidden value=_cart> <input name=business type=hidden value=sharingworld9@gmail.com> <input name=item_name type=hidden value="Mixed Bag for Kids: Book/MP3 Download"> <input name=item_number type=hidden value=MB-mp3> <input name=amount type=hidden value=19.95> <input name=no_shipping type=hidden value=2> <input name=return type=hidden value=https://www.payloadz.com/d1/default.aspx> <input name=no_note type=hidden value=1>  <input name=notify_url type=hidden value=http://www.payloadz.com/pay/index.asp> <input name=shipping type=hidden value=4.95> <input name=handling type=hidden value=0.00> <input name=rm type=hidden value=2> <input name=mrb type=hidden value=R-5L192964UH642590D> <input name=bn type=hidden value=PayLoadz> <input name=pal type=hidden value=QNV3YGA7EVCDE> <input name=cbt type=hidden value="Continue to Download"> <input name=tangible type=hidden value=true> <input name="shopping_url "type=hidden></form></td>
 
-<td style="background-color: #ffffff; border: 0;"><form target="paypal"action="https://www.payloadz.com/go/?tangible=1" method="post" >
-  <span style="font-size: 16px;">Book/CD</span>
-<input style="border: none; background: #FFF;" type="image" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" border="0" name="submit" alt="Tangible goods purchase - Download with PayLoadz">
-<input type="hidden" name="cmd" value="_cart">
-<input type="hidden" name="business" value="sharingworld9@gmail.com" >
-<input type="hidden" name="item_name" value="Mixed Bag for Kids: Book/CD">
-<input type="hidden" name="item_number" value="MB - CD">
-<input type="hidden" name="amount" value="25.95">
-<input type="hidden" name="no_shipping" value="2">
-<input type="hidden" name="return" value="https://www.payloadz.com/d1/default.aspx">
-<input type="hidden" name="no_note" value="1">
-
-<input type="hidden" name="notify_url" value="http://www.payloadz.com/pay/index.asp">
-<input type="hidden" name="shipping" value="4.95">
-<input type="hidden" name="handling" value="0.00">
-<input type="hidden" name="rm" value="2">
-<input type="hidden" name="mrb" value="R-5L192964UH642590D">
-<input type="hidden" name="bn" value="PayLoadz">
-<input type="hidden" name="pal" value="QNV3YGA7EVCDE">
-<input type="hidden" name="cbt" value="Continue to Download">
-<input type ="hidden" name ="tangible" value = "true">
-<input type ="hidden" name ="shopping_url " value ="">
-</form></td>
+<td style="background-color: #ffffff; border: 0;"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size:16px>Book/CD</span> 
+<input name=submit type=image alt="Tangible goods purchase - Download with PayLoadz"border=0 src=http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png style=border:none;background:#FFF> <input name=cmd type=hidden value=_cart> <input name=business type=hidden value=sharingworld9@gmail.com> <input name=item_name type=hidden value="Mixed Bag for Kids: Book/CD"> <input name=item_number type=hidden value="MB - CD"> <input name=amount type=hidden value=25.95> <input name=no_shipping type=hidden value=2> <input name=return type=hidden value=https://www.payloadz.com/d1/default.aspx> <input name=no_note type=hidden value=1> <input name=notify_url type=hidden value=http://www.payloadz.com/pay/index.asp> <input name=shipping type=hidden value=4.95> <input name=handling type=hidden value=0.00> <input name=rm type=hidden value=2> <input name=mrb type=hidden value=R-5L192964UH642590D> <input name=bn type=hidden value=PayLoadz> <input name=pal type=hidden value=QNV3YGA7EVCDE> <input name=cbt type=hidden value="Continue to Download"> <input name=tangible type=hidden value=true> <input name="shopping_url "type=hidden></form></td>
 </tr>
-</tbody>
+
 </table>
 
 <hr />
