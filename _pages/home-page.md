@@ -23,16 +23,29 @@ The power of music promotes high quality, one-on-one, interaction between childr
 <table>
 <tbody>
 <tr>
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="XUF77GQMNA23C" />
-<span style="font-size: 16px;">Book/MP3 Download</span>
-<input style="border: none; background: #FFF;" alt="PayPal - The safer, easier way to pay online!" name="submit" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" /></form></td>
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="8ZUGGKKDDZYS6" />
+<td style="background-color: #ffffff; border: 0;"><form target="paypal"action="https://www.payloadz.com/go/?tangible=1" method="post" >
 <span style="font-size: 16px;">Book/CD</span>
-<input style="border: none; background: #FFF;" alt="PayPal - The safer, easier way to pay online!" name="submit" src="http://www.sharingworld.com/wp-content/uploads/2016/02/buy-now-small.png" type="image" />
-<img alt="" border="0" /></form></td>
+<input style="border: none; background: #FFF;" type="image" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" border="0" name="submit" alt="Tangible goods purchase - Download with PayLoadz">
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="sharingworld9@gmail.com" >
+<input type="hidden" name="item_name" value="Mixed Bag for Kids: Book/CD">
+<input type="hidden" name="item_number" value="MB - CD">
+<input type="hidden" name="amount" value="25.95">
+<input type="hidden" name="no_shipping" value="2">
+<input type="hidden" name="return" value="https://www.payloadz.com/d1/default.aspx">
+<input type="hidden" name="no_note" value="1">
+
+<input type="hidden" name="notify_url" value="http://www.payloadz.com/pay/index.asp">
+<input type="hidden" name="shipping" value="4.95">
+<input type="hidden" name="handling" value="0.00">
+<input type="hidden" name="rm" value="2">
+<input type="hidden" name="mrb" value="R-5L192964UH642590D">
+<input type="hidden" name="bn" value="PayLoadz">
+<input type="hidden" name="pal" value="QNV3YGA7EVCDE">
+<input type="hidden" name="cbt" value="Continue to Download">
+<input type ="hidden" name ="tangible" value = "true">
+<input type ="hidden" name ="shopping_url " value ="">
+</form></td>
 </tr>
 </tbody>
 </table>
