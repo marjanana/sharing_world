@@ -12,7 +12,9 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-
+<p style="text-align: center;"><span style="color: #3366ff; font-size: 2rem;"><strong>SONG PICTURE BOOK </strong></span>
+<span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px;">Featuring Lyrics 4 Literacy™</span></p>
+<h3 style="text-align: left;"><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Volume 1 (Ages 4-8)</span></strong></h3>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
 Nurture the confidence of beginning readers (ages 4-8) with Mixed Bag For Kids for All Ages! This delightfully illustrated, 40-page "Song Picture Book" features <em>Lyrics 4 Literacy,</em> an innovative approach to learning. The proven methodology harnesses playful, lyrics-related activities that foster word recognition, reading fluency and retention, pronunciation, spelling, and writing.
