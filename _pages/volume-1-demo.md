@@ -15,7 +15,12 @@ wp_booklet2_pages:
 ---
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
 &nbsp;
-<h3 style="text-align: left;"><span style="color: #800080;"><b>The Sing-Along Word Wizard: <span style="color: 
-<span style="color: #cc0000; font-size: 16px;">Volume 1:</span><span style="color: #800080;"></br> "Original Songs"</span></br>$6.99 USD<a><img class="aligncenter size-thumbnail wp-image-71" src="http://www.sharingworld.com/wp-content/uploads/2016/03/cd-150x150.jpg" alt="cd" width="150" height="150" /></a><a href="http://www.payloadz.com/go/?id=3123308" target="paypal"><img style="margin-top: 10px; margin-bottom: 5px;" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a>
+<h4 style="text-align: left;"></h4>
+[playlist ids="423,425,420,422,421,419"]
+
+<p style="background-color: #ffffff; text-align: center;">MP3 Download</br><a href="http://www.payloadz.com/go/?id=3123308" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" style="margin-top: 10px; margin-bottom: 5px; "></a></p>
+<hr/>
+
+<p style=text-align:center>CD<form style=text-align:center action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><input name=cmd type=hidden value=_cart> <input name=business type=hidden value=sharingworld9@gmail.com> <input name=item_name type=hidden value="Mixed Bag for Kids: Original Songs, Volume 1 - CD"> <input name=item_number type=hidden value=MB-vol1-cd> <input name=amount type=hidden value=6.99> <input name=no_shipping type=hidden value=2> <input name=return type=hidden value=https://www.payloadz.com/d1/default.aspx> <input name=no_note type=hidden value=1> <input name=submit type=image alt="Tangible goods purchase - Download with PayLoadz"border=0 src=http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png style=border:none;background:#FFF> <input name=notify_url type=hidden value=http://www.payloadz.com/pay/index.asp> <input name=shipping type=hidden value=4.95> <input name=handling type=hidden value=0.00> <input name=rm type=hidden value=2> <input name=mrb type=hidden value=R-5L192964UH642590D> <input name=bn type=hidden value=PayLoadz> <input name=pal type=hidden value=QNV3YGA7EVCDE> <input name=cbt type=hidden value="Continue to Download"> <input name=tangible type=hidden value=true> <input name="shopping_url "type=hidden></form></p>
 &nbsp;
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
