@@ -10,9 +10,9 @@ published: true
 wp_booklet2_properties:
   - 'a:12:{s:5:"width";s:3:"600";s:6:"height";s:3:"400";s:5:"speed";s:4:"1000";s:5:"delay";s:4:"5000";s:9:"direction";s:3:"LTR";s:14:"arrows_enabled";b:0;s:20:"page_numbers_enabled";b:1;s:14:"cover_behavior";s:4:"open";s:7:"padding";s:2:"10";s:18:"thumbnails_enabled";b:0;s:13:"popup_enabled";s:0:"";s:5:"theme";s:7:"default";}'
 wp_booklet2_pages:
-  - ""
+  - null
 ---
-Sharing World Entertainment, our education partnership, originated in 2008, when legendary Woodstock icon Richie Havens collaborated with inventor/writer Kyle Morris to realize a vision to spread literacy in early childhood via  multi-media engagement of adults and children.
+Sharing World Entertainment, our education partnership, originated in 2008, when legendary Woodstock icon, Richie Havens collaborated with inventor/writer, Kyle Morris to realize a vision to spread literacy in early childhood via  multi-media engagement of adults and children.
 <br/>
 Since then, our spirited team of film, video, music, print media, and early education experts have devoted nearly a decade to this core mission. We’ve dedicated our talents and skills to develop inventive ways to engage children and adults by introducing the joys of reading through experiencing words, music, lyrics, and songs.
 
