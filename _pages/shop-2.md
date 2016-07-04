@@ -33,8 +33,6 @@ $19.95 USD <a href=" http://www.sharingworld.com/mixed-bag-for-kids-demo-2"><img
 </tbody>
 </table>
 &nbsp;
-<a href="http://www.payloadz.com/go/view_cart.asp?id_user=334450" target="paypal"><img src="http://image.payloadz.com/images/btn-viewcart-b2.png" border="0" ></a>
-
 <hr>
 </br>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
