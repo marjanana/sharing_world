@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: READING ENCOURAGEMENT PRODUCTS
+post_title: home
 author: pmbenp@earthlink.net
 post_date: 2016-02-15 00:42:31
 post_excerpt: ""
@@ -12,7 +12,7 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="text-align: center;"><span style="color: #3366ff; font-size: 2rem;"><strong>SONG PICTURE BOOK </strong></span>
+
 <span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px;">Featuring Lyrics 4 Literacy™</span></p>
 <h3 style="text-align: left;"><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Volume 1 (Ages 4-8)</span></strong></h3>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
@@ -90,26 +90,3 @@ function isNumeric(elem, helperMsg){
 }
 }
 </script>
-
-
-<hr />
-
-<h1 style="text-align: center;"><span style="color: #3366ff;"><strong>VISUAL LANGUAGE VIDEOS </strong></span></h1>
-<h3 style="text-align: left;"><span style="color: #800080;"><strong>Word Wizards TV Pilot Episode: <span style="color: #cc0000;">"Search for the Missing 'S' Word"</span></strong> (Ages 4-8)</span></h3>
-<p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-video-skin.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="Demo"]</p>
-<p style="text-align: left;">Word Wizards is a live action fantasy-adventure that sweeps three self-centered kids on a competitive quest for a missing word that can change the world.</p>
-The elusive magic word dwells in an astonishing Visible Language Castle, where the "me-first" explorers meet madcap characters and a guitar-strumming "Mister Word Wizard" (Richie Havens). The children, guided by colorful clues and much wit, whimsy and wisdom, stumble upon the true meaning of the word "share," which is revealed when they all finally begin working together as a team.
-<p style="border: 0px; text-align: center; background-color: #ffffff;">Digital Download</br> 
-<a href="http://www.payloadz.com/go/?id=3123269" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" border="0" ></a></p>
-
-
-<hr />
-
-&nbsp;
-<h3 style="text-align: left;"><span style="color:#800080;"><b>The Sing-Along Word Wizard: <span style="color: #cc0000;">"Mother Goose Nursery Rhymes "</span> (Ages 1-4)</b></span></h3>
-<p style="text-align: center;">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-vid.jpg"] [video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="Demo"]</p>
-<p style="text-align: left;"><span>As the host and performer in an animated "Visible Language" landscape, Richie Havens renders eight classic Mother Goose songs with endearing warmth. </span></p>
-Preschoolers now sing-along with lyrics that come alive, as the spoken word magically becomes the written word.Two additional musical segments make mastering the alphabet and count-to-ten know-how as easy as 1-2-3.
-<p style="border: 0px; text-align: center; background-color: #ffffff;">Digital Download</br>
-<a href="http://www.payloadz.com/go/?id=3135410" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" border="0" ></a>
- </p>
