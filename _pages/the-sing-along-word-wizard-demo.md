@@ -15,6 +15,12 @@ wp_booklet2_pages:
 ---
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
 &nbsp;
+<h3 style="text-align: left;"><span style="color: #800080;"><b>The Sing-Along Word Wizard: <span style="color: #cc0000;">"Mother Goose Nursery Rhymes "</span> (Ages 1-4)</b></span></h3>
+<p style="text-align: center;">[video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-vid.jpg"] [video_lightbox_youtube video_id="iT_JJqQj7Dw" width="840" height="680" anchor="Demo"]</p>
+<p style="text-align: left;">As the host and performer in an animated "Visible Language" landscape, Richie Havens renders eight classic Mother Goose songs with endearing warmth.</p>
+Preschoolers now sing-along with lyrics that come alive, as the spoken word magically becomes the written word.Two additional musical segments make mastering the alphabet and count-to-ten know-how as easy as 1-2-3.
+<p style="border: 0px; text-align: center; background-color: #ffffff;">$5.95 USD
+<a href="http://www.payloadz.com/go/?id=3135410" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" border="0" /></a></p>
 
 &nbsp;
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
