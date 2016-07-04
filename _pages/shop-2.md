@@ -12,7 +12,6 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-
 <a href="http://www.payloadz.com/go/view_cart.asp?id_user=334450" target="paypal"><img src="http://image.payloadz.com/images/btn-viewcart-b2.png" border="0" ></a>
 <table style="margin-bottom: 0;">
 <tbody>
@@ -26,7 +25,7 @@ $19.95 USD <a href=" http://www.sharingworld.com/mixed-bag-for-kids-demo-2"><img
 </tr>
 <!--Sing Along-->
 <tr style="margin-bottom: 0;">
-<td style="background-color: #ffffff; border: 0; margin: 0;"><span style="color: #cc0000; font-size: 16px;">The Sing-Along Word Wizard:</span><span style="color: #800080;"></br> “Mother Goose Nursery Rhymes"</span></br>$5.95 USD<a href="http://www.sharingworld.com/mixed-bag-for-kids-demo-2/word-wizards-demo"><img class="aligncenter size-thumbnail wp-image-593" src="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-150x150.jpg" alt="MG image" width="150" height="150" /></a><a href="http://www.payloadz.com/go/?id=3135410" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" border="0" /></a></td>
+<td style="background-color: #ffffff; border: 0; margin: 0;"><span style="color: #cc0000; font-size: 16px;">The Sing-Along Word Wizard:</span><span style="color: #800080;"></br> “Mother Goose Nursery Rhymes"</span></br>$5.95 USD<a href=" http://www.sharingworld.com/the-sing-along-word-wizard-demo"><img class="aligncenter size-thumbnail wp-image-593" src="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-150x150.jpg" alt="MG image" width="150" height="150" /></a><a href="http://www.payloadz.com/go/?id=3135410" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" border="0" /></a></td>
 <!--Vol 1-->
 <td style="background-color: #ffffff; border: 0;"><span style="color: #cc0000; font-size: 16px;">Volume 1:</span><span style="color: #800080;"></br> "Original Songs"</span></br>$6.99 USD<a><img class="aligncenter size-thumbnail wp-image-71" src="http://www.sharingworld.com/wp-content/uploads/2016/03/cd-150x150.jpg" alt="cd" width="150" height="150" /></a><a href="http://www.payloadz.com/go/?id=3123308" target="paypal"><img style="margin-top: 10px; margin-bottom: 5px;" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></td>
 </tr>
