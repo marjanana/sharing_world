@@ -27,7 +27,7 @@ wp_booklet2_pages:
 <hr/>
 <p style="text-align: left;">[video_lightbox_youtube video_id="KyH5JG78F1E" width="840" height="680" anchor=" PETE SEEGER - <em>Mixed Bag For Kids</em>"]</p>
 <hr />
-<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/02/validation_snake_river.pdf" target="_blank">SNAKE RIVER MONTESSORI SCHOOL - validation letter</a></p>
+<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/02/validation_snake_river.pdf" target="_blank">SNAKE RIVER MONTESSORI SCHOOL - ReadSpeak validation letter</a></p>
 
 <hr />
-<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/RockvilleCenterPL.pdf" rel="">ROCKVILLE CENTER PUBLIC LIBRARY - validation letter </a></p>
+<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/RockvilleCenterPL.pdf" rel="">ROCKVILLE CENTER PUBLIC LIBRARY - ReadSpeak validation letter </a></p>
