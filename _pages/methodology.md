@@ -33,4 +33,5 @@ wp_booklet2_pages:
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/RockvilleCenterPL.pdf" rel="">ROCKVILLE CENTER PUBLIC LIBRARY - ReadSpeak validation letter </a></p>
 <hr>
 </br>
+<p style="text-align: center;">[feather_share skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
