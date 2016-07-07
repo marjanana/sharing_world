@@ -35,4 +35,5 @@ $19.95 USD &nbsp;<a href=" http://www.sharingworld.com/mixed-bag-for-kids-demo-2
 &nbsp;
 <hr>
 </br>
+<p style="text-align: center;">[feather_share skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
