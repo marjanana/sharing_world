@@ -12,7 +12,7 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-Sharing World Entertainment, our education partnership, originated in 2008, when legendary Woodstock icon, Richie Havens collaborated with inventor/writer, Kyle Morris to realize a vision to spread literacy in early childhood via  multi-media engagement of adults and children.
+Sharing World Entertainment originated in 2008, when legendary Woodstock icon, Richie Havens collaborated with inventor/writer, Kyle Morris to realize a vision to spread literacy via  multi-media engagement of adults and children.
 <br/>
 Since then, our spirited team of film, video, music, print media, and early education experts have devoted nearly a decade to this core mission. We’ve dedicated our talents and skills to develop inventive ways to engage children and adults by introducing the joys of reading through experiencing words, music, lyrics, and songs.
 
@@ -37,3 +37,5 @@ With Richie Haven’s warm distinctive voice and sharing heart, the company’s 
 
 Other Sharing World edutainment content in development includes age-appropriate enhanced eBooks, TV/Internet programming, apps and video games.
 "][/efaccordion]
+</br>
+<p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
