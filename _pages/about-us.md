@@ -38,4 +38,5 @@ With Richie Haven’s warm distinctive voice and sharing heart, the company’s 
 Other Sharing World edutainment content in development includes age-appropriate enhanced eBooks, TV/Internet programming, apps and video games.
 "][/efaccordion]
 </br>
+<p style="text-align: center;">[feather_share skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
