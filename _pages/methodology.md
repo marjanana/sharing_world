@@ -12,16 +12,16 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<h2>What is <em>Lyrics 4 Literacy™</em></h2>
+<h2><em>Lyrics 4 Literacy™</em></h2>
 <em>Lyrics 4 Literacy™</em> is an innovative method of teaching and learning that harnesses the power of music to foster one-on one, high quality time between children and adults. The combination invites bonding engagement and makes learning to read as natural as singing a song together. <em>Lyrics 4 Literacy</em> harmoniously reinforces word comprehension, retention and fluency.
 
 &nbsp;
-<h2>What is <em>ReadSpeak Visible Language</em></h2>
+<h2><em>ReadSpeak Visible Language</em></h2>
 <p style="text-align: left;"><em>ReadSpeak Visible Language</em> is a revolutionary, audio-visual "assistive technology" that enhances rapid acquisition of literacy. Written words are shown on the viewing screen simultaneously with the video and sound, such that the word appears to emerge from the speaker’s mouth at the moment it is spoken.</p>
 <iframe src="https://www.youtube.com/embed/CZMlinp9oZ8" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 &nbsp;
-<h2>Methodology Valitadtion</h2>
+<h2>Valitadtion</h2>
 <hr/>
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" rel="">CLASSROOM EVALUATION - <em>Mixed Bag For Kids</em></a></p>
 <hr/>
@@ -31,3 +31,6 @@ wp_booklet2_pages:
 
 <hr />
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/RockvilleCenterPL.pdf" rel="">ROCKVILLE CENTER PUBLIC LIBRARY - ReadSpeak validation letter </a></p>
+<hr>
+</br>
+<p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
