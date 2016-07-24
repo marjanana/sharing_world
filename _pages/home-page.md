@@ -17,7 +17,7 @@ wp_booklet2_pages:
 [URIS id=219]
 <em>Mixed Bag For Kids Of All Ages</em> provides parents, grandparents, older brothers/sisters, relatives, caregivers and teachers a fun guide to sharing music, songs and lyrics-related activities to nurture the confidence of beginning readers, ages 4–8.  
 
-This delightfully illustrated Song Picture Book features <em>Lyrics 4 Literacy<em/> –  a user-friendly teaching method that harnesses the power of music to encourage one-on-one quality time between adults and young children,  thus fostering repetition, word recognition and retention, pronunciation, reading fluency, spelling, writing, drawing, dancing and critical thinking.
+This delightfully illustrated Song Picture Book features <em>Lyrics 4 Literacy</em> –  a user-friendly teaching method that harnesses the power of music to encourage one-on-one quality time between adults and young children,  thus fostering repetition, word recognition and retention, pronunciation, reading fluency, spelling, writing, drawing, dancing and critical thinking.
 
 Legendary Woodstock icon. Richie Havens, as Mister Word Wizard, sings six original children’s songs for all to enjoy and participate in the “Music of Reading” together.
 
