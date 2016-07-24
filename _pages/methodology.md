@@ -17,7 +17,9 @@ wp_booklet2_pages:
 
 &nbsp;
 <h2><em>ReadSpeak Visible Language</em></h2>
-<p style="text-align: left;"><em>ReadSpeak Visible Language</em> is a revolutionary, audio-visual "assistive technology" that enhances rapid acquisition of literacy. Written words are shown on the viewing screen simultaneously with the video and sound, such that the word appears to emerge from the speaker’s mouth at the moment it is spoken.</p>
+<p style="text-align: left;"><em>ReadSpeak Visible Language</em> is a groundbreaking, audio-visual caption technology – accelerates the achievement of literacy and language skills.<br/>
+During the flow of onscreen video dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This animated special effect makes learning how to read as natural as learning to talk by linking the appearance of printed words with their equivalent sounds – the fundamental principle of reading.
+</p>
 <iframe src="https://www.youtube.com/embed/CZMlinp9oZ8" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 &nbsp;
