@@ -15,13 +15,12 @@ wp_booklet2_pages:
 <h3 style="text-align: left;">Featured Song Picture Book<br/><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Volume 1 - Original Songs</span></strong></h3>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
-Mixed Bag For Kids Of All Ages provides parents, grandparents, older brothers/sisters, relatives, caregivers, and teachers a fun guide to sharing music, songs and lyrics-related activities to nurture the confidence of beginning readers, ages 4–8.  
+<em>Mixed Bag For Kids Of All Ages</em> provides parents, grandparents, older brothers/sisters, relatives, caregivers and teachers a fun guide to sharing music, songs and lyrics-related activities to nurture the confidence of beginning readers, ages 4–8.  
 
-This delightfully illustrated Song Picture Book features Lyrics 4 Literacy –  a user-friendly teaching method that harnesses the power of music to encourage one-to-one quality time between adults and young children,  thus fostering repetition, word recognition and retention, pronunciation, reading fluency, spelling, writing, drawing, dancing, and critical thinking.
+This delightfully illustrated Song Picture Book features <em>Lyrics 4 Literacy<em/> –  a user-friendly teaching method that harnesses the power of music to encourage one-on-one quality time between adults and young children,  thus fostering repetition, word recognition and retention, pronunciation, reading fluency, spelling, writing, drawing, dancing and critical thinking.
 
-Legendary Woodstock icon Richie Havens, as “Mister Word Wizard,” sings six original children’s songs for all to enjoy and participate in the “Music of Reading” together.
+Legendary Woodstock icon. Richie Havens, as Mister Word Wizard, sings six original children’s songs for all to enjoy and participate in the “Music of Reading” together.
 
-The power of music promotes high quality, one-on-one, interaction between children and adults. Legendary Woodstock icon, Richie Havens, plays Mister Word Wizard, singing six original children’s songs for all to enjoy the "Music of Reading" together.
 <table style="margin-bottom: 0">
 
 <tr style="margin-bottom: 0">
