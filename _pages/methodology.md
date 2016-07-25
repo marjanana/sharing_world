@@ -23,7 +23,10 @@ During the flow of onscreen video dialogue, spoken words graphically appear to e
 <iframe src="https://www.youtube.com/embed/CZMlinp9oZ8" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 &nbsp;
-<h2>Valitadtion</h2>
+<h2><em>The Music Of Reading™</em></h2>
+<p style="text-align: left;"><em>The Music Of Reading™</em> defines Sharing World’s core philosophy and mission – to harness the power of music to promote one-on-one quality time between children and adults through innovative <em>Lyrics 4 Literacy</em> Song Picture Book products and activities.</p>
+&nbsp;
+<h2>Validation</h2>
 <hr/>
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" rel="">CLASSROOM EVALUATION - <em>Mixed Bag For Kids</em></a></p>
 <hr/>
