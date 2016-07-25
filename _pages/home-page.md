@@ -19,7 +19,7 @@ wp_booklet2_pages:
 
 This delightfully illustrated Song Picture Book features <em>Lyrics 4 Literacy</em> –  a user-friendly teaching method that harnesses the power of music to encourage one-on-one quality time between adults and young children,  thus fostering repetition, word recognition and retention, pronunciation, reading fluency, spelling, writing, drawing, dancing and critical thinking.
 
-Legendary Woodstock icon. Richie Havens, as Mister Word Wizard, sings six original children’s songs for all to enjoy and participate in the “Music of Reading” together.
+Legendary Woodstock icon, Richie Havens, as Mister Word Wizard, sings six original children’s songs for all to enjoy and participate in the “Music of Reading” together.
 
 <table style="margin-bottom: 0">
 
