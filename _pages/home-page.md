@@ -12,7 +12,7 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<h3 style="text-align: left;">Featured Song Picture Book<br/><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Vol. 1 - Original Songs</span></strong></h3>
+<h3 style="text-align: left;">Featured Song Picture Book<br/><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Vol. 1 Original Songs</span></strong></h3>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
 <em>Mixed Bag For Kids Of All Ages</em>  provides parents, grandparents, older siblings, relatives, caregivers and teachers an enjoyable guide to sharing songs, lyrics and related activities to nurture the confidence of beginning readers, ages 4–8.  
@@ -20,7 +20,6 @@ wp_booklet2_pages:
 This delightfully illustrated, 40-page, Song Picture Book features <em>Lyrics 4 Literacy™</em> – a user-friendly teaching method that harnesses the power of music to encourage one-on-one quality time between adults and children,            thus fostering repetition, word recognition, retention, pronunciation, reading fluency, spelling, writing, drawing, dancing and critical thinking.
 
 Legendary Woodstock icon Richie Havens, as Mister Word Wizard, sings six original children’s songs for all to enjoy and participate in the “Music of Reading” together.
-.
 
 <table style="margin-bottom: 0">
 
