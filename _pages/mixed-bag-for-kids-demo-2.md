@@ -14,14 +14,16 @@ wp_booklet2_pages:
   - null
 ---
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
-&nbsp;
-<h3 style="text-align: left;"><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Volume 1 (Ages 4-8)</span></strong></br><span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px;">Featuring Lyrics 4 Literacy™</span></h3>
+
+<h3 style="text-align: left;"><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Vol. 1 (Ages 4-8)</span></strong></br><span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px;">Featuring Lyrics 4 Literacy™</span></h3>
 
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
-Nurture the confidence of beginning readers (ages 4-8) with Mixed Bag For Kids for All Ages! This delightfully illustrated, 40-page "Song Picture Book" features <em>Lyrics 4 Literacy,</em> an innovative approach to learning. The proven methodology harnesses playful, lyrics-related activities that foster word recognition, reading fluency and retention, pronunciation, spelling, and writing.
+<em>Mixed Bag For Kids Of All Ages</em>  provides parents, grandparents, older siblings, relatives, caregivers and teachers an enjoyable guide to sharing songs, lyrics and related activities to nurture the confidence of beginning readers, ages 4–8.  
 
-The power of music promotes high quality, one-on-one, interaction between children and adults. Legendary Woodstock icon, Richie Havens, plays Mister Word Wizard, singing six original children’s songs for all to enjoy the "Music of Reading" together.
+This delightfully illustrated, 40-page, Song Picture Book features <em>Lyrics 4 Literacy™</em> – a user-friendly teaching method that harnesses the power of music to encourage one-on-one quality time between adults and children,            thus fostering repetition, word recognition, retention, pronunciation, reading fluency, spelling, writing, drawing, dancing and critical thinking.
+
+Legendary Woodstock icon Richie Havens, as Mister Word Wizard, sings six original children’s songs for all to enjoy and participate in the “Music of Reading” together.
 <table style="margin-bottom: 0">
 <tr style="margin-bottom: 0">
 <td style="background-color: #ffffff; border: 0; margin: 0"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size:16px>Book/MP3 - $19.95 USD</span>
