@@ -14,14 +14,16 @@ wp_booklet2_pages:
   - null
 ---
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
-&nbsp;
 <h3 style="text-align: left;"><span style="color: #800080;"><strong>Word Wizards TV Pilot Episode: <span style="color: #cc0000;">"Search for the Missing 'S' Word"</span></strong> (Ages 4-8)</span></h3>
-<p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-video-skin.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="Demo"]</p>
-<p style="text-align: left;">This live action, story-driven, fantasy adventure sweeps three kids on         a competitive quest for a missing word that can change the world.
+[embedyt]https://youtu.be/c8rBTAfRXgM[/embedyt]
+<p style="text-align: left;margin-top:5%;">This live action, story-driven, fantasy adventure sweeps three kids on         a competitive quest for a missing word that can change the world.
  
 The elusive “verb” dwells in an astonishing Visible Language Castle,  where the young explorers meet madcap characters and a guitar-strumming Mister Word Wizard (Richie Havens). The “me-first” visitors, guided by colorful clues and much wit, whimsy and wisdom, finally stumble upon the true meaning of the magic word – revealed when they begin working together as a team.</p>
 
-<p style="border: 0px; text-align: center; background-color: #ffffff;">$5.95 USD</br> 
+<p style="border: 0px; text-align: center; background-color: #ffffff;">$5.95 USD
 <a href="http://www.payloadz.com/go/?id=3123269" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" border="0" ></a></p>
 &nbsp;
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
+
+
+<!--<p style="text-align: center;">[video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-video-skin.jpg"][video_lightbox_youtube video_id="okYHBguRwiQ" width="840" height="680" anchor="Demo"]</p>-->
