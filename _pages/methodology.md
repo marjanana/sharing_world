@@ -20,8 +20,7 @@ wp_booklet2_pages:
 <p style="text-align: left;"><em>ReadSpeak Visible Language</em> is a groundbreaking, audio-visual caption technology – accelerates the achievement of literacy and language skills.<br/>
 During the flow of onscreen video dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This animated special effect makes learning how to read as natural as learning to talk by linking the appearance of printed words with their equivalent sounds – the fundamental principle of reading.
 </p>
-<iframe src="https://www.youtube.com/embed/CZMlinp9oZ8" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+[embedyt]https://youtu.be/CZMlinp9oZ8[/embedyt]
 &nbsp;
 <h2><em>The Music Of Reading™</em></h2>
 <p style="text-align: left;"><em>The Music Of Reading™</em> defines Sharing World’s core philosophy and mission – to harness the power of music to promote one-on-one quality time between children and adults through innovative <em>Lyrics 4 Literacy</em> Song Picture Book products and activities.</p>
