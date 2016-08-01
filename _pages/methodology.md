@@ -29,7 +29,7 @@ During the flow of onscreen video dialogue, spoken words graphically appear to e
 <hr/>
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" rel="">CLASSROOM EVALUATION - <em>Mixed Bag For Kids</em></a></p>
 <hr/>
-<p style="text-align: left;">[video_lightbox_youtube video_id="KyH5JG78F1E" width="840" height="680" anchor=" PETE SEEGER'S ENDORSEMENT - <em>Mixed Bag For Kids</em>"]</p>
+<p style="text-align: left;">[video_lightbox_youtube video_id="KyH5JG78F1E&rel=false" width="840" height="680" anchor=" PETE SEEGER'S ENDORSEMENT - <em>Mixed Bag For Kids</em>"]</p>
 <hr />
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/02/validation_snake_river.pdf" target="_blank">SNAKE RIVER MONTESSORI SCHOOL - ReadSpeak validation letter</a></p>
 
