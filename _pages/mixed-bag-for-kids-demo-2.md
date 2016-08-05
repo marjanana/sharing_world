@@ -19,11 +19,12 @@ wp_booklet2_pages:
 
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
-<em>Mixed Bag For Kids Of All Ages</em>  provides parents, grandparents, older siblings, relatives, caregivers and teachers an enjoyable guide to sharing songs, lyrics and related activities to nurture the confidence of beginning readers, ages 4–8.  
+<em>Mixed Bag For Kids Of All Ages</em>  provides parents, grandparents, older siblings, relatives, caregivers and teachers a harmonious guide to sharing songs, lyrics and playful activities to nurture the confidence of beginning readers, ages 3–7. 
 
-This delightfully illustrated, 40-page, Song Picture Book features <em>Lyrics 4 Literacy™</em> – a user-friendly teaching method that harnesses the power of music to encourage one-on-one quality time between adults and children,            thus fostering repetition, word recognition, retention, pronunciation, reading fluency, spelling, writing, drawing, dancing and critical thinking.
+This delightfully illustrated 40-page Song Picture Book features Lyrics 4 Literacy – a teaching method that harnesses the power of music to promote one-on-one quality time between children and adults – thus fostering a warm and supportive emotional environment for early learning of word recognition, comprehension, retention, pronunciation, spelling, reading fluency, writing, drawing, dancing     and critical thinking. 
 
-Legendary Woodstock icon Richie Havens, as Mister Word Wizard, sings six original children’s songs for all to enjoy and participate in the “Music of Reading” together.
+Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings six original children’s songs for all to enjoy and participate in the “Music of Reading™” together.
+
 <table style="margin-bottom: 0">
 <tr style="margin-bottom: 0">
 <td style="background-color: #ffffff; border: 0; margin: 0"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size:16px>Book/MP3 - $19.95 USD</span>
