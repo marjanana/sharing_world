@@ -13,12 +13,12 @@ wp_booklet2_pages:
   - null
 ---
 <h2><em>Lyrics 4 Literacy™</em></h2>
-<em>Lyrics 4 Literacy™</em> is an innovative method of teaching and learning that harnesses the power of music to foster one-on one, high quality time between children and adults. The combination invites bonding engagement and makes learning to read as natural as singing a song together. <em>Lyrics 4 Literacy</em> harmoniously reinforces word comprehension, retention and fluency.
+<em>Lyrics 4 Literacy™</em> - an innovative method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults. The interaction creates an environment of educational    family engagement by making reading as natural as singing a song together. 
 
+Using popular music genres with illustrated, easy-to-read lyrics and song-   related activities, <em>Lyrics 4 Literacy</em> reinforces word recognition, retention, comprehension, pronunciation, spelling, reading fluency, writing, drawing, dancing and critical thinking without missing a beat.
 &nbsp;
-<h2><em>ReadSpeak Visible Language</em></h2>
-<p style="text-align: left;"><em>ReadSpeak Visible Language</em> is a groundbreaking, audio-visual caption technology – accelerates the achievement of literacy and language skills.<br/>
-During the flow of onscreen video dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This animated special effect makes learning how to read as natural as learning to talk by linking the appearance of printed words with their equivalent sounds – the fundamental principle of reading.
+
+
 </p>
 [embedyt]https://youtu.be/CZMlinp9oZ8[/embedyt]
 &nbsp;
@@ -36,6 +36,9 @@ During the flow of onscreen video dialogue, spoken words graphically appear to e
 <hr />
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/RockvilleCenterPL.pdf" rel="">ROCKVILLE CENTER PUBLIC LIBRARY - ReadSpeak validation letter </a></p>
 <hr>
+<em>Research shows that reading ability is strongly related not only to academic  and vocational success but also to personal happiness.</em> <br/>– Studies in Early Literacy Development & Intervention by Wake Forest University
+<hr>
+<em>Music ignites all areas of child development: intellectual, social and emotional, motor, language, and overall literacy.</em><br/>– Bright Horizons
 </br>
 <p style="text-align: center;">[feather_share skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
