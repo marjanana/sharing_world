@@ -37,9 +37,6 @@ During the flow of video content dialogue, spoken words graphically appear to em
 <hr />
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/RockvilleCenterPL.pdf" rel="">ROCKVILLE CENTER PUBLIC LIBRARY - ReadSpeak validation letter </a></p>
 <hr>
-<em>Research shows that reading ability is strongly related not only to academic  and vocational success but also to personal happiness.</em> <br/>– Studies in Early Literacy Development & Intervention by Wake Forest University
-<hr>
-<em>Music ignites all areas of child development: intellectual, social and emotional, motor, language, and overall literacy.</em><br/>– Bright Horizons
-</br>
+
 <p style="text-align: center;">[feather_share skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
