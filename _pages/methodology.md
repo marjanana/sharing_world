@@ -17,14 +17,15 @@ wp_booklet2_pages:
 
 Using popular music genres with illustrated, easy-to-read lyrics and song-   related activities, <em>Lyrics 4 Literacy</em> reinforces word recognition, retention, comprehension, pronunciation, spelling, reading fluency, writing, drawing, dancing and critical thinking without missing a beat.
 &nbsp;
+<h2><em>ReadSpeak Visible Language</em></h2>
+<p style="text-align: left;"><em>ReadSpeak Visible Language</em> – a groundbreaking, audio-visual caption technology – accelerates the achievement of literacy and language skills.
+
+During the flow of video content dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This “animated special effect” makes learning how to read as natural as learning to talk by linking the appearance of the printed words onscreen with their equivalent sounds – the fundamental principle of reading.
 
 
-</p>
 [embedyt]https://youtu.be/CZMlinp9oZ8[/embedyt]
 &nbsp;
-<h2><em>The Music Of Reading™</em></h2>
-<p style="text-align: left;"><em>The Music Of Reading™</em> defines Sharing World’s core philosophy and mission – to harness the power of music to promote one-on-one quality time between children and adults through innovative <em>Lyrics 4 Literacy</em> Song Picture Book products and activities.</p>
-&nbsp;
+
 <h2>Validation</h2>
 <hr/>
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" rel="">CLASSROOM EVALUATION - <em>Mixed Bag For Kids</em></a></p>
