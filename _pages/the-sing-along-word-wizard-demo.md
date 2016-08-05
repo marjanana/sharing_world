@@ -15,7 +15,7 @@ wp_booklet2_pages:
 ---
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
 
-<h3 style="text-align: left;"><span style="color: #800080;"><b>The Sing-Along Word Wizard: <span style="color: #cc0000;">"Mother Goose Nursery Rhymes "</span><br/><span style="color: #0000b3; font-size: 12px;">(suitable for initial readers, ages 2-4)</span></b></span></h3>
+<h3 style="text-align: center;"><span style="color: #800080;"><b>The Sing-Along Word Wizard: <span style="color: #cc0000;">"Mother Goose Nursery Rhymes "</span><br/><span style="color: #0000b3; font-size: 12px;">(suitable for initial readers, ages 2-4)</span></b></span></h3>
 [embedyt]https://youtu.be/iT_JJqQj7Dw[/embedyt]
 <p style="text-align: left; margin-top: 5%;">As Mister Word Wizard glows in an animated “Visible Language” landscape, Richie Havens renders eight classic “Mother Goose” songs with endearing warmth and inclusiveness.
 
