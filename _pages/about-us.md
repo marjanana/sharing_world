@@ -27,7 +27,7 @@ Shortly after Richie finished the album, he became ill and died in 2013.  Kyle a
 Sharing World Entertainment is currently releasing <em>Mixed Bag For Kids of All Ages,</em> Volume 1/ Original Songs – first in a series of <em>Lyrics 4 Literacy</em>-enhanced Song Picture Books. 
 <br/>
 
-Volume 2/Cover Songs is being assembled for release in Winter 2017.
+Volume 2/Cover Songs is being assembled for estimated release in Winter 2017.
 <br/>
 Lifted by Richie Haven’s inspired voice and sharing spirit, volumes 1 and 2 of our sing-along, read-along, learn-along Song Picture Books promise to fly out of rainbows and over the stars, bringing out the best in all of us.
 <br/>
