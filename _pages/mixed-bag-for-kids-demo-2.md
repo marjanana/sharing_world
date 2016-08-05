@@ -14,7 +14,6 @@ wp_booklet2_pages:
   - null
 ---
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
-
 <h3 style="text-align: center;"><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Volume 1 </span></strong></br><span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px;">Featuring Lyrics 4 Literacy™</span><br/><span style="color: #0000b3; font-size: 12px;">(suitable for initial readers, ages 4–8)</span></h3>
 
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
