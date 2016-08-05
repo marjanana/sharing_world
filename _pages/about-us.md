@@ -18,10 +18,9 @@ wp_booklet2_pages:
 Sharing World’s core commitment remains steadfast – design and deliver effective, affordable products and teaching methodologies that enhance the literacy, language and social skills of emergent readers from all walks of life, including those with special needs, such as dyslexia, autism and nonverbal or minimally verbal behavior. Our goal is to level the literacy playing field by turning entertainment into education on a global scale."]
 
 [efitems title="history" text="
-We formed Sharing World Entertainment, LLC in 2008, when the legendary music icon and social activist, Richie Havens, contributed his renowned talent and good will toward enhancing literacy. <br/></br/> In partnership with inventor/ writer, Kyle Morris, the company focused on devising ways to increase the confidence and skill sets of beginning readers, especially those from low and moderate-income families.
-
+In 2008, the legendary music icon and social activist, Richie Havens, joined inventor/writer, Kyle Morris, and contributed his renowned talent and good will toward enhancing children's literacy under the auspices of Sharing World Entertainment, LLC. <br/></br/> The company primarily focused on devising ways to increase the confidence and skill sets of beginning readers, especially those from low and moderate-income families.
  <br/>
-Shortly after Richie finished the album, he became ill and died in 2013.  Kyle and the rest of the Sharing World team have vowed to honor him by sustaining a beautiful dream so full  of harmony, hope, and rainbows of literacy lighting horizons. "]
+Shortly after Richie finished recording the album in 2010, he became ill and died in 2013.  Kyle and the rest of the Sharing World team have vowed to honor him by sustaining the empowering vision of more literate world by spreading the music of reading to 'kids of all ages.' "]
 
 [efitems title="projects" text="
 Sharing World Entertainment is currently releasing <em>Mixed Bag For Kids of All Ages,</em> Volume 1/ Original Songs – first in a series of <em>Lyrics 4 Literacy</em>-enhanced Song Picture Books. 
