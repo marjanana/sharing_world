@@ -14,9 +14,9 @@ wp_booklet2_pages:
   - null
 ---
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
-<h3 style="text-align: left;"><span style="color: #800080;"><strong>Word Wizards TV Pilot Episode: <span style="color: #cc0000;">"Search for the Missing 'S' Word"</span></strong><br/><span style="color: #0000b3; font-size: 12px;">(suitable for initial readers, ages 4–8)</span></h3>
+<h3 style="text-align: center;"><span style="color: #800080;"><strong>Word Wizards TV Pilot Episode: <span style="color: #cc0000;">"Search for the Missing 'S' Word"</span></strong><br/><span style="color: #0000b3; font-size: 12px;">(suitable for initial readers, ages 4–8)</span></h3>
 [embedyt]https://youtu.be/c8rBTAfRXgM[/embedyt]
-<p style="text-align: right;margin-top:5%;">– <em>Putting The Vision Back In Television</em> –</p> 
+
 <p style="text-align: left;margin-top:5%;">This live action, story-driven, fantasy adventure sweeps three kids on a competitive quest for a missing magic word that can change the world.
 
 The elusive “verb” dwells in the Visible Language Castle, an astonishing place where the young explorers meet madcap characters and a guitar-strumming Mister Word Wizard (Richie Havens). The “me-first” visitors, guided by colorful clues and much wit, whimsy and wisdom, finally stumble upon the true meaning of the missing ‘S’ word – revealed when they begin working together as a team.</p>
