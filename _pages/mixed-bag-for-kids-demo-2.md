@@ -11,11 +11,11 @@ published: true
 wp_booklet2_properties:
   - 'a:12:{s:5:"width";s:3:"600";s:6:"height";s:3:"400";s:5:"speed";s:4:"1000";s:5:"delay";s:4:"5000";s:9:"direction";s:3:"LTR";s:14:"arrows_enabled";b:0;s:20:"page_numbers_enabled";b:1;s:14:"cover_behavior";s:4:"open";s:7:"padding";s:2:"10";s:18:"thumbnails_enabled";b:0;s:13:"popup_enabled";s:0:"";s:5:"theme";s:7:"default";}'
 wp_booklet2_pages:
-  - ""
+  - null
 ---
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
 
-<h3 style="text-align: left;"><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Vol. 1 (Ages 4-8)</span></strong></br><span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px;">Featuring Lyrics 4 Literacy™</span></h3>
+<h3 style="text-align: center;"><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Volume 1 </span></strong></br><span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px;">Featuring Lyrics 4 Literacy™</span><br/><span style="color: #0000b3; font-size: 12px;">(suitable for initial readers, ages 4–8)</span></h3>
 
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
