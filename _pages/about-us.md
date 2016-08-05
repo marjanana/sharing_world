@@ -12,6 +12,7 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
+<a href="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol.jpg" rel="attachment wp-att-12"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol-150x150.jpg" alt="Print" width="50" height="50" class="aligncenter size-thumbnail wp-image-12" /></a>
 We are an innovative company that creates, produces and distributes literacy-based content and technologies. Our multi-talented team of media and education experts believes “it’s-better-together” when it comes to composing new ways for young minds to experience the joys of reading, learning and human understanding through the power of music. 
 <br/>
 [efaccordion id="01"] [efitems title="mission" text="
