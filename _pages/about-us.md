@@ -12,13 +12,14 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-Sharing World Entertainment originated in 2008, when legendary Woodstock icon, Richie Havens collaborated with inventor/writer, Kyle Morris and decided to spread literacy via  multi-media engagement of adults and children.
-<br/>
-Since then, our spirited team of film, video, music, print media, and early education experts have devoted nearly a decade to this core mission. We’ve dedicated our talents and skills to develop inventive ways to engage children and adults by introducing the joys of reading through experiencing words, music, lyrics, and songs.
+We are an innovative company that creates, produces and distributes literacy-based content and technologies. Our multi-talented team of media and education experts believes “it’s-better-together” when it comes to composing new ways for young minds to experience the joys of reading, learning and human understanding through the power of music. 
+
+<em>Music ignites all areas of child development: intellectual, social and emotional, motor, language, and overall literacy.</em> – Bright Horizons
+
 
 <br/>
 [efaccordion id="01"] [efitems title="mission" text="
-Our multi-media company creates and distributes methods and content specifically designed to advance children’s literacy, learning and human understanding. <br/></br/> In this regard, our reading encouragement products answer the growing demand for ways to effectively foster the literacy and language skills of beginning readers."]
+Sharing World’s core commitment remains steadfast – design and deliver effective, affordable products and teaching methodologies that enhance the literacy, language and social skills of emergent readers from all walks of life, including those with special needs, such as dyslexia, autism and nonverbal or minimally verbal behavior. Our goal is to level the literacy playing field by turning entertainment into education on a global scale."]
 
 [efitems title="history" text="
 We formed Sharing World Entertainment, LLC in 2008, when the legendary music icon and social activist, Richie Havens, contributed his renowned talent and good will toward enhancing literacy. <br/></br/> In partnership with inventor/ writer, Kyle Morris, the company focused on devising ways to increase the confidence and skill sets of beginning readers, especially those from low and moderate-income families.
@@ -27,15 +28,15 @@ We formed Sharing World Entertainment, LLC in 2008, when the legendary music ico
 Shortly after Richie finished the album, he became ill and died in 2013.  Kyle and the rest of the Sharing World team have vowed to honor him by sustaining a beautiful dream so full  of harmony, hope, and rainbows of literacy lighting horizons. "]
 
 [efitems title="projects" text="
-Sharing World’s first completed Song Picture Book is <em>Mixed Bag For Kids of All Ages,</em> Volume 1/Original Songs.
+Sharing World Entertainment is currently releasing <em>Mixed Bag For Kids of All Ages,</em> Volume 1/ Original Songs – first in a series of <em>Lyrics 4 Literacy</em>-enhanced Song Picture Books. 
 <br/>
 
-Volume 2/Cover Songs is being assembled for future release.
+Volume 2/Cover Songs is being assembled for release in Winter 2017.
 <br/>
-With Richie Haven’s warm distinctive voice and sharing heart, the company’s initial sing-along, read-along, learn- along Song Picture Books promise to fly out of rainbows    and over the stars, bringing out the best in all of us.
+Lifted by Richie Haven’s inspired voice and sharing spirit, volumes 1 and 2 of our sing-along, read-along, learn-along Song Picture Books promise to fly out of rainbows and over the stars, bringing out the best in all of us.
 <br/>
 
-Other Sharing World edutainment content in development includes age-appropriate enhanced eBooks, TV/Internet programming, apps and video games.
+Other education technology enhanced products in development at Sharing World include Song Picture Books with well-known artists from popular music genres, eBooks, TV/Internet programs, apps and video games.
 "][/efaccordion]
 </br>
 <p style="text-align: center;">[feather_share skin="wheel"]</p>
