@@ -12,9 +12,8 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<a href="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol.jpg" rel="attachment wp-att-12"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol-150x150.jpg" alt="Print" width="50" height="50" class="aligncenter size-thumbnail wp-image-12" /></a>
-We are an innovative company that creates, produces and distributes literacy-based content and technologies. Our multi-talented team of media and education experts believes “it’s-better-together” when it comes to composing new ways for young minds to experience the joys of reading, learning and human understanding through the power of music. 
-<br/>
+<a href="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol.jpg" rel="attachment wp-att-12"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol-150x150.jpg" alt="Print" width="50" height="50" class="aligncenter size-thumbnail wp-image-12" /></a>We are an innovative company that creates, produces and distributes literacy-based content and technologies. Our multi-talented team of media and education experts believes “it’s-better-together” when it comes to composing new ways for young minds to experience the joys of reading, learning and human understanding through the power of music. 
+
 [efaccordion id="01"] [efitems title="mission" text="
 Sharing World’s core commitment remains steadfast – design and deliver effective, affordable products and teaching methodologies that enhance the literacy, language and social skills of emergent readers from all walks of life, including those with special needs, such as dyslexia, autism and nonverbal or minimally verbal behavior. Our goal is to level the literacy playing field by turning entertainment into education on a global scale."]
 
