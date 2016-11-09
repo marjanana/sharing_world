@@ -10,9 +10,9 @@ published: true
 wp_booklet2_properties:
   - 'a:12:{s:5:"width";s:3:"600";s:6:"height";s:3:"400";s:5:"speed";s:4:"1000";s:5:"delay";s:4:"5000";s:9:"direction";s:3:"LTR";s:14:"arrows_enabled";b:0;s:20:"page_numbers_enabled";b:1;s:14:"cover_behavior";s:4:"open";s:7:"padding";s:2:"10";s:18:"thumbnails_enabled";b:0;s:13:"popup_enabled";s:0:"";s:5:"theme";s:7:"default";}'
 wp_booklet2_pages:
-  - ""
+  - null
 ---
-<h2><em>Lyrics 4 Literacy</em></h2>
+<h2><em>Lyrics 4 Literacy</em><sup>TM</sup></h2>
 <em>Lyrics 4 Literacy™</em> - an innovative method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults. The interaction creates an environment of educational    family engagement by making reading as natural as singing a song together. 
 
 Using popular music genres with illustrated, easy-to-read lyrics and song-   related activities, <em>Lyrics 4 Literacy</em> reinforces word recognition, retention, comprehension, pronunciation, spelling, reading fluency, writing, drawing, dancing and critical thinking without missing a beat.
