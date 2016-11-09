@@ -13,6 +13,7 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
+<p style="text-align: center"><span style="text-align: center; color: #3366ff; font-size: 30px;">Featuring</span><span style="text-align: center; color: #3366ff; font-style: italic; font-size: 30px;"> Lyrics 4 Literacy™</span></p>
 <a href=": http://www.sharingworld.com/shop-2"> &#8592;Back to shop</a>
 &nbsp;
 <h4 style="text-align: left;"></h4>
