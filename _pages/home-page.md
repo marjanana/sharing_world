@@ -12,7 +12,7 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<h3 style="text-align: center;"><span style="color:#c2c2a3;">New Song Picture Book</span><br/><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Vol. 1 Original Songs</span></strong></br><span style="text-align: center; color: #3366ff; font-style: italic; font-size: 17px;">Featuring Lyrics 4 Literacy™</span></h3>
+<p style="text-align: center;"><span style="color:#c2c2a3;">New Song Picture Book</span><br/><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Vol. 1 Original Songs</span></strong></br><span style="text-align: center; color: #3366ff; font-size: 25px;">Featuring</span><span style="text-align: center; color: #3366ff; font-style: italic; font-size: 25px;"> Lyrics 4 Literacy™</span></p>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 [URIS id=219]
 <em>Mixed Bag For Kids Of All Ages</em>  provides parents, grandparents, older siblings, relatives, caregivers and teachers a harmonious guide to sharing songs, lyrics and playful activities to nurture the confidence of beginning readers, ages 3–7. 
