@@ -17,7 +17,7 @@ wp_booklet2_pages:
 [URIS id=219]
 <em>Mixed Bag For Kids Of All Ages</em>  provides parents, grandparents, older siblings, relatives, caregivers and teachers a harmonious guide to sharing songs, lyrics and playful activities to nurture the confidence of beginning readers, ages 3–7. 
 
-This delightfully illustrated 40-page Song Picture Book features Lyrics 4 Literacy – a teaching method that harnesses the power of music to promote one-on-one quality time between children and adults – thus fostering a warm and supportive emotional environment for early learning of word recognition, comprehension, retention, pronunciation, spelling, reading fluency, writing, drawing, dancing     and critical thinking. 
+This delightfully illustrated 40-page Song Picture Book features <em>Lyrics 4 Literacy</em><sup>TM</sup> – a teaching method that harnesses the power of music to promote one-on-one quality time between children and adults – thus fostering a warm and supportive emotional environment for early learning of word recognition, comprehension, retention, pronunciation, spelling, reading fluency, writing, drawing, dancing     and critical thinking. 
 
 Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings six original children’s songs for all to enjoy and participate in the “Music of Reading™” together.
 
@@ -28,7 +28,7 @@ Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings
 <td style="background-color: #ffffff; border: 0; margin: 0"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size:16px>Book/MP3</span>
 <input name=submit type=image alt="Tangible goods purchase - Download with PayLoadz"border=0 src=http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png style=border:none;background:#FFF><input name=cmd type=hidden value=_cart> <input name=business type=hidden value=sharingworld9@gmail.com> <input name=item_name type=hidden value="Mixed Bag for Kids: Book/MP3 Download"> <input name=item_number type=hidden value=MB-mp3> <input name=amount type=hidden value=19.95> <input name=no_shipping type=hidden value=2> <input name=return type=hidden value=https://www.payloadz.com/d1/default.aspx> <input name=no_note type=hidden value=1>  <input name=notify_url type=hidden value=http://www.payloadz.com/pay/index.asp> <input name=shipping type=hidden value=4.95> <input name=handling type=hidden value=0.00> <input name=rm type=hidden value=2> <input name=mrb type=hidden value=R-5L192964UH642590D> <input name=bn type=hidden value=PayLoadz> <input name=pal type=hidden value=QNV3YGA7EVCDE> <input name=cbt type=hidden value="Continue to Download"> <input name=tangible type=hidden value=true> <input name="shopping_url "type=hidden></form></td>
 
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size:16px>Book/CD&nbsp;</span> 
+<td style="background-color: #ffffff; border: 0;"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size: 16px>Book/CD&nbsp;</span> 
 <input name=submit type=image alt="Tangible goods purchase - Download with PayLoadz"border=0 src=http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png style=border:none;background:#FFF> <input name=cmd type=hidden value=_cart> <input name=business type=hidden value=sharingworld9@gmail.com> <input name=item_name type=hidden value="Mixed Bag for Kids: Book/CD"> <input name=item_number type=hidden value="MB - CD"> <input name=amount type=hidden value=25.95> <input name=no_shipping type=hidden value=2> <input name=return type=hidden value=https://www.payloadz.com/d1/default.aspx> <input name=no_note type=hidden value=1> <input name=notify_url type=hidden value=http://www.payloadz.com/pay/index.asp> <input name=shipping type=hidden value=4.95> <input name=handling type=hidden value=0.00> <input name=rm type=hidden value=2> <input name=mrb type=hidden value=R-5L192964UH642590D> <input name=bn type=hidden value=PayLoadz> <input name=pal type=hidden value=QNV3YGA7EVCDE> <input name=cbt type=hidden value="Continue to Download"> <input name=tangible type=hidden value=true> <input name="shopping_url "type=hidden></form></td>
 </tr>
 
@@ -47,7 +47,7 @@ Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings
 
    <form action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283"   method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
-  <p>If you've purchased the book in a bookstore or a  retail chain, please complete form below to download the MP3 album.</p>
+  <p>If you've purchased the book in a bookstore or a  retail chain, please complete form below to download the <em>Lyrics 4 Literacy</em><sup>TM</sup> MP3 album.</p>
 
     <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
     <div class="mc-field-group">
