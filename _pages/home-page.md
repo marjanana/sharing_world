@@ -14,7 +14,6 @@ wp_booklet2_pages:
 ---
 [URIS id=219]
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
-<p style="text-align: center;"><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080; font-size: 30px;">Vol. 1 Original Songs</span></strong></p>
 <table style="margin-bottom: 0">
 <tr style="margin-bottom: 0">
 <td style="background-color: #ffffff; border: 0; margin: 0"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size:16px>Book/MP3</span>
