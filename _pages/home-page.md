@@ -47,7 +47,7 @@ Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings
 
    <form action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283"   method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
-  <p>If you've purchased the book in a bookstore or a  retail chain, please complete form below to download the <em>Lyrics 4 Literacy</em><sup>TM</sup> MP3 album.</p>
+  <p>If you've purchased the book in a bookstore or a  retail chain, please complete form below to download the <em>Lyrics 4 Literacy</em> MP3 album.</p>
 
     <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
     <div class="mc-field-group">
