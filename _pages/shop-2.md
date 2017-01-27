@@ -1,6 +1,6 @@
 ---
 ID: 804
-post_title: 'Shop <em>Lyrics 4 Literacy</em><sup>TM</sup> products'
+post_title: 'Shop <em>Lyrics 4 Literacy*</em> products'
 author: pmbenp@earthlink.net
 post_date: 2016-07-04 21:10:22
 post_excerpt: ""
@@ -12,6 +12,7 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
+<p style="font-size: 11px";>*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</p>
 <a href="http://www.payloadz.com/go/view_cart.asp?id_user=334450" target="paypal"><img src="http://image.payloadz.com/images/btn-viewcart-b2.png" alt="" border="0" /></a>
 <table style="margin-bottom: 0;">
 <tbody>
@@ -22,9 +23,9 @@ wp_booklet2_pages:
 </tr>
 <!--Word Wizards-->
 <tr style="margin-bottom: 0;">
-<td style="background-color: #ffffff; border: 0;"><a href="http://www.sharingworld.com/mixed-bag-for-kids-demo-2/word-wizards-demo"><span style="color: #cc0000; font-size: 16px;">Word Wizards TV Pilot Episode DVD:</span><br/><span style="color: #800080;"> “Search for the Missing ‘S’ Word”</span><br/>$5.95 USD</a><a href="http://www.sharingworld.com/mixed-bag-for-kids-demo-2/word-wizards-demo"><img class="aligncenter size-thumbnail wp-image-595" src="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-image-150x150.jpg" alt="mb image" width="150" height="150" /></a><a href="http://www.payloadz.com/go/?id=3123269" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" border="0" /></a></td>
+<td style="background-color: #ffffff; border: 0;"><a href="http://www.sharingworld.com/mixed-bag-for-kids-demo-2/word-wizards-demo"><span style="color: #cc0000; font-size: 16px;">Word Wizards TV Pilot Episode:</span><br/><span style="color: #800080;"> “Search for the Missing ‘S’ Word”</span><br/>$5.95 USD</a><a href="http://www.sharingworld.com/mixed-bag-for-kids-demo-2/word-wizards-demo"><img class="aligncenter size-thumbnail wp-image-595" src="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-image-150x150.jpg" alt="mb image" width="150" height="150" /></a><a href="http://www.payloadz.com/go/?id=3123269" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" border="0" /></a></td>
 <!--Sing Along-->
-<td style="background-color: #ffffff; border: 0; margin: 0;"><a href=" http://www.sharingworld.com/the-sing-along-word-wizard-demo"><span style="color: #cc0000; font-size: 16px;">The Sing-Along Word Wizard DVD:</span><br/><span style="color: #800080;"> “Mother Goose Nursery Rhymes"</span><br/>$5.95 USD</a><a href=" http://www.sharingworld.com/the-sing-along-word-wizard-demo"><img class="aligncenter size-thumbnail wp-image-593" src="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-150x150.jpg" alt="MG image" width="150" height="150" /></a><a href="http://www.payloadz.com/go/?id=3135410" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" border="0" /></a></td>
+<td style="background-color: #ffffff; border: 0; margin: 0;"><a href=" http://www.sharingworld.com/the-sing-along-word-wizard-demo"><span style="color: #cc0000; font-size: 16px;">The Sing-Along Word Wizard:</span><br/><span style="color: #800080;"> “Mother Goose Nursery Rhymes"</span><br/>$5.95 USD</a><a href=" http://www.sharingworld.com/the-sing-along-word-wizard-demo"><img class="aligncenter size-thumbnail wp-image-593" src="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-150x150.jpg" alt="MG image" width="150" height="150" /></a><a href="http://www.payloadz.com/go/?id=3135410" target="paypal"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" border="0" /></a></td>
 </tr>
 </tbody>
 </table>
