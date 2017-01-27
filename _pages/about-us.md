@@ -12,6 +12,7 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
+<p style="font-size: 11px";>*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</p>
 <a href="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol.jpg" rel="attachment wp-att-12"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol-150x150.jpg" alt="Print" width="50" height="50" class="aligncenter size-thumbnail wp-image-12" /></a>We are an innovative company that creates, produces and distributes literacy-based content and technologies. Our multi-talented team of media and education experts believes “it’s-better-together” when it comes to composing new ways for young minds to experience the joys of reading, learning and human understanding through the power of music. 
 
 [efaccordion id="01"] [efitems title="mission" text="
@@ -25,7 +26,6 @@ Shortly after Richie finished recording the album in 2010, he became ill and die
 [efitems title="projects" text="
 Sharing World Entertainment is currently releasing <em>Mixed Bag For Kids of All Ages,</em> Volume 1/ Original Songs – first in a series of <em>Lyrics 4 Literacy*</em> – enhanced Song Picture Books. 
 <br/>
-<p style="font-size: 11px";>*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</p>
 Volume 2/Cover Songs is being assembled for estimated release in Winter 2017.
 <br/>
 Lifted by Richie Haven’s inspired voice and sharing spirit, volumes 1 and 2 of our sing-along, read-along, learn-along Song Picture Books promise to fly out of rainbows and over the stars, bringing out the best in all of us.
