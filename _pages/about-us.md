@@ -23,9 +23,9 @@ In 2008, the legendary music icon and social activist, Richie Havens, joined inv
 Shortly after Richie finished recording the album in 2010, he became ill and died in 2013.  Kyle and the rest of the Sharing World team have vowed to honor him by sustaining the empowering vision of more literate world by spreading the music of reading to 'kids of all ages.' "]
 
 [efitems title="projects" text="
-Sharing World Entertainment is currently releasing <em>Mixed Bag For Kids of All Ages,</em> Volume 1/ Original Songs – first in a series of <em>Lyrics 4 Literacy</em><sup>TM</sup> – enhanced Song Picture Books. 
+Sharing World Entertainment is currently releasing <em>Mixed Bag For Kids of All Ages,</em> Volume 1/ Original Songs – first in a series of <em>Lyrics 4 Literacy*</em> – enhanced Song Picture Books. 
 <br/>
-
+<p style="font-size: 11px";>*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</p>
 Volume 2/Cover Songs is being assembled for estimated release in Winter 2017.
 <br/>
 Lifted by Richie Haven’s inspired voice and sharing spirit, volumes 1 and 2 of our sing-along, read-along, learn-along Song Picture Books promise to fly out of rainbows and over the stars, bringing out the best in all of us.
