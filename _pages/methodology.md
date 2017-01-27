@@ -12,8 +12,8 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<h2><em>Lyrics 4 Literacy</em><sup>*</sup></h2>
-<p style="font-size: 11px";>*Lyrics 4 Literacy is a Trademark<sup>TM</sup> and Service Mark<sup>SM</sup>of Sharing World Entertainment, LLC></p>
+<h2><em>Lyrics 4 Literacy*</em></h2>
+<p style="font-size: 11px";>*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC></p>
 <em>Lyrics 4 Literacy*</em> - an innovative method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults. The interaction creates an environment of educational    family engagement by making reading as natural as singing a song together. 
 
 Using popular music genres with illustrated, easy-to-read lyrics and song-related activities, <em>Lyrics 4 Literacy*</em> reinforces word recognition, retention, comprehension, pronunciation, spelling, reading fluency, writing, drawing, dancing and critical thinking without missing a beat.
