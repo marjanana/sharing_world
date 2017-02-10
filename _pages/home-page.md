@@ -12,10 +12,9 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="text-align: center;"><span style="color: #cc0000;"><strong>Mixed Bag For Kids of All Ages: </strong></span><span style="color: #800080;">Vol. 1 Original Songs</span></p>
-
+<p style="text-align: center;"></p>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
-
+<p style="text-align: center;"><span style="color: #cc0000;"><strong>Mixed Bag For Kids of All Ages: </strong></span><span style="color: #800080;">Vol. 1 Original Songs</span></p>
 [URIS id=219]
 
 <em>Mixed Bag For Kids Of All Ages</em> provides parents, grandparents, older siblings, relatives, caregivers and teachers a harmonious guide to sharing songs, lyrics and playful activities to nurture the confidence of beginning readers, ages 3–7.
@@ -29,10 +28,7 @@ Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings
 <!-- Begin MailChimp Signup Form -->
 
 <style type="text/css">
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }<br />
-  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.<br />
-     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br />
-</style>
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }<br />  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.<br />     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br /></style>
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
 <div id="mc_embed_signup_scroll">
 
