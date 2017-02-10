@@ -13,9 +13,17 @@ wp_booklet2_pages:
   - null
 ---
 <p style="text-align: center;"></p>
-If you've purchased the book in a bookstore or a retail chain, please complete form below to download the <em>Lyrics 4 Literacy</em> MP3 album.
+
+
+<hr />
+
+<!-- Begin MailChimp Signup Form -->
+
+&nbsp;
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
 <div id="mc_embed_signup_scroll">
+
+If you've purchased the book in a bookstore or a retail chain, please complete form below to download the <em>Lyrics 4 Literacy</em> MP3 album.
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group"><label for="mce-MMERGE3">Add a valid ISBN number without dashes<span class="asterisk">*</span></label>
 <input id="numbers" class="required" maxlength="13" name="MMERGE3" type="text" />
