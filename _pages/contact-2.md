@@ -12,4 +12,4 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-[wd_contact_form id="1"]
+[contact-form-7 id="1098" title="Contact form 1"]
