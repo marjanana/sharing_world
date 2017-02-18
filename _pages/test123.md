@@ -15,10 +15,7 @@ wp_booklet2_pages:
 <hr />
 
 <style type="text/css">
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }<br />
-  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.<br />
-     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br />
-</style>
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }<br />  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.<br />     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br /></style>
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="http://sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
 <div id="mc_embed_signup_scroll">
 
