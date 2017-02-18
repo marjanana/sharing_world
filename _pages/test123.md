@@ -1,0 +1,35 @@
+---
+ID: 1107
+post_title: test123
+author: MandarinTangerine
+post_date: 2017-02-18 01:13:59
+post_excerpt: ""
+layout: page
+permalink: http://www.sharingworld.com/test123
+published: true
+wp_booklet2_properties:
+  - 'a:12:{s:5:"width";s:3:"600";s:6:"height";s:3:"400";s:5:"speed";s:4:"1000";s:5:"delay";s:4:"5000";s:9:"direction";s:3:"LTR";s:14:"arrows_enabled";b:0;s:20:"page_numbers_enabled";b:1;s:14:"cover_behavior";s:4:"open";s:7:"padding";s:2:"10";s:18:"thumbnails_enabled";b:0;s:13:"popup_enabled";s:0:"";s:5:"theme";s:7:"default";}'
+wp_booklet2_pages:
+  - null
+---
+"&gt;<label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
+<input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" />
+<div id="mce-responses" class="clear"></div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_8a8e432459ea439225841d8fe_ea083f7283" type="text" value="" /></div>
+<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Submit" /></div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript'>	 	 
+function isNumeric(elem, helperMsg){	 	 
+ var correct = "9780578173009";	 	 
+ var guess = document.getElementById("numbers").value;	 	 
+ while (guess != correct){	 	 
+ guess = prompt ("ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book; enter the number in the area below without dashes");	 	 
+ if (guess == correct){	 	 
+ return submit;	 	 
+ } else {	 	 
+ alert ("it starts with: 9780....");	 	 
+ }	 	 
+}	 	 
+}	 	 
+</script>
