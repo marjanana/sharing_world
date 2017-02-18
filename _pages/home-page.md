@@ -37,7 +37,14 @@ Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings
 
 </div>
 <div></div>
+<div></div>
 </form></div>
+<style type="text/css">
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }<br />  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.<br />     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br /></style>
+<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="http://sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+
+If you've purchased the book in a bookstore or a retail chain, please complete form below to download the <em>Lyrics 4 Literacy</em> MP3 album.
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group"><label for="mce-MMERGE3">Add a valid ISBN number without dashes<span class="asterisk">*</span></label>
 <input id="numbers" class="required" maxlength="13" name="MMERGE3" type="text" />
@@ -51,6 +58,8 @@ Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings
 <div id="mce-responses" class="clear"></div>
 <div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_8a8e432459ea439225841d8fe_ea083f7283" type="text" value="" /></div>
 <div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Submit" /></div>
+</div>
+</form></div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
 <script type='text/javascript'>
