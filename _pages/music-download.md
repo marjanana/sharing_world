@@ -13,10 +13,8 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="text-align: center;"><span style="color: #cc0000;"><strong>Mixed Bag For Kids of All Ages: </strong></span><span style="color: #800080;">Vol. 1 Original Songs</span></p>
+<p style="text-align: center;"></p>
 &nbsp;
-
-<hr />
 
 <!-- Begin MailChimp Signup Form -->
 
