@@ -25,16 +25,17 @@ If you've purchased the book in a bookstore or a retail chain, please complete f
 <div class="indicates-required">To download the music fill out the form below:</div>
 <div class="indicates-required"></div>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<h3 class="mc-field-group"><label for="mce-Pword">Password <span class="asterisk">*</span></label>
-<input id="numbers" class="required" maxlength="13" name="MMERGE3" type="text" /></h3>
+<p class="mc-field-group"><label for="mce-Pword">Password <span class="asterisk">*</span></label>
+<input id="numbers" class="required" maxlength="13" name="MMERGE3" type="text" /></p>
+
 </div>
 </form></div>
 <p style="font-size: 10px;">ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book</p>
+<p class="mc-field-group"><label for="mce-FNAME">First Name </label>
+<input id="mce-FNAME" class="" name="FNAME" type="text" value="" /></p>
+<p class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
+<input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></p>
 
-<h3 class="mc-field-group"><label for="mce-FNAME">First Name </label>
-<input id="mce-FNAME" class="" name="FNAME" type="text" value="" /></h3>
-<h3 class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
-<input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></h3>
 <div id="mce-responses" class="clear"></div>
 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 <div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_8a8e432459ea439225841d8fe_ea083f7283" type="text" value="" /></div>
