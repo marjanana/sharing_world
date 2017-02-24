@@ -1,6 +1,6 @@
 ---
 ID: 1026
-post_title: 'Blog </br>dsds'
+post_title: 'Blog </br><span class="test">dsds </span>'
 author: Garvey Rich
 post_date: 2017-01-21 00:28:53
 post_excerpt: ""
