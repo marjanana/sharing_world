@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: New Song Picture Book
+post_title: home
 author: pmbenp@earthlink.net
 post_date: 2016-02-15 00:42:31
 post_excerpt: ""
@@ -12,27 +12,27 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="text-align: center;"><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Vol. 1 Original Songs</span></strong></br></p>
-[URIS id=219]
+<p style="text-align: center;"><span style="color:#c2c2a3;">New Song Picture Book</span><br/><span style="color:#cc0000;"><strong>Mixed Bag For Kids of All Ages: </span><span style="color: #800080;">Vol. 1 Original Songs</span></strong></br><span style="text-align: center; color: #3366ff; font-size: 30px;">Featuring</span><span style="text-align: center; color: #3366ff; font-style: italic; font-size: 30px;"> Lyrics 4 Literacy™</span></p>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
-<table style="margin-bottom: 0">
-<tr style="margin-bottom: 0">
-<td style="background-color: #ffffff; border: 0; margin: 0"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size:16px>Book/MP3</span>
-<input name=submit type=image alt="Tangible goods purchase - Download with PayLoadz"border=0 src=http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png style=border:none;background:#FFF><input name=cmd type=hidden value=_cart> <input name=business type=hidden value=sharingworld9@gmail.com> <input name=item_name type=hidden value="Mixed Bag for Kids: Book/MP3 Download"> <input name=item_number type=hidden value=MB-mp3> <input name=amount type=hidden value=19.95> <input name=no_shipping type=hidden value=2> <input name=return type=hidden value=https://www.payloadz.com/d1/default.aspx> <input name=no_note type=hidden value=1>  <input name=notify_url type=hidden value=http://www.payloadz.com/pay/index.asp> <input name=shipping type=hidden value=4.95> <input name=handling type=hidden value=0.00> <input name=rm type=hidden value=2> <input name=mrb type=hidden value=R-5L192964UH642590D> <input name=bn type=hidden value=PayLoadz> <input name=pal type=hidden value=QNV3YGA7EVCDE> <input name=cbt type=hidden value="Continue to Download"> <input name=tangible type=hidden value=true> <input name="shopping_url "type=hidden></form></td>
-
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size: 18px>Book/CD&nbsp;</span> 
-<input name=submit type=image alt="Tangible goods purchase - Download with PayLoadz"border=0 src=http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png style=border:none;background:#FFF> <input name=cmd type=hidden value=_cart> <input name=business type=hidden value=sharingworld9@gmail.com> <input name=item_name type=hidden value="Mixed Bag for Kids: Book/CD"> <input name=item_number type=hidden value="MB - CD"> <input name=amount type=hidden value=25.95> <input name=no_shipping type=hidden value=2> <input name=return type=hidden value=https://www.payloadz.com/d1/default.aspx> <input name=no_note type=hidden value=1> <input name=notify_url type=hidden value=http://www.payloadz.com/pay/index.asp> <input name=shipping type=hidden value=4.95> <input name=handling type=hidden value=0.00> <input name=rm type=hidden value=2> <input name=mrb type=hidden value=R-5L192964UH642590D> <input name=bn type=hidden value=PayLoadz> <input name=pal type=hidden value=QNV3YGA7EVCDE> <input name=cbt type=hidden value="Continue to Download"> <input name=tangible type=hidden value=true> <input name="shopping_url "type=hidden></form></td>
-</tr>
-</table>
-
+[URIS id=219]
 <em>Mixed Bag For Kids Of All Ages</em>  provides parents, grandparents, older siblings, relatives, caregivers and teachers a harmonious guide to sharing songs, lyrics and playful activities to nurture the confidence of beginning readers, ages 3–7. 
 
-This delightfully illustrated 40-page Song Picture Book features <em>Lyrics 4 Literacy</em><sup>TM</sup> – a teaching method that harnesses the power of music to promote one-on-one quality time between children and adults – thus fostering a warm and supportive emotional environment for early learning of word recognition, comprehension, retention, pronunciation, spelling, reading fluency, writing, drawing, dancing and critical thinking. 
+This delightfully illustrated 40-page Song Picture Book features <em>Lyrics 4 Literacy</em><sup>TM</sup> – a teaching method that harnesses the power of music to promote one-on-one quality time between children and adults – thus fostering a warm and supportive emotional environment for early learning of word recognition, comprehension, retention, pronunciation, spelling, reading fluency, writing, drawing, dancing     and critical thinking. 
 
 Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings six original children’s songs for all to enjoy and participate in the “Music of Reading™” together.
 
 
+<table style="margin-bottom: 0">
 
+<tr style="margin-bottom: 0">
+<td style="background-color: #ffffff; border: 0; margin: 0"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size:16px>Book/MP3</span>
+<input name=submit type=image alt="Tangible goods purchase - Download with PayLoadz"border=0 src=http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png style=border:none;background:#FFF><input name=cmd type=hidden value=_cart> <input name=business type=hidden value=sharingworld9@gmail.com> <input name=item_name type=hidden value="Mixed Bag for Kids: Book/MP3 Download"> <input name=item_number type=hidden value=MB-mp3> <input name=amount type=hidden value=19.95> <input name=no_shipping type=hidden value=2> <input name=return type=hidden value=https://www.payloadz.com/d1/default.aspx> <input name=no_note type=hidden value=1>  <input name=notify_url type=hidden value=http://www.payloadz.com/pay/index.asp> <input name=shipping type=hidden value=4.95> <input name=handling type=hidden value=0.00> <input name=rm type=hidden value=2> <input name=mrb type=hidden value=R-5L192964UH642590D> <input name=bn type=hidden value=PayLoadz> <input name=pal type=hidden value=QNV3YGA7EVCDE> <input name=cbt type=hidden value="Continue to Download"> <input name=tangible type=hidden value=true> <input name="shopping_url "type=hidden></form></td>
+
+<td style="background-color: #ffffff; border: 0;"><form action="https://www.payloadz.com/go/?tangible=1"method=post target=paypal><span style=font-size: 16px>Book/CD&nbsp;</span> 
+<input name=submit type=image alt="Tangible goods purchase - Download with PayLoadz"border=0 src=http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png style=border:none;background:#FFF> <input name=cmd type=hidden value=_cart> <input name=business type=hidden value=sharingworld9@gmail.com> <input name=item_name type=hidden value="Mixed Bag for Kids: Book/CD"> <input name=item_number type=hidden value="MB - CD"> <input name=amount type=hidden value=25.95> <input name=no_shipping type=hidden value=2> <input name=return type=hidden value=https://www.payloadz.com/d1/default.aspx> <input name=no_note type=hidden value=1> <input name=notify_url type=hidden value=http://www.payloadz.com/pay/index.asp> <input name=shipping type=hidden value=4.95> <input name=handling type=hidden value=0.00> <input name=rm type=hidden value=2> <input name=mrb type=hidden value=R-5L192964UH642590D> <input name=bn type=hidden value=PayLoadz> <input name=pal type=hidden value=QNV3YGA7EVCDE> <input name=cbt type=hidden value="Continue to Download"> <input name=tangible type=hidden value=true> <input name="shopping_url "type=hidden></form></td>
+</tr>
+
+</table>
 
 <hr />
 
