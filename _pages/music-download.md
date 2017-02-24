@@ -23,17 +23,17 @@ wp_booklet2_pages:
 
 If you've purchased the book in a bookstore or a retail chain, please complete form below to download the <em>Lyrics 4 Literacy</em><sup>TM</sup> MP3 album.
 <div class="indicates-required">To download the music fill out the form below:</div>
+<div class="indicates-required"> <span class="asterisk">*</span> indicates required</div>
 <div class="indicates-required"></div>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<p style="font-size:17px;">Password *</span>
+<p style="font-size: 17px;">Password *
 <input id="numbers" class="required" maxlength="13" name="MMERGE3" type="text" /></p>
 
 </div>
 </form></div>
 <p style="font-size: 10px;">ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book</p>
-<p style="font-size:17px;">First Name</span>
+<p style="font-size: 17px;">First Name
 <input id="mce-FNAME" class="" name="FNAME" type="text" value="" /></p>
-<p style="font-size:17px;">Email Address *</span>
+<p style="font-size: 17px;">Email Address *
 <input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></p>
 
 <div id="mce-responses" class="clear"></div>
