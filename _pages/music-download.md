@@ -22,8 +22,10 @@ wp_booklet2_pages:
 <div id="mc_embed_signup_scroll">
 
 If you've purchased the book in a bookstore or a retail chain, please complete form below to download the <em>Lyrics 4 Literacy</em><sup>TM</sup> MP3 album.
+<div class="indicates-required">To download the music fill out the form below</div>
+<div class="indicates-required"></div>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group"><label for="mce-MMERGE3">To download the music fill out the form below.<span class="asterisk">*</span></label>
+<div class="mc-field-group"><label for="mce-EMAIL">Password <span class="asterisk">*</span></label>
 <input id="numbers" class="required" maxlength="13" name="MMERGE3" type="text" /></div>
 </div>
 </form></div>
