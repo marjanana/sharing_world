@@ -25,15 +25,15 @@ If you've purchased the book in a bookstore or a retail chain, please complete f
 <div class="indicates-required">To download the music fill out the form below:</div>
 <div class="indicates-required"></div>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<p class="mc-field-group"><label for="mce-Pword">Password <span class="asterisk">*</span></label>
+<p style="font-size:17px;">Password *</span>
 <input id="numbers" class="required" maxlength="13" name="MMERGE3" type="text" /></p>
 
 </div>
 </form></div>
 <p style="font-size: 10px;">ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book</p>
-<p class="mc-field-group"><label for="mce-FNAME">First Name </label>
+<p style="font-size:17px;">First Name</span>
 <input id="mce-FNAME" class="" name="FNAME" type="text" value="" /></p>
-<p class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
+<p style="font-size:17px;">Email Address *</span>
 <input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></p>
 
 <div id="mce-responses" class="clear"></div>
