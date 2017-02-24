@@ -12,33 +12,36 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
+<span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</span>
 <h2><em>Lyrics 4 Literacy*</em></h2>
-<p style="font-size: 11px";>*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</p>
-<em>Lyrics 4 Literacy*</em> - an innovative method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults. The interaction creates an environment of educational    family engagement by making reading as natural as singing a song together. 
+<em>Lyrics 4 Literacy*</em> - an innovative method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults. The interaction creates an environment of educational family engagement by making reading as natural as singing a song together.
 
 Using popular music genres with illustrated, easy-to-read lyrics and song-related activities, <em>Lyrics 4 Literacy*</em> reinforces word recognition, retention, comprehension, pronunciation, spelling, reading fluency, writing, drawing, dancing and critical thinking without missing a beat.
-&nbsp;
 <h2><em>ReadSpeak Visible Language</em></h2>
-<p style="text-align: left;"><em>ReadSpeak Visible Language</em> – a groundbreaking, audio-visual caption technology – accelerates the achievement of literacy and language skills.
-
+<p style="text-align: left;"><em>ReadSpeak Visible Language</em> – a groundbreaking, audio-visual caption technology – accelerates the achievement of literacy and language skills.</p>
 During the flow of video content dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This “animated special effect” makes learning how to read as natural as learning to talk by linking the appearance of the printed words onscreen with their equivalent sounds – the fundamental principle of reading.
 
-
 [embedyt]https://youtu.be/CZMlinp9oZ8[/embedyt]
-&nbsp;
-
 <h2>Validation</h2>
-<hr/>
+
+<hr />
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" rel="">CLASSROOM EVALUATION - <em>Mixed Bag For Kids</em></a></p>
-<hr/>
-<p style="text-align: left;">[video_lightbox_youtube video_id="KyH5JG78F1E&rel=false" width="840" height="680" anchor=" PETE SEEGER'S ENDORSEMENT - <em>Mixed Bag For Kids</em>"]</p>
+
+
+<hr />
+<p style="text-align: left;">[video_lightbox_youtube video_id="KyH5JG78F1E&amp;rel=false" width="840" height="680" anchor=" PETE SEEGER'S ENDORSEMENT - <em>Mixed Bag For Kids</em>"]</p>
+
+
 <hr />
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/02/validation_snake_river.pdf" target="_blank">SNAKE RIVER MONTESSORI SCHOOL - ReadSpeak validation letter</a></p>
 
+
 <hr />
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/RockvilleCenterPL.pdf" rel="">ROCKVILLE CENTER PUBLIC LIBRARY - ReadSpeak validation letter </a></p>
-<hr>
-&nbsp;
 
+
+<hr />
+
+&nbsp;
 <p style="text-align: center;">[feather_share skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
