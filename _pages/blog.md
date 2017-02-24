@@ -1,6 +1,6 @@
 ---
 ID: 1026
-post_title: Blog
+post_title: 'Blog </br>'
 author: Garvey Rich
 post_date: 2017-01-21 00:28:53
 post_excerpt: ""
