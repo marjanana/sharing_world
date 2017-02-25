@@ -74,10 +74,3 @@ function isNumeric(elem, helperMsg){
 }
 }
 </script>
-
-<hr />
-
-&nbsp;
-<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="http://sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
-<div id="mc_embed_signup_scroll"></div>
-</form></div>
