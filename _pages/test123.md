@@ -52,10 +52,10 @@ If you've purchased the book in a bookstore or a retail chain, please complete f
 <input id="mce-FNAME" class="" name="FNAME" type="text" value="" /></div>
 <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
 <input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></div>
-<div id="mce-responses" class="clear"></div>
+<div id="mce-responses" class="show"></div>
 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 <div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_8a8e432459ea439225841d8fe_ea083f7283" type="text" value="" /></div>
-<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Submit" /></div>
+<div class="show"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Submit" /></div>
 </div>
 </form></div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
