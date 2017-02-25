@@ -22,16 +22,22 @@ wp_booklet2_pages:
 <div id="mc_embed_signup_scroll">
 
 If you've purchased the book in a bookstore or a retail chain, please complete form below to download the <em>Lyrics 4 Literacy</em><sup>TM</sup> MP3 album.
+
+</div>
+<div><!--block-->To download the music fill out the form below</div>
+<div id="mc_embed_signup_scroll">
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group"><label for="mce-MMERGE3">Add a valid ISBN number without dashes<span class="asterisk">*</span></label>
+<div class="indicates-required"></div>
+</br>
+<div class="mc-field-group"><span style="font-size: 16px;">Password *</span>
 <input id="numbers" class="required" maxlength="13" name="MMERGE3" type="text" /></div>
 </div>
 </form></div>
 <p style="font-size: 10px;">ISBN is a 13 digit number printed on the back cover of the Mixed Bag For Kids Picture Book</p>
 
-<div class="mc-field-group"><label for="mce-FNAME">First Name </label>
+<div class="mc-field-group"><span style="font-size: 16px;">First Name</span>
 <input id="mce-FNAME" class="" name="FNAME" type="text" value="" /></div>
-<div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
+<div class="mc-field-group"><span style="font-size: 16px;">Email Address *</span>
 <input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></div>
 <div id="mce-responses" class="clear"></div>
 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
