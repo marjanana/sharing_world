@@ -13,7 +13,7 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark™ and Service Mark℠ of Sharing World Entertainment, LLC</span>
+<span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</span>
 <!-- Begin MailChimp Signup Form -->
 <p style="text-align: center;"><style type="text/css">
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }<br />  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.<br />     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br /></style></p>
