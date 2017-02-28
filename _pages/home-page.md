@@ -34,6 +34,10 @@ wp_booklet2_pages:
 This delightfully illustrated 40-page Song Picture Book features <em>Lyrics 4 Literacy</em> – a teaching method that harnesses the power of music to promote one-on-one quality time between children and adults – thus fostering a warm and supportive emotional environment for early learning of word recognition, comprehension, retention, pronunciation, spelling, reading fluency, writing, drawing, dancing and critical thinking.
 
 Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings six original children’s songs for all to enjoy and participate in the “Music of Reading” together.
+
+&nbsp;
+
+*Lyrics 4 Literacy is a TrademarkTM and Service Mark℠ of Sharing World Entertainment, LLC
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
 <div id="mc_embed_signup_scroll"></div>
 </form></div>
