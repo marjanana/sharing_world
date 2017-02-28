@@ -37,7 +37,4 @@ Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings
 
 &nbsp;
 
-*Lyrics 4 Literacy is a TrademarkTM and Service Mark℠ of Sharing World Entertainment, LLC
-<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
-<div id="mc_embed_signup_scroll"></div>
-</form></div>
+<span style="font-size: 11px;">*Lyrics 4 Literacy is a TrademarkTM and Service Mark℠ of Sharing World Entertainment, LLC</span>
