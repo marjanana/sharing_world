@@ -12,5 +12,5 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<span style="font-size: 11px;">*Lyrics 4 Literacy is a TrademarkTM and Service Mark℠ of Sharing World Entertainment, LLC</span>
+<span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark™ and Service Mark℠ of Sharing World Entertainment, LLC</span>
 [contact-form-7 id="1098" title="Contact form 1"]
