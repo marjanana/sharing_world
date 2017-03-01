@@ -12,3 +12,4 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
+[woocommerce_checkout]
