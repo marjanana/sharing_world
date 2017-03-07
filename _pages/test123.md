@@ -12,16 +12,30 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<h3 style="text-align: left;"></h3>
-<table style="margin-bottom: 0;">
-<tbody>
-<tr style="margin-bottom: 0;">
-<td style="background-color: #ffffff; border: 0; margin: 0;"><form action="https://www.payloadz.com/go/?tangible=1" method="post" target="paypal"><span style="font-size: 16px;">Book/MP3</span>
-<input style="border: none; background: #FFF;" alt="Tangible goods purchase - Download with PayLoadz" name="submit" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" type="image" /><input name="cmd" type="hidden" value="_cart" /> <input name="business" type="hidden" value="sharingworld9@gmail.com" /> <input name="item_name" type="hidden" value="Mixed Bag for Kids: Book/MP3 Download" /> <input name="item_number" type="hidden" value="MB-mp3" /> <input name="amount" type="hidden" value="19.95" /> <input name="no_shipping" type="hidden" value="2" /> <input name="return" type="hidden" value="https://www.payloadz.com/d1/default.aspx" /> <input name="no_note" type="hidden" value="1" /> <input name="notify_url" type="hidden" value="http://www.payloadz.com/pay/index.asp" /> <input name="shipping" type="hidden" value="0.00" /> <input name="handling" type="hidden" value="0.00" /> <input name="rm" type="hidden" value="2" /> <input name="mrb" type="hidden" value="R-5L192964UH642590D" /> <input name="bn" type="hidden" value="PayLoadz" /> <input name="pal" type="hidden" value="QNV3YGA7EVCDE" /> <input name="cbt" type="hidden" value="Continue to Download" /> <input name="tangible" type="hidden" value="true" /> <input name="shopping_url " type="hidden" /></form></td>
-<td style="background-color: #ffffff; border: 0;"><form action="https://www.payloadz.com/go/?tangible=1" method="post" target="paypal"><span style="font-size: 16px;">Book/CD </span>
-<input style="border: none; background: #FFF;" alt="Tangible goods purchase - Download with PayLoadz" name="submit" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" type="image" /> <input name="cmd" type="hidden" value="_cart" /> <input name="business" type="hidden" value="sharingworld9@gmail.com" /> <input name="item_name" type="hidden" value="Mixed Bag for Kids: Book/CD" /> <input name="item_number" type="hidden" value="MB - CD" /> <input name="amount" type="hidden" value="25.95" /> <input name="no_shipping" type="hidden" value="2" /> <input name="return" type="hidden" value="https://www.payloadz.com/d1/default.aspx" /> <input name="no_note" type="hidden" value="1" /> <input name="notify_url" type="hidden" value="http://www.payloadz.com/pay/index.asp" /> <input name="shipping" type="hidden" value="0.00" /> <input name="handling" type="hidden" value="0.00" /> <input name="rm" type="hidden" value="2" /> <input name="mrb" type="hidden" value="R-5L192964UH642590D" /> <input name="bn" type="hidden" value="PayLoadz" /> <input name="pal" type="hidden" value="QNV3YGA7EVCDE" /> <input name="cbt" type="hidden" value="Continue to Download" /> <input name="tangible" type="hidden" value="true" /> <input name="shopping_url " type="hidden" /></form></td>
-</tr>
-</tbody>
-</table>
+<!-- Begin MailChimp Signup Form -->
 
-<hr />
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }<br />
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.<br />
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br />
+</style>
+<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="//sharingworld.us13.list-manage.com/subscribe/post?u=8a8e432459ea439225841d8fe&amp;id=ea083f7283" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
+</label>
+<input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></div>
+<div class="mc-field-group"><label for="mce-FNAME">First Name </label>
+<input id="mce-FNAME" class="" name="FNAME" type="text" value="" /></div>
+<div class="mc-field-group"><label for="mce-MMERGE3">Add ISBN number <span class="asterisk">*</span>
+</label>
+<input id="mce-MMERGE3" class="required" name="MMERGE3" type="text" value="" /></div>
+<div id="mce-responses" class="clear"></div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_8a8e432459ea439225841d8fe_ea083f7283" type="text" value="" /></div>
+<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe" /></div>
+</div>
+</form></div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
