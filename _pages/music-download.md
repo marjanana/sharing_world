@@ -60,7 +60,7 @@ wp_booklet2_pages:
 
 <script type='text/javascript'>
 function isNumeric(elem, helperMsg){
-        var correct = "free";
+        var correct = "share";
         var guess = document.getElementById("numbers").value;
           while (guess != correct){
          guess = prompt ("You must insert a password");
