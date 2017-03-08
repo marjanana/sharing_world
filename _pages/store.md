@@ -13,13 +13,13 @@ wp_booklet2_pages:
   - null
 ---
 <p style="font-size: 11px; text-align: center;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</p>
-<a href="http://www.payloadz.com/go/view_cart.asp?id_user=334450" target="paypal"><img src="http://image.payloadz.com/images/btn-viewcart-b2.png" alt="" border="0" /></a>
+<a href="http://www.sharingworld.com/cart" target="_blank"><img src="http://image.payloadz.com/images/btn-viewcart-b2.png" alt="" border="0" /></a>
 <table style="margin-bottom: 0;">
 <tbody>
 <tr style="margin-bottom: 0;">
-<td style="background-color: #fff; border: 0; margin: 0;"><a href=" http://www.sharingworld.com/mixed-bag-for-kids-demo-2"><span style="color: #c00; font-size: 16px;">Mixed Bag For Kids of All Ages:</span>
+<td style="background-color: #fff; border: 0; margin: 0;"><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><span style="color: #c00; font-size: 16px;">Mixed Bag For Kids of All Ages:</span>
 <span style="color: purple;">"Volume 1, Original Songs"</span>
-Book/MP3: $19.95 USD + shipping  Book/CD: $25.95 USD + shipping</a><img class="aligncenter wp-image-1104 size-full" src="http://www.sharingworld.com/wp-content/uploads/2016/02/download.png" width="125" height="95" /><a href=" http://www.sharingworld.com/mixed-bag-for-kids-demo-2"><img class="aligncenter size-thumbnail wp-image-178" src="http://www.sharingworld.com/wp-content/uploads/2016/03/frontMB-150x150.jpg" alt="frontMB" width="150" height="150" /></a><a href=" http://www.sharingworld.com/mixed-bag-for-kids-demo-2"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></td>
+Book &amp; MP3: $19.95 USD / Book &amp; CD: $25.95 USD + shipping</a><img class="aligncenter wp-image-1104 size-full" src="http://www.sharingworld.com/wp-content/uploads/2016/02/download.png" width="125" height="95" /><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><img class="aligncenter size-thumbnail wp-image-178" src="http://www.sharingworld.com/wp-content/uploads/2016/03/frontMB-150x150.jpg" alt="frontMB" width="150" height="150" /></a><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></td>
 <!--Vol 1-->
 <td style="background-color: #ffffff; border: 0;"><a href="http://www.sharingworld.com/volume-1-demo"><span style="color: #cc0000; font-size: 16px;">Volume 1:</span>
 <span style="color: #800080;">"Original Songs"</span>
