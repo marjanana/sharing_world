@@ -12,8 +12,7 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark</span><span><span style="font-size: xx-small;"><b>*</b></span><span style="font-size: 11px;"> and Service Mark</span><span style="font-weight: bold;"><sup>SM</sup></span><span style="font-size: 11px;"> of Sharing World Entertainment, LLC</span></span>
-
+<p style="text-align: center;"><span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</span></p>
 [URIS id=219]
 
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
