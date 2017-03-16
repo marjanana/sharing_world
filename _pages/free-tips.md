@@ -13,4 +13,6 @@ wp_booklet2_pages:
   - null
 ---
 <p style="text-align: center;"><span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</span></p>
-[pdf-embedder url="http://www.sharingworld.com/wp-content/uploads/2017/03/Mentoring-Tips_corrected2.pdf" title="Mentoring Tips_corrected2"]
+test
+
+&nbsp;
