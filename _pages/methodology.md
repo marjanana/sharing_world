@@ -12,14 +12,16 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</span>
-<h2><em>Lyrics 4 Literacy*</em></h2>
-<em>Lyrics 4 Literacy*</em> - an innovative method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults. The interaction creates an environment of educational family engagement by making reading as natural as singing a song together.
+<p style="text-align: center;"><span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</span></p>
 
-Using popular music genres with illustrated, easy-to-read lyrics and song-related activities, <em>Lyrics 4 Literacy*</em> reinforces word recognition, retention, comprehension, pronunciation, spelling, reading fluency, writing, drawing, dancing and critical thinking without missing a beat.
+<h2><em>Lyrics 4 Literacy*</em></h2>
+<em>Lyrics 4 Literacy* </em>– a unique method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults. The methodology generates an environment of educational family engagement by making reading as natural as singing a song together.
+
+Combining age appropriate music selections with illustrated, easy-to-read lyrics and song-related activities, <em>Lyrics 4 Literacy*</em> reinforces word recognition, spelling, pronunciation, comprehension, reading fluency, writing, drawing, dancing and critical thinking – without missing a beat.
 <h2><em>ReadSpeak Visible Language</em></h2>
-<p style="text-align: left;"><em>ReadSpeak Visible Language</em> – a groundbreaking, audio-visual caption technology – accelerates the achievement of literacy and language skills.</p>
-During the flow of video content dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This “animated special effect” makes learning how to read as natural as learning to talk by linking the appearance of the printed words onscreen with their equivalent sounds – the fundamental principle of reading.
+<em>ReadSpeak Visible Language</em> – an innovative and engaging caption technology – accelerates the achievement of literacy and language skills.
+
+During the flow of video content dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This “animated special effect” mimics fundamental principles of reading by linking the simultaneous appearance of the printed words on-screen with their equivalent spoken sounds.
 
 [embedyt]https://youtu.be/CZMlinp9oZ8[/embedyt]
 <h2>Validation</h2>
