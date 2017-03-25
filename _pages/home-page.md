@@ -29,11 +29,11 @@ wp_booklet2_pages:
 </tbody>
 </table>
 <img class="aligncenter wp-image-1104 size-full" src="http://www.sharingworld.com/wp-content/uploads/2016/02/download.png" width="220" height="105" />
+<p style="text-align: center;"><strong>Make early reading achievement as natural as singing a song together.</strong></p>
+<em>Mixed Bag For Kids Of All Ages</em> harnesses the power of music to promote one-on-one quality time between children and adults.
 
-<em>Mixed Bag For Kids Of All Ages</em> provides parents, grandparents, older siblings, relatives, caregivers and teachers a harmonious guide to sharing songs, lyrics and playful activities to nurture the confidence of beginning readers, ages 3–7.
+Easy family fun invites parents, grandparents, friends and relatives to share songs, lyrics and activities that nurture confidence in beginner readers, 4–8.
 
-This delightfully illustrated 40-page Song Picture Book features <em>Lyrics 4 Literacy</em> – a teaching method that harnesses the power of music to promote one-on-one quality time between children and adults – thus fostering a warm and supportive emotional environment for early learning of word recognition, comprehension, retention, pronunciation, spelling, reading fluency, writing, drawing, dancing and critical thinking.
-
-Legendary Woodstock icon Richie Havens – <em>Mister Word Wizard</em> – sings six original children’s songs for all to enjoy and participate in the “Music of Reading” together.
+<em>Lyrics 4 Literacy</em>* – a groundbreaking teaching method for parents – helps to build and support a warm emotional environment for mastering early reading skills: word recognition, pronunciation, comprehension, spelling and writing.
 
 &nbsp;
