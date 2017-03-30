@@ -28,7 +28,9 @@ wp_booklet2_pages:
 </tr>
 </tbody>
 </table>
-<img class="aligncenter wp-image-1104 size-full" src="http://www.sharingworld.com/wp-content/uploads/2016/02/download.png" width="220" height="105" />
+&nbsp;
+
+<img class="aligncenter wp-image-1354 size-full" src="http://www.sharingworld.com/wp-content/uploads/2016/02/amazon.png" width="284" height="105" />
 <p style="text-align: center;"><strong>Make early reading achievement as natural as singing a song together.</strong></p>
 <em>Mixed Bag For Kids Of All Ages</em> harnesses the power of music to promote one-on-one quality time between children and adults.
 
