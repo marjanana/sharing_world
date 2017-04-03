@@ -15,11 +15,11 @@ wp_booklet2_pages:
 <p style="font-size: 11px; text-align: center;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</p>
 <a href="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol.jpg" rel="attachment wp-att-12"><img class="aligncenter size-thumbnail wp-image-12" src="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol-150x150.jpg" alt="Print" width="50" height="50" /></a>
 
-Sharing World Entertainment creates, produces and distributes literacy-based content and technologies. Our multi-talented team of media and education experts believes “it’s better together” when creating imaginative ways for children to experience the joys of reading, learning and human understanding through the power of music.
+Sharing World Entertainment creates, produces and distributes literacy-based content and technologies. Our multi-talented team of media and education experts believe “it’s better together” when creating imaginative ways for children to experience the joys of reading, learning and human understanding through the power of music.
 
 [efaccordion id="01"] [efitems title="mission" text="Sharing World designs and delivers effective, affordable products and teaching methodologies that enhance the literacy, language and social skills of beginner readers, including those with special needs, such as dyslexia and nonverbal or minimally verbal behavior. Our goal is to level the literacy playing field by blending entertainment with education."]
-
-[efitems title="history" text="The company focused on devising ways to increase the confidence and skill sets of beginner readers, especially those from low and moderate-income families.
+<div><!--block--></div>
+[efitems title="history" text="Founded by writer/inventor, Kyle Morris, and music legend, Richie Havens, the company focused on devising ways to increase the confidence and skill sets of beginner readers, especially those from low and moderate-income families.
 
 Shortly after Richie finished recording the <em>Mixed Bag For Kids</em> album in 2010, he became ill and died in 2013. Kyle and the rest of the Sharing World team sustain and honor Richie’s vision of universal literacy by spreading the music of reading to kids of all ages."]
 
