@@ -32,8 +32,6 @@ wp_booklet2_pages:
 
 <img class="aligncenter wp-image-1354 size-full" src="http://www.sharingworld.com/wp-content/uploads/2016/02/amazon.png" width="284" height="105" />
 <p style="text-align: center;"><strong>Make early reading achievement as natural as singing a song together.</strong></p>
-<em>Mixed Bag For Kids Of All Ages</em> harnesses the power of music to promote one-on-one quality time between children and adults.
-<div>Easy family fun engages parents, grandparents, friends and relatives to share songs, lyrics and activities that nurture confidence in beginner readers, 4–8.</div>
-<em>Lyrics 4 Literacy</em>* – a groundbreaking teaching method for parents – helps to build and support a warm emotional environment for mastering early reading skills: word recognition, pronunciation, comprehension, spelling and writing.
-
-&nbsp;
+<p style="text-align: left;"><em>Mixed Bag For Kids Of All Ages</em> harnesses the power of music to promote one-on-one quality time between children and adults.</p>
+<p style="text-align: left;">Easy family fun engages parents, grandparents, friends and relatives to share songs, lyrics and activities that nurture confidence in beginner readers, 4–8.</p>
+<p style="text-align: left;"><em>Lyrics 4 Literacy</em>* – a groundbreaking teaching method for parents – helps to build and support a warm emotional environment for mastering early reading skills: word recognition, pronunciation, comprehension, spelling and writing.</p>
