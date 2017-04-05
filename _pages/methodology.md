@@ -31,7 +31,7 @@ During the flow of video content dialogue, spoken words graphically appear to em
 
 
 <hr />
-<p style="text-align: left;">[video_lightbox_youtube video_id="KyH5JG78F1E&amp;rel=false" width="840" height="680" anchor=" PETE SEEGER'S ENDORSEMENT - Mixed Bag For Kids"]</p>
+<p style="text-align: left;">[video_lightbox_youtube video_id="KyH5JG78F1E&amp;rel=false" width="840" height="680" anchor=" PETE SEEGER'S ENDORSEMENT - Mixed Bag For Kids Song Picture Book"]</p>
 
 
 <hr />
