@@ -40,7 +40,8 @@ $5.95 USD</a><a href="http://www.sharingworld.com/product/the-sing-along-word-wi
 &nbsp;
 
 <hr />
+<p style="text-align: center;">
 
-&nbsp;
-<p style="text-align: center;">[feather_share skin="wheel"]</p>
+</p>
+<p style="text-align: center;">[feather_follow skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
