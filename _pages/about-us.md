@@ -28,5 +28,5 @@ Shortly after Richie finished recording the <em>Mixed Bag For Kids</em> album in
 Lifted by Richie Haven’s inspired voice and sharing spirit, Volumes 1 and 2 of our sing-along, read-along, learn-along Song Picture Books promise to fly out  of rainbows and over the stars, bringing out the best in all of us.
 
 Other Sharing World edutainment products in development include Song Picture Books featuring well-known artists from an array of music genres, enhanced eBooks, TV/Internet programs, apps and video games"][/efaccordion]
-<p style="text-align: center;">[feather_share skin="wheel"]</p>
+<p style="text-align: center;">[feather_follow skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
