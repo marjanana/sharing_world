@@ -45,5 +45,5 @@ During the flow of video content dialogue, spoken words graphically appear to em
 <hr />
 
 &nbsp;
-<p style="text-align: center;">[feather_share skin="wheel"]</p>
+<p style="text-align: center;">[feather_follow skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
