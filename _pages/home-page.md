@@ -30,7 +30,7 @@ wp_booklet2_pages:
 </table>
 <p style="text-align: center;"><strong>
 Make Learning to Read as Natural as Singing a Song Together.</strong></p>
-<p style="text-align: left;"><em>Brett stood tall in the Second Grade Spelling Bee winner’s circle. Proudly    looking on, his mother remembered when he was five years old and they sang “Welcome to My Castle” together. This was the moment she realized that her son had become fast friends with the music of reading. Now, as Brett accepted his award with a grin, she recalled his words:</em> “<em>Mom,</em> <em>reading the songs was</em> <em>fun!”</em></p>
+<p style="text-align: left;"><em>Brett stood tall in the Second Grade Spelling Bee winner’s circle. Proudly looking on, his mother remembered when he was five years old and they sang “Welcome to My Castle” together. This was the moment she realized that her son had become fast friends with the music of reading. Now, as Brett accepted his award with a grin, she recalled his words:</em> “<em>Mom,</em> <em>reading the songs was</em> <em>fun!”</em></p>
 <p style="text-align: left;"><em>Mixed Bag For Kids Of All Ages</em> harnesses the power of music to promote one-on-one quality time between children and adults.</p>
 <p style="text-align: left;">Easy family fun engages parents, grandparents, friends and relatives to share songs, lyrics and activities that nurture confidence in beginner readers, 4–8.</p>
 <p style="text-align: left;"><em>Lyrics 4 Literacy</em>* – a groundbreaking teaching method for parents – helps to build and support a warm emotional environment for mastering early reading skills: word recognition, pronunciation, comprehension, spelling and writing.</p>
