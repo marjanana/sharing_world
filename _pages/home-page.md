@@ -14,6 +14,7 @@ wp_booklet2_pages:
 ---
 <p style="text-align: center;"><span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</span></p>
 [URIS id=219]
+</br>
 <p style="text-align: center;">Book/CD</p>
 <p style="text-align: center;"><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><img class="aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" width="100" height="27" /></a></p>
 <p style="text-align: center;">Book/MP3</p>
@@ -30,6 +31,6 @@ Make Learning to Read as Natural as Singing a Song Together.</strong></p>
 
 
 <div class="shipping">
-  <h2>  FREE SHIPPING on orders over
- $40</h2>
+  <h3>  FREE SHIPPING on orders over
+ $40</h3>
 </div>
