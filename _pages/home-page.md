@@ -31,5 +31,5 @@ Make Learning to Read as Natural as Singing a Song Together.</strong></p>
 
 
 <div class="shippingfree">
-  <h3><i>*FREE SHIPPING on orders over$40*</i></h3>
+  <h3><i>*FREE SHIPPING on orders over $40*</i></h3>
 </div>
