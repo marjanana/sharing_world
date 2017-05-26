@@ -30,6 +30,6 @@ Make Learning to Read as Natural as Singing a Song Together.</strong></p>
 <p style="text-align: left;"><a href="https://www.amazon.com/s/ref=nb_sb_ss_rsis_1_6?url=search-alias%3Daps&amp;field-keywords=mixed+bag+for+kids+richie+havens&amp;sprefix=mixed+%2Caps%2C483"><img class="aligncenter wp-image-1354 size-full" src="http://www.sharingworld.com/wp-content/uploads/2016/02/amazon.png" width="284" height="105" /></a></p>
 
 
-<div class="shipping">
+<div class="shippingfree">
   <h3><i>*FREE SHIPPING on orders over$40*</i></h3>
 </div>
