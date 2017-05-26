@@ -13,7 +13,8 @@ wp_booklet2_pages:
   - null
 ---
 <p style="text-align: center;"><span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</span></p>
-<p style="text-align: left;">[URIS id=219]</p>
+[URIS id=219]
+
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 <p style="text-align: center;"><span style="color: #cc0000;"><strong>Mixed Bag For Kids of All Ages: </strong></span><span style="color: #800080;">Vol. 1 Original Songs</span></p>
 
