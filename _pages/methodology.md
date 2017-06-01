@@ -27,6 +27,10 @@ During the flow of video content dialogue, spoken words graphically appear to em
 <h2>Endorsements</h2>
 
 <hr />
+
+<a href="http://www.sharingworld.com/wp-content/uploads/2017/06/SCAN.pdf" target="_blank">ENDORSEMENT LETTER</a>
+
+<hr />
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" target="_blank">CLASSROOM EVALUATION - Mixed Bag For Kids Song Picture Book</a></p>
 
 
