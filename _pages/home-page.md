@@ -17,8 +17,7 @@ wp_booklet2_pages:
 </br>
 <p style="text-align: center;">Book/CD</p>
 <p style="text-align: center;"><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><img class="aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" width="100" height="27" /></a></p>
-<p style="text-align: center;">Book/MP3</p>
-<p style="text-align: center;"><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><img class="aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" width="100" height="27" /></a></p>
+<p style="text-align: center;"></p>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 <p style="text-align: center;"><span style="color: #cc0000;"><strong>Mixed Bag For Kids of All Ages: </strong></span><span style="color: #800080;">Vol. 1 Original Songs</span></p>
 <p style="text-align: center;"><strong>
@@ -29,7 +28,6 @@ Make Learning to Read as Natural as Singing a Song Together.</strong></p>
 <p style="text-align: left;"><em>Lyrics 4 Literacy</em>* – a groundbreaking teaching method for parents – helps to build and support a warm emotional environment for mastering early reading skills: word recognition, pronunciation, comprehension, spelling and writing.</p>
 <p style="text-align: left;"><a href="https://www.amazon.com/s/ref=nb_sb_ss_rsis_1_6?url=search-alias%3Daps&amp;field-keywords=mixed+bag+for+kids+richie+havens&amp;sprefix=mixed+%2Caps%2C483"><img class="aligncenter wp-image-1354 size-full" src="http://www.sharingworld.com/wp-content/uploads/2016/02/amazon.png" width="284" height="105" /></a></p>
 
-
 <div class="shippingfree">
-  <h3><i>*FREE SHIPPING on orders over $40*</i></h3>
+<h3><i>*FREE SHIPPING on orders over $40*</i></h3>
 </div>
