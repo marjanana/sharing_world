@@ -20,9 +20,7 @@ wp_booklet2_pages:
 <em>Lyrics 4 Literacy* </em>combines age-appropriate music, easy-to-read lyrics, related learning activities, and narrative stories. This holistic, integrated approach to reading with children reinforces word recognition, spelling, pronunciation, comprehension, reading fluency, writing, drawing, dancing and critical thinking – without missing a beat.
 <h2 style="text-align: center;">Enhanced Video Caption Technology:</h2>
 <h2 style="text-align: center;"><em>ReadSpeak Visible Language</em></h2>
-<em>ReadSpeak Visible Language </em>– an innovative caption technology – accelerates the achievement of literacy and language skills.
-
-During the flow of video content dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This “animated special effect” links the simultaneous appearance of graphic words with their equivalent spoken sounds.
+<em>ReadSpeak Visible Language </em>– an innovative caption technology – accelerates the achievement of literacy and language skills. During the flow of video content dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This “animated special effect” links the simultaneous appearance of graphic words with their equivalent spoken sounds.
 
 [embedyt]https://youtu.be/CZMlinp9oZ8[/embedyt]
 <h2>Endorsements</h2>
