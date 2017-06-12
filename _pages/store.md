@@ -1,6 +1,6 @@
 ---
 ID: 1266
-post_title: 'Shop <em>Lyrics 4 Literacy*</em> Book and Visual Language Video Products'
+post_title: 'Shop Lyrics 4 Literacy Song Picture Book &#038; Visual Language video Products'
 author: MandarinTangerine
 post_date: 2017-03-08 02:03:53
 post_excerpt: ""
