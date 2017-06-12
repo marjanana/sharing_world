@@ -14,7 +14,7 @@ wp_booklet2_pages:
 ---
 <p style="text-align: center;"><span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</span></p>
 
-<h2 style="text-align: center;"><strong>Song Picture Book Teaching Method</strong></h2>
+<h2 style="text-align: center;"><strong>Song Picture Book Endorsements</strong></h2>
 <h2 style="text-align: center;"><em>Lyrics 4 Literacy*</em></h2>
 <em>Lyrics 4 Literacy* </em>– a unique method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults, making reading as natural as singing a song together.
 
@@ -23,15 +23,16 @@ wp_booklet2_pages:
 <h2 style="text-align: center;"><em>ReadSpeak Visible Language</em></h2>
 <em>ReadSpeak Visible Language </em>– an innovative caption technology – accelerates the achievement of literacy and language skills. During the flow of video content dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This “animated special effect” links the simultaneous appearance of graphic words with their equivalent spoken sounds.
 
-[embedyt]https://youtu.be/CZMlinp9oZ8[/embedyt]
-<h2>Endorsements</h2>
+<img class="aligncenter size-full wp-image-1429" src="http://www.sharingworld.com/wp-content/uploads/2016/07/merged-methodology-image.png" alt="" width="1700" height="620" />
+<div class="text-center"></div>
+<h2 class="text-center"><strong>Endorsements</strong></h2>
 
 <hr />
 
 <a href="http://www.sharingworld.com/wp-content/uploads/2017/06/SCAN.pdf" target="_blank">ENDORSEMENT LETTER</a>
 
 <hr />
-<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" target="_blank">CLASSROOM EVALUATION - <em>Mixed Bag For Kids</em> Song Picture Book</a></p>
+<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" target="_blank">CLASSROOM EVALUATION - <em>Mixed Bag For Kids Of All Ages</em></a></p>
 
 
 <hr />
@@ -47,7 +48,6 @@ wp_booklet2_pages:
 
 
 <hr />
-
-&nbsp;
+<p style="text-align: left;">ACT PROGRAM at the Cathedral of St. John the Divine –  <em>Word Wizards</em>, <em>The Sing-Along Word Wizard</em> &amp; ReadSpeak Visual Language Evaluation.</p>
 <p style="text-align: center;">[feather_follow skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
