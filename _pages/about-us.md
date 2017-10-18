@@ -12,7 +12,6 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="font-size: 11px; text-align: center;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</p>
 <a href="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol.jpg" rel="attachment wp-att-12"><img class="aligncenter size-thumbnail wp-image-12" src="http://www.sharingworld.com/wp-content/uploads/2016/02/the-sun-symbol-150x150.jpg" alt="Print" width="50" height="50" /></a>
 
 Sharing World Entertainment creates, produces and distributes literacy-based content and technologies. Our multi-talented team of media and education experts believe “it’s better together” when creating imaginative ways for children to experience the joys of reading, learning and human understanding through the power of music.
