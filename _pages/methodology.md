@@ -14,7 +14,6 @@ wp_booklet2_pages:
 ---
 <h2 style="text-align: center;"><strong>Song Picture Book Teaching Innovation</strong></h2>
 <h2 style="text-align: center;"><em>Lyrics 4 Literacy™</em></h2>
-
 Lyrics 4 Literacy™ – an innovative method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults, making reading as natural as singing a song together.
 
 The Lyrics 4 Literacy learning system blends music, easy-to-read lyrics, related activities and narrative stories. This holistic approach to reading <em>with</em> children reinforces spelling, word recognition, pronunciation, comprehension, fluency, writing, drawing, dancing and critical thinking.
@@ -33,7 +32,7 @@ Use of Lyrics 4 Literacy and ReadSpeak Visual Language Captions will also benefi
 <h2 class="text-center"><strong>Song Picture Book Validation</strong></h2>
 
 <hr />
-<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf">CLASSROOM EVALUATION - <em>Mixed Bag For Kids Of All Ages</em> <em>Song Picture Book</em></a></p>
+<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" target="_blank">CLASSROOM EVALUATION - <em>Mixed Bag For Kids Of All Ages</em> <em>Song Picture Book</em></a></p>
 
 <h2></h2>
 <h2><strong>Visual Language Video Endorsements</strong></h2>
@@ -43,10 +42,10 @@ Use of Lyrics 4 Literacy and ReadSpeak Visual Language Captions will also benefi
 
 
 <hr />
-<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/RockvilleCenterPL.pdf">Beneath ROCKVILLE CENTER PUBLIC LIBRARY - <em>Word Wizards</em> &amp; ReadSpeak Visual Language Evaluation</a></p>
+<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/RockvilleCenterPL.pdf" target="_blank">Beneath ROCKVILLE CENTER PUBLIC LIBRARY - <em>Word Wizards</em> &amp; ReadSpeak Visual Language Evaluation</a></p>
 
 
 <hr />
-<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2017/06/SCAN.pdf">ACT PROGRAM AT CATHEDRAL ST. JOHN THE DIVINE –  <em>Word Wizards</em>, <em>The Sing-Along Word Wizard</em> &amp; ReadSpeak Visual Language Evaluation.</a></p>
+<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2017/06/SCAN.pdf" target="_blank">ACT PROGRAM AT CATHEDRAL ST. JOHN THE DIVINE –  <em>Word Wizards</em>, <em>The Sing-Along Word Wizard</em> &amp; ReadSpeak Visual Language Evaluation.</a></p>
 <p style="text-align: center;">[feather_follow skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
