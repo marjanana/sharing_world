@@ -12,7 +12,6 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="font-size: 11px; text-align: center;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</p>
 <a href="http://www.sharingworld.com/cart" target="_blank"><img src="http://image.payloadz.com/images/btn-viewcart-b2.png" alt="" border="0" /></a>
 <table style="margin-bottom: 0;">
 <tbody><!--Mixed bag-->
