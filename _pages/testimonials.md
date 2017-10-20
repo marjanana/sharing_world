@@ -12,7 +12,10 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="text-align: center;">[pdf-embedder url="http://www.sharingworld.com/wp-content/uploads/2017/03/testimonial-file.pdf"]</p>
+<p style="text-align: center;">[pdf-embedder url="/wp-content/uploads/2017/03/Testimonials-1.pdf"]</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
 &nbsp;
 
 &nbsp;
