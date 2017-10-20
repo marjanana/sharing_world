@@ -12,7 +12,6 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="text-align: center;"><span style="font-size: 11px;">*Lyrics 4 Literacy is a Trademark<span style="font-weight: bold;"><sup>TM</sup></span> and Service Mark<span style="font-weight: bold;"><sup>SM</sup></span> of Sharing World Entertainment, LLC</span></p>
 [URIS id=219]
 <p style="text-align: center;">Book/CD</p>
 <p style="text-align: center;"><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><img class="aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" width="100" height="27" /></a></p>
@@ -27,7 +26,6 @@ Make Learning to Read as Natural as Singing a Song Together.</strong></p>
 <p style="text-align: left;">Easy family fun engages everyone in a child's world to share songs and activities. Together they build confidence in beginner readers, ages 4 and older.</p>
 <p style="text-align: left;">The lyrics of Mister Word Wizard's songs extend an open invitation … <em>everyone is welcome</em>!  Parents, grand-parents, brothers and sisters, caregivers and teachers – all can join in the music of reading.</p>
 <p style="text-align: left;">Lyrics 4 Literacy™  – an innovative teaching method – fosters early reading skills. Children learn how to recognize, pronounce and understand words. They also learn to spell, write and play lyrics-filled word games without losing a beat!</p>
-<p style="text-align: left;"></p>
 <p style="text-align: left;"><a href="https://www.amazon.com/s/ref=nb_sb_ss_rsis_1_6?url=search-alias%3Daps&amp;field-keywords=mixed+bag+for+kids+richie+havens&amp;sprefix=mixed+%2Caps%2C483"><img class="aligncenter wp-image-1354 size-full" src="http://www.sharingworld.com/wp-content/uploads/2016/02/amazon.png" width="284" height="105" /></a></p>
 
 <div class="shippingfree">
