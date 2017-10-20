@@ -16,16 +16,24 @@ wp_booklet2_pages:
 
 Sharing World Entertainment creates, produces and distributes literacy-based content and technologies. Our multi-talented team of media and education experts believe “it’s better together” when creating imaginative ways for children to experience the joys of reading, learning and human understanding through the power of music.
 
-[efaccordion id="01"] [efitems title="mission" text="Sharing World designs and delivers effective, affordable products and teaching methodologies that enhance the literacy, language and social skills of beginner readers, including those with special needs, such as dyslexia and nonverbal or minimally verbal behavior. Our goal is to level the literacy playing field by blending entertainment with education."]
+[efaccordion id="01"] [efitems title="mission" text="Sharing World’s goal – provide a tuneful system for teaching lifelong language and social skills to beginner   readers, even those faced with special challenges, like dyslexia and autism.
+
+Powered by the joys of music, blending education with entertainment promises to level the literacy playing field."]
 <div><!--block--></div>
-[efitems title="history" text="Founded by writer/inventor, Kyle Morris, and music legend, Richie Havens, the company focused on devising ways to increase the confidence and skill sets of beginner readers, especially those from low and moderate-income families.
+[efitems title="history" text="Founded by writer/inventor Kyle Morris and music legend Richie Havens (Mister Word Wizard) Sharing World devised ways to increase the confidence and skill sets of early readers, especially children from low and moderate-income families.
 
-Shortly after Richie finished recording the <em>Mixed Bag For Kids</em> album in 2010, he became ill and died in 2013. Kyle and the rest of the Sharing World team sustain and honor Richie’s vision of universal literacy by spreading the music of reading to kids of all ages."]
+Shortly after Richie finished recording the <em>Mixed Bag For Kids </em>album in 2010, he became ill and died in 2013. Kyle and the rest of the Sharing World team sustain and honor Richie’s vision of fully literate world by spreading the music of reading to kids of all ages."]
 
-[efitems title="projects" text="Sharing World Entertainment is currently releasing <em>Mixed Bag For Kids of All Ages,</em> Volume 1/ Original Songs – first in a series of <em>Lyrics 4 Literacy*</em>-enhanced Song Picture Books. We plan to release Volume 2/Cover Songs – Fall, 2017.
+[efitems title="projects" text="<em>Sharing World Entertainment is releasing Mixed Bag For Kids of All Ages, Volume 1/ Original Songs – the first in a series of Lyrics 4 Literacy™ Song Picture Books. The launch of Volume 2/ Cover Songs is scheduled for December 2017.</em>
 
-Lifted by Richie Haven’s inspired voice and sharing spirit, Volumes 1 and 2 of our sing-along, read-along, learn-along Song Picture Books promise to fly out  of rainbows and over the stars, bringing out the best in all of us.
-
-Other Sharing World edutainment products in development include Song Picture Books featuring well-known artists from an array of music genres, enhanced eBooks, TV/Internet programs, apps and video games"][/efaccordion]
+Sharing World “<strong>edutainment</strong>” products* in development:
+<ul>
+ 	<li>Song Picture Books – various music genres.</li>
+ 	<li>Edu-tech-enhanced Song Picture <u>eBooks</u><strong>.</strong></li>
+ 	<li>Companion Television/Internet shows.</li>
+ 	<li>Vocabulary-building video games.</li>
+ 	<li>Language arts embedded apps.</li>
+</ul>
+*All adaptable as ELL (English Language Learning) tools."][/efaccordion]
 <p style="text-align: center;">[feather_follow skin="wheel"]</p>
 <p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
