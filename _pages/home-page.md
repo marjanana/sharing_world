@@ -1,6 +1,8 @@
 ---
 ID: 6
-post_title: New Song Picture Book
+post_title: >
+  HELP YOUR KIDS LEARN TO READ WITH LYRICS
+  4 LITERACY SONG PICTURE BOOKS
 author: pmbenp@earthlink.net
 post_date: 2016-02-15 00:42:31
 post_excerpt: ""
