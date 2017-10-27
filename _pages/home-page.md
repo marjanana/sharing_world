@@ -28,8 +28,8 @@ Make Learning to Read as Natural as Singing a Song Together.</strong></p>
 <p style="text-align: left;">Easy family fun engages everyone in a child's world to share songs and activities. Together they build confidence in beginner readers, ages 4 and older.</p>
 <p style="text-align: left;">The lyrics of Mister Word Wizard's songs extend an open invitation … <em>everyone is welcome</em>!  Parents, grandparents, brothers and sisters, caregivers and teachers – all can join in the music of reading.</p>
 <p style="text-align: left;">Lyrics 4 Literacy™  – an innovative teaching method – fosters early reading skills. Children learn how to recognize, pronounce and understand words. They also learn to spell, write and play lyrics-filled word games without losing a beat!</p>
-<p style="text-align: left;"><a href="https://www.amazon.com/s/ref=nb_sb_ss_rsis_1_6?url=search-alias%3Daps&amp;field-keywords=mixed+bag+for+kids+richie+havens&amp;sprefix=mixed+%2Caps%2C483"><img class="aligncenter wp-image-1354 size-full" src="http://www.sharingworld.com/wp-content/uploads/2016/02/amazon.png" width="284" height="105" /></a></p>
 
+<h3 style="text-align: center;">Also available on AMAZON</h3>
 <div class="shippingfree">
 <h3><i>*FREE SHIPPING on orders over $40*</i></h3>
 </div>
