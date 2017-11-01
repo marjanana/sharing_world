@@ -12,8 +12,8 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<h2 style="text-align: center;"><strong>Song Picture Book Teaching Innovation</strong></h2>
 <h2 style="text-align: center;"><em>Lyrics 4 Literacy™</em></h2>
+<h2 style="text-align: center;"><!--block-->A Song Picture Book Teaching System</h2>
 Lyrics 4 Literacy™ – an innovative method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults, making reading as natural as singing a song together.
 
 The Lyrics 4 Literacy learning system blends music, easy-to-read lyrics, related activities and narrative stories. This holistic approach to reading <em>with</em> children reinforces spelling, word recognition, pronunciation, comprehension, fluency, writing, drawing, dancing and critical thinking.
