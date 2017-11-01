@@ -16,23 +16,47 @@ wp_booklet2_pages:
 <h2 style="text-align: center;"><!--block-->A Song Picture Book Teaching System</h2>
 Lyrics 4 Literacy™ – an innovative method of teaching and learning – harnesses the power of music to promote one-on-one quality time between children and adults, making reading as natural as singing a song together.
 
-The Lyrics 4 Literacy learning system blends music, easy-to-read lyrics, related activities and narrative stories. This holistic approach to reading <em>with</em> children reinforces spelling, word recognition, pronunciation, comprehension, fluency, writing, drawing, dancing and critical thinking.
+By uniquely blending music, lyrics, activities and stories, Lyrics 4 Literacy Song Picture Books offer an engaging approach to reading <em>with</em> children that reinforces word recognition, spelling, pronunciation, comprehension, writing, drawing, dancing and critical thinking without missing a beat
 
-ReadSpeak Visible Language – a breakthrough caption technology – boosts literacy and language skills. During the flow of dialogue in films and videos, graphic spoken words emerge, one at a time, from the actor’s mouth. As viewers simultaneously see and hear each word, the animated images deliver a stereo-sensory, learning experience.
-
-Use of Lyrics 4 Literacy and ReadSpeak Visual Language Captions will also benefit English Language Learners (ELL).
+With the addition of curriculum exercises specific to Spanish, Japanese, etc., Lyrics 4 Literacy Song Picture Books will also be of benefit to English Language Learners (ELL).
 <h2 style="text-align: center;">Enhanced Video Caption Technology:</h2>
 <h2 style="text-align: center;"><em>ReadSpeak Visible Language</em></h2>
-<em>ReadSpeak Visible Language </em>– an innovative caption technology – accelerates the achievement of literacy and language skills. During the flow of video content dialogue, spoken words graphically appear to emerge, one at a time, from the actor’s mouth. The viewer sees and hears each word the instant it is uttered. This “animated special effect” links the simultaneous appearance of graphic words with their equivalent spoken sounds.
+ReadSpeak Visible Language – a breakthrough caption technology – boosts literacy and language skills. During the flow of dialogue in films and videos, graphic spoken words emerge, one at a time, from the actor’s mouth. As viewers simultaneously see and hear each word, the “animated special effect” delivers stereo-sensory learning benefits.
 
 <img class="aligncenter size-full wp-image-1448" src="http://www.sharingworld.com/wp-content/uploads/2016/07/two-images.png" alt="" width="1700" height="640" />
 
 &nbsp;
-<div class="text-center"></div>
-<h2 class="text-center"><strong>Song Picture Book Validation</strong></h2>
+<table style="margin-bottom: 0px; height: 309px;" width="722">
+<tbody>
+<tr style="margin-bottom: 0;">
+<td style="background-color: #fff; border: 0; margin: 0;"><a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-episode-search-for-the-missing-s-word" target="_blank"><span style="color: #cc0000; font-size: 16px;">Word Wizards TV Pilot Episode</span>:</a>
+<span style="color: #800080;">“Search for the Missing ‘S’ Word”</span>
+Video Download - $5.95 USD<a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-episode-search-for-the-missing-s-word">
+</a><a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-episode-search-for-the-missing-s-word"><img class="aligncenter size-thumbnail wp-image-178" src="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-image-150x150.jpg" alt="frontMB" width="150" height="150" /></a><a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-episode-search-for-the-missing-s-word"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></td>
+<td style="background-color: #ffffff; border: 0;"><a href="http://www.sharingworld.com/product/the-sing-along-word-wizard-mother-goose-nursery-rhymes" target="_blank"><span style="color: #cc0000; font-size: 16px;">The Sing-Along Word Wizard:</span></a>
+<span style="color: #800080;">"Mother Goose Nursery Rhymes"</span>
+Video Download - $5.95 USD<a href="http://www.sharingworld.com/product/the-sing-along-word-wizard-mother-goose-nursery-rhymes"><img class="aligncenter size-thumbnail wp-image-71" src="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-150x150.jpg" alt="cd" width="150" height="150" /></a><a href="http://www.sharingworld.com/product/activities-color-with-me-word-games"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></td>
+</tr>
+<tr style="margin-bottom: 0;">
+<td style="background-color: #ffffff; border: 0;"></td>
+<td style="background-color: #ffffff; border: 0; margin: 0;"></td>
+</tr>
+<tr style="margin-bottom: 0;">
+<td style="background-color: #ffffff; border: 0;"></td>
+</tr>
+</tbody>
+</table>
 
 <hr />
-<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" target="_blank">CLASSROOM EVALUATION - <em>Mixed Bag For Kids Of All Ages</em> <em>Song Picture Book</em></a></p>
+<p style="text-align: center;">[feather_follow skin="wheel"]</p>
+<p style="text-align: center;"><a href="mailto:info@sharingworld.com">info@sharingworld.com</a></p>
+
+<h2 class="text-center"></h2>
+<h2 class="text-center"></h2>
+<h2 class="text-center"> <strong>Song Picture Book Validation</strong></h2>
+
+<hr />
+<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" target="_blank">CLASSROOM EVALUATION - Mixed Bag For Kids Of All Ages Song Picture Book</a></p>
 
 <h2></h2>
 <h2><strong>Visual Language Video Endorsements</strong></h2>
