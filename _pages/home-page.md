@@ -1,8 +1,9 @@
 ---
 ID: 6
 post_title: >
-  HELP YOUR KIDS LEARN TO READ WITH LYRICS
-  4 LITERACY SONG PICTURE BOOKS
+  HAVE FUN HELPING KIDS TO READ WITH A
+  SING-ALONG LYRICS 4 LITERACY™ SONG
+  PICTURE BOOK
 author: pmbenp@earthlink.net
 post_date: 2016-02-15 00:42:31
 post_excerpt: ""
