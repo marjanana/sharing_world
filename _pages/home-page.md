@@ -36,3 +36,5 @@ Make Learning to Read as Natural as Singing a Song Together.</strong></p>
 <div class="shippingfree">
 <h3><i>*FREE SHIPPING on orders over $40*</i></h3>
 </div>
+<p style="text-align: center;"><img class="aligncenter wp-image-1479 size-medium" src="http://www.sharingworld.com/wp-content/uploads/2017/03/rock-art-300x278.jpg" width="300" height="278" /></p>
+<p style="text-align: center;">This ancient Native American rock art represents Sharing World’s symbolic I-read-with-kids portal to universal literacy.</p>
