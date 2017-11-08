@@ -12,18 +12,6 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="text-align: center;">[pdf-embedder url="/wp-content/uploads/2017/03/Testimonials-1.pdf"]</p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"></p>
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<p style="text-align: center;">[pdf-embedder url="/wp-content/uploads/2017/03/Testimonials-final01-edited.pdf"]</p>
+<p style="text-align: center;"><img class="aligncenter wp-image-1479 size-medium" src="http://www.sharingworld.com/wp-content/uploads/2017/03/rock-art-300x278.jpg" width="300" height="278" /></p>
+<p style="text-align: center;">This ancient Native American rock art represents Sharing World’s symbolic I-read-with-kids portal to universal literacy.</p>
