@@ -56,12 +56,13 @@ $5.95 USD</a><a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-
 &nbsp;
 
 </div>
+<div></div>
 <div>
 
 <hr />
 
-</div>
-<div>
+<h2 style="text-align: center;"><strong>VIDEO PRODUCT DOWNLOADS</strong></h2>
+<p style="text-align: center;"></p>
 <p style="text-align: center;">[feather_follow skin="wheel"]</p>
 
 </div>
