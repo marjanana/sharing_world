@@ -36,10 +36,10 @@ $4.95 USD</a><a href="http://www.sharingworld.com/product/activities-color-with-
 <span style="color: #800080;">"Original Songs"</span>
 MP3: $6.99 USD   CD: $6.99 + shipping</a><a href="http://www.sharingworld.com/product/volume-1"><img class="aligncenter size-thumbnail wp-image-71" src="http://www.sharingworld.com/wp-content/uploads/2016/03/cd-150x150.jpg" alt="cd" width="150" height="150" /></a><a href="http://www.sharingworld.com/product/volume-1"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></p>
 
+<h2 style="text-align: center;">VIDEO PRODUCT DOWNLOADS</h2>
 
 <hr />
 
-<h2 style="text-align: center;">VIDEO PRODUCT DOWNLOADS</h2>
 <div>
 <table>
 <tbody>
