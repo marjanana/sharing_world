@@ -19,15 +19,16 @@ Lyrics 4 Literacy™ – an innovative method of teaching and learning – harne
 By uniquely blending music, lyrics, activities and stories, Lyrics 4 Literacy Song Picture Books offer an engaging approach to reading <em>with</em> children that reinforces word recognition, spelling, pronunciation, comprehension, writing, drawing, dancing and critical thinking without missing a beat.
 
 With the addition of curriculum exercises specific to Spanish, Japanese, etc., Lyrics 4 Literacy Song Picture Books will also be of benefit to English Language Learners (ELL).
-<h2 style="text-align: center;">Enhanced Video Caption Technology:</h2>
-<h2 style="text-align: center;"><em>ReadSpeak Visible Language</em></h2>
-ReadSpeak Visible Language – a breakthrough caption technology – boosts literacy and language skills. During the flow of dialogue in films and videos, graphic spoken words emerge, one at a time, from the actor’s mouth. As viewers simultaneously see and hear each word, the “animated special effect” delivers stereo-sensory learning benefits.
 <h2 class="text-center"> <strong>Song Picture Book Validation</strong></h2>
 
 <hr />
-<p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" target="_blank">CLASSROOM EVALUATION - <em>Mixed Bag For Kids Of All Ages Song Picture Book</em></a></p>
 
+<a href="http://www.sharingworld.com/wp-content/uploads/2016/03/Classroom-Evaluation.pdf" target="_blank">CLASSROOM EVALUATION - <em>Mixed Bag For Kids Of All Ages Song Picture Book</em></a>
 <h2></h2>
+<h2 style="text-align: center;">Enhanced Video Caption Technology:</h2>
+<h2 style="text-align: center;"><em>ReadSpeak Visible Language</em></h2>
+ReadSpeak Visible Language – a breakthrough caption technology – boosts literacy and language skills. During the flow of dialogue in films and videos, graphic spoken words emerge, one at a time, from the actor’s mouth. As viewers simultaneously see and hear each word, the “animated special effect” delivers stereo-sensory learning benefits.
+<h2 class="text-center"></h2>
 <h2><strong>Visual Language Video Endorsements</strong></h2>
 
 <hr />
@@ -40,7 +41,6 @@ ReadSpeak Visible Language – a breakthrough caption technology – boosts lite
 
 <hr />
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2017/06/SCAN.pdf" target="_blank">ACT PROGRAM AT CATHEDRAL ST. JOHN THE DIVINE –  <em>Word Wizards</em>, <em>The Sing-Along Word Wizard</em> &amp; ReadSpeak Visual Language Evaluation.</a></p>
-<p style="text-align: left;"></p>
 
 <table style="margin-bottom: 0px; height: 309px;" width="722">
 <tbody>
