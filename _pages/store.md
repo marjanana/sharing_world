@@ -22,8 +22,9 @@ wp_booklet2_pages:
 <span style="color: purple;">"Volume 1, Original Songs"</span>
 Book &amp; MP3: $19.95 USD / Book &amp; CD: $25.95 USD + shipping</a><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><img class="aligncenter size-thumbnail wp-image-178" src="http://www.sharingworld.com/wp-content/uploads/2016/03/frontMB-150x150.jpg" alt="frontMB" width="150" height="150" /></a><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></td>
 <!--book color-->
-<td style="background-color: #ffffff; border: 0;"><a href="http://www.sharingworld.com/product/activities-color-with-me-word-games"><span style="color: #cc0000; font-size: 16px;">Mixed Bag For Kids of All Ages:</span>
-<span style="color: #800080;">"Vol. 1 Activities download, plus Color-With-Me Word Games"</span>
+<td style="background-color: #ffffff; border: 0;"><strong>Vol. 1</strong> <strong>Activities Download         </strong>
+<a href="http://www.sharingworld.com/product/activities-color-with-me-word-games"><span style="color: #cc0000; font-size: 16px;">Mixed Bag For Kids of All Ages</span>
+<span style="color: #800080;">"Plus Color-With-Me Word Games"</span>
 $4.95 USD</a><a href="http://www.sharingworld.com/product/activities-color-with-me-word-games"><img class="aligncenter size-thumbnail wp-image-71" src="http://www.sharingworld.com/wp-content/uploads/2017/05/color-book-150x150-1.png" alt="cd" width="150" height="150" /></a><a href="http://www.sharingworld.com/product/activities-color-with-me-word-games"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></td>
 </tr>
 <!--Volume 1-->
