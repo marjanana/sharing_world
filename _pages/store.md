@@ -36,6 +36,10 @@ $4.95 USD</a><a href="http://www.sharingworld.com/product/activities-color-with-
 <span style="color: #800080;">"Original Songs"</span>
 MP3: $6.99 USD   CD: $6.99 + shipping</a><a href="http://www.sharingworld.com/product/volume-1"><img class="aligncenter size-thumbnail wp-image-71" src="http://www.sharingworld.com/wp-content/uploads/2016/03/cd-150x150.jpg" alt="cd" width="150" height="150" /></a><a href="http://www.sharingworld.com/product/volume-1"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></p>
 
+
+<hr />
+
+<h2 style="text-align: center;">VIDEO PRODUCT DOWNLOADS</h2>
 <div>
 <table>
 <tbody>
@@ -50,19 +54,15 @@ $5.95 USD</a><a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-
 </tr>
 </tbody>
 </table>
-</div>
-<div>
-
 &nbsp;
 
 </div>
-<div></div>
 <div>
 
 <hr />
 
-<h2 style="text-align: center;"><strong>VIDEO PRODUCT DOWNLOADS</strong></h2>
-<p style="text-align: center;"></p>
+</div>
+<div>
 <p style="text-align: center;">[feather_follow skin="wheel"]</p>
 
 </div>
