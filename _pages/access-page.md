@@ -14,5 +14,5 @@ wp_booklet2_pages:
 ---
 <p style="text-align: center;">Fill out this form for instant access to our free tips.
 <img class="wp-image-1336 size-thumbnail aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2017/03/sun-petroglyph-1-150x150.png" width="150" height="150" /></p>
-<p style="text-align: center;">This ancient Native American rock art “sunburst” symbolizes Sharing World’s portal to literacy success for kids of all ages.</p>
+<p style="text-align: center;">This ancient Native American rock art represents the unity of the sun, water, and the entire cosmos. It now symbolizes Sharing World’s “I read with kids” portal to universal literacy.</p>
 <p style="text-align: center;">[mc4wp_form id="1223"]</p>
