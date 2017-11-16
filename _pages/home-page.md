@@ -25,14 +25,13 @@ wp_booklet2_pages:
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 <p style="text-align: center;"><span style="color: #cc0000;"><strong>Mixed Bag For Kids of All Ages: </strong></span><span style="color: #800080;">Vol. 1 Original Songs</span><strong>
 Make Learning to Read as Natural as Singing a Song Together.</strong></p>
-<p style="text-align: left;"><em>Brett stood tall in the Second Grade Spelling Bee winner’s circle.  </em></p>
-<em>His mother remembered when he was five and they sang “Welcome to My Castle” together with Mister Word Wizard.</em>
-<p style="text-align: left;"><em>This was the moment she knew that her son had become friends with the music of reading. Now, as Brett accepted his award, she recalled his words:  “Mom, reading the songs was fun!”</em></p>
-<p style="text-align: left;">Sharing World’s <em>Mixed Bag For Kids Of All Ages</em> Song Picture Book harnesses the power of music to promote one-on-one quality time between children and adults.</p>
-<p style="text-align: left;">Easy family fun engages everyone in a child's world to share songs and activities. Together they build confidence in beginning readers, ages 4 and older.</p>
-<p style="text-align: left;">The lyrics of Mister Word Wizard's songs extend an open invitation … <em>everyone is welcome</em>! Parents, grandparents, brothers and sisters, caregivers and teachers – all can join in and sing-along, read-along, learn-along with kids of all ages.</p>
-<p style="text-align: left;">Lyrics 4 Literacy™  – an innovative teaching method – fosters early reading skills. Children learn how to recognize, pronounce and understand words. They also learn to spell, write and play lyrics-filled word games without losing a beat!</p>
+<em>As Brett stood tall in the Second Grade Spelling Bee winner’s circle, his mother remembered when he was five and they sang “Welcome to My Castle” together.</em>
+<p style="text-align: center;"><em>“Mom, reading the songs with you was fun!”</em></p>
+Sharing World’s <em>Mixed Bag For Kids</em> <em>Of All Ages</em> Song Picture Book harnesses the power of music to promote one-on-one quality time between children and adults.
 
+Playful content welcomes everyone in a child’s world to share songs and activities. Together, they forge a lyrical family environment for building confidence in beginning readers, ages 4 and older.
+
+<strong><em>Lyrics 4 Literacy™</em></strong><strong> </strong> – an innovative teaching method – fosters early reading skills. It encourages children to recognize, pronounce and understand words, as well as to spell, write and play word games without losing a beat!
 <h3 style="text-align: center;">Also available on AMAZON</h3>
 <div class="shippingfree">
 <h3><i>*FREE SHIPPING on orders over $40*</i></h3>
