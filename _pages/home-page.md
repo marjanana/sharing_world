@@ -37,4 +37,4 @@ Playful content welcomes everyone in a child’s world to share songs and activi
 <h3><i>*FREE SHIPPING on orders over $40*</i></h3>
 </div>
 <img class="aligncenter wp-image-1336 size-thumbnail" src="http://www.sharingworld.com/wp-content/uploads/2017/03/sun-petroglyph-1-150x150.png" width="150" height="150" />
-<p style="text-align: center;">This ancient Native American rock art represents Sharing World’s symbolic I-read-with-kids portal to universal literacy.</p>
+<p style="text-align: center;">This ancient Native American rock art represents the unity of the sun, water, and the entire cosmos. It now symbolizes Sharing World’s “I read with kids” portal to universal literacy.</p>
