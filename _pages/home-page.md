@@ -15,11 +15,12 @@ wp_booklet2_properties:
 wp_booklet2_pages:
   - null
 ---
-<p style="text-align: center;"><strong>FREE DOWNLOAD...($4.95 value)</strong></p>
-<p style="text-align: center;"><strong>Vol. 1 Activities &amp; Color-with-Me book, </strong></p>
-<p style="text-align: center;"><strong>which allows playdates with multiple kids. </strong></p>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>FREE DOWNLOAD</strong></span>
+<strong>with purchase of book … ($4.95 value)</strong>
+<strong>Activities PLUS Color-with-Me-Word-Games.</strong>
+<strong>Great for playdates!</strong></p>
 [URIS id=219]
-<p style="text-align: center;">Book/CD</p>
+<p style="text-align: center;">Book with Music</p>
 <p style="text-align: center;"><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><img class="aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" width="100" height="27" /></a></p>
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 <p style="text-align: center;"><span style="color: #cc0000;"><strong>Mixed Bag For Kids of All Ages: </strong></span><span style="color: #800080;">Vol. 1 Original Songs</span><strong>
