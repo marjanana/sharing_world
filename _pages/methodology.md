@@ -29,7 +29,7 @@ With the addition of curriculum exercises specific to Spanish, Japanese, etc., L
 <h2 style="text-align: center;"><em>ReadSpeak Visible Language</em></h2>
 ReadSpeak Visible Language – a breakthrough caption technology – boosts literacy and language skills. During the flow of dialogue in films and videos, graphic spoken words emerge, one at a time, from the actor’s mouth. As viewers simultaneously see and hear each word, the “animated special effect” delivers stereo-sensory learning benefits.
 <h2 class="text-center"></h2>
-<h2><strong>Visual Language Video Endorsements</strong></h2>
+<h2><strong>ReadSpeak Visual Language Endorsements</strong></h2>
 
 <hr />
 <p style="text-align: left;"><a href="http://www.sharingworld.com/wp-content/uploads/2016/02/validation_snake_river.pdf" target="_blank">SNAKE RIVER MONTESSORI SCHOOL - <em>Word Wizards</em> &amp; ReadSpeak Visual Language Evaluation</a></p>
@@ -45,11 +45,13 @@ ReadSpeak Visible Language – a breakthrough caption technology – boosts lite
 <table style="margin-bottom: 0px; height: 309px;" width="722">
 <tbody>
 <tr style="margin-bottom: 0;">
-<td style="background-color: #fff; border: 0; margin: 0;"><a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-episode-search-for-the-missing-s-word" target="_blank"><span style="color: #cc0000; font-size: 16px;">Word Wizards TV Pilot Episode</span>:</a>
+<td style="background-color: #ffffff; border: 0px; margin: 0px;"><strong>Video Download</strong>
+<a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-episode-search-for-the-missing-s-word" target="_blank"><span style="color: #cc0000; font-size: 16px;">Word Wizards TV Pilot Episode</span>:</a>
 <span style="color: #800080;">“<em>Search for the Missing ‘S’ Word</em>”</span>
 (Suitable for ages 4 and up)
 <a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-episode-search-for-the-missing-s-word"><img class="aligncenter size-thumbnail wp-image-178" src="http://www.sharingworld.com/wp-content/uploads/2016/02/mb-image-150x150.jpg" alt="frontMB" width="150" height="150" /></a><a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-episode-search-for-the-missing-s-word"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></td>
-<td style="background-color: #ffffff; border: 0;"><a href="http://www.sharingworld.com/product/the-sing-along-word-wizard-mother-goose-nursery-rhymes" target="_blank"><span style="color: #cc0000; font-size: 16px;">The Sing-Along Word Wizard:</span></a>
+<td style="background-color: #ffffff; border: 0;"><strong>Video Download</strong>
+<a href="http://www.sharingworld.com/product/the-sing-along-word-wizard-mother-goose-nursery-rhymes" target="_blank"><span style="color: #cc0000; font-size: 16px;">The Sing-Along Word Wizard:</span></a>
 <span style="color: #800080;">"<em>Mother Goose Nursery Rhymes</em>"</span>
 (Suitable for preschoolers)
 <a href="http://www.sharingworld.com/product/the-sing-along-word-wizard-mother-goose-nursery-rhymes"><img class="aligncenter size-thumbnail wp-image-71" src="http://www.sharingworld.com/wp-content/uploads/2016/02/MG-image-150x150.jpg" alt="cd" width="150" height="150" /></a><a href="http://www.sharingworld.com/product/activities-color-with-me-word-games"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></td>
