@@ -1,7 +1,7 @@
 ---
 ID: 6
 post_title: >
-  HAVE FUN HELPING KIDS TO READ WITH A
+  HAVE FUN HELPING KIDS READ WITH A
   SING-ALONG LYRICS 4 LITERACY™ SONG
   PICTURE BOOK
 author: pmbenp@earthlink.net
