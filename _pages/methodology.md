@@ -19,7 +19,7 @@ Lyrics 4 Literacy™ – an innovative method of teaching and learning – harne
 By uniquely blending music, lyrics, activities and stories, Lyrics 4 Literacy Song Picture Books offer an engaging approach to reading <em>with</em> children that reinforces word recognition, spelling, pronunciation, comprehension, writing, drawing, dancing and critical thinking without missing a beat.
 
 With the addition of curriculum exercises specific to Spanish, Japanese, etc., Lyrics 4 Literacy Song Picture Books will also be of benefit to English Language Learners (ELL).
-<h2 class="text-center"> <strong>Song Picture Book Validation</strong></h2>
+<h2 class="text-center"><strong>Song Picture Book Validation</strong></h2>
 
 <hr />
 
