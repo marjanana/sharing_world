@@ -17,8 +17,8 @@ wp_booklet2_pages:
 ---
 <p style="text-align: center;"><span style="color: #ff0000;"><strong>FREE DOWNLOAD</strong></span>
 <strong>with purchase of book … ($4.95 value)</strong>
-<strong>Activities PLUS Color-with-Me-Word-Games.</strong>
-<strong>Great for playdates!</strong></p>
+<strong>Vol. 1 Activities PLUS Color-with-Me-Word-Games.</strong>
+<strong><!--block-->Allows for multiple users. Great for playdates!</strong></p>
 [URIS id=219]
 <p style="text-align: center;">Book with Music</p>
 <p style="text-align: center;"><a href="http://www.sharingworld.com/product/mixed-bag-for-kids"><img class="aligncenter" src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" width="100" height="27" /></a></p>
