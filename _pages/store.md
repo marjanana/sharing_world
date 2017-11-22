@@ -12,7 +12,7 @@ published: true
 wp_booklet2_properties:
   - 'a:12:{s:5:"width";s:3:"600";s:6:"height";s:3:"400";s:5:"speed";s:4:"1000";s:5:"delay";s:4:"5000";s:9:"direction";s:3:"LTR";s:14:"arrows_enabled";b:0;s:20:"page_numbers_enabled";b:1;s:14:"cover_behavior";s:4:"open";s:7:"padding";s:2:"10";s:18:"thumbnails_enabled";b:0;s:13:"popup_enabled";s:0:"";s:5:"theme";s:7:"default";}'
 wp_booklet2_pages:
-  - null
+  - ""
 ---
 <a href="http://www.sharingworld.com/cart" target="_blank"><img src="http://image.payloadz.com/images/btn-viewcart-b2.png" alt="" border="0" /></a>
 
@@ -36,9 +36,8 @@ $4.95 USD</a><a href="http://www.sharingworld.com/product/activities-color-with-
 <span style="color: #800080;">"Original Songs"</span>
 MP3: $6.99 USD   CD: $6.99 + shipping</a><a href="http://www.sharingworld.com/product/volume-1"><img class="aligncenter size-thumbnail wp-image-71" src="http://www.sharingworld.com/wp-content/uploads/2016/03/cd-150x150.jpg" alt="cd" width="150" height="150" /></a><a href="http://www.sharingworld.com/product/volume-1"><img src="http://www.sharingworld.com/wp-content/uploads/2016/02/add-cart-e1464143165363.png" alt="" /></a></p>
 
-<h2 style="text-align: center;">VIDEO PRODUCT DOWNLOADS</h2>
-
 <hr />
+<h2 style="text-align: center;">VIDEO  DOWNLOADS</h2>
 
 <div>
 <table>
@@ -63,7 +62,7 @@ $5.95 USD</a><a href="http://www.sharingworld.com/product/word-wizards-tv-pilot-
 
 </div>
 <div>
-<p style="text-align: center;">[feather_follow skin="wheel"]</p>
+<p style="text-align: center;"><a href="#"><img src="wp-content/themes/mh_cicero/images/fb-icon.png" alt="facebook" width="48" height="48" /></a><a href="#"><img src="wp-content/themes/mh_cicero/images/ig-icon.png" alt="facebook" width="48" height="48" /></a></p>
 
 </div>
 <div>
