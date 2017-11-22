@@ -25,7 +25,8 @@ wp_booklet2_pages:
 <a class="n" href="http://www.sharingworld.com/wp-content/uploads/2016/02/Welcome-To-My-Caste-sample.mp3">Welcome To My Castle-sample</a>
 <p style="text-align: center;"><span style="color: #cc0000;"><strong>Mixed Bag For Kids of All Ages: </strong></span><span style="color: #800080;">Vol. 1 Original Songs</span><strong>
 Make Learning to Read as Natural as Singing a Song Together.</strong></p>
-<em>As Brett stood tall in the Second Grade Spelling Bee winner’s circle, his mother remembered when he was five and they sang “Welcome to My Castle” together.</em>
+
+<div><!--block--><em>As Steven stood tall in the Spelling Bee winner’s circle, his mother remembered when he was six and they first sang “Welcome to My Castle” together.</em></div>
 <p style="text-align: center;"><em>“Mom, reading the songs with you was fun!”</em></p>
 Sharing World’s <em>Mixed Bag For Kids</em> <em>Of All Ages</em> Song Picture Book harnesses the power of music to promote one-on-one quality time between children and adults.
 
